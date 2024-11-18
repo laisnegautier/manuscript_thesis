@@ -1,0 +1,204 @@
+\pdfobjcompresslevel 0
+\documentclass[a4paper, 12pt, twoside, openright]{report}
+
+%====================== PACKAGES ======================
+% \usepackage{layout}
+\usepackage{amsfonts}
+\usepackage{amsthm}
+\usepackage{float}
+\usepackage[top=1.5cm,bottom=2cm,left=2.5cm,right=2.5cm,includehead]{geometry}
+% \geometry{textwidth=418.25368pt,textheight=591.5302pt}
+\usepackage{tikz-cd}
+\usetikzlibrary{calc}
+\usepackage{circuitikz}
+\usepackage{makecell}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage[english]{babel} % American english
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[]{mdframed}
+% \usepackage{mlmodern}
+% \usepackage[expert]{mathdesign}
+\usepackage{enumitem}
+\usepackage{graphicx}
+\usepackage{multirow}
+\usepackage{commath}
+\usepackage{pst-node}
+\usepackage{mathtools}
+\usepackage{wrapfig}
+\usepackage[colorlinks=true, allcolors=magenta]{hyperref}
+\usepackage{tcolorbox}
+\usepackage{systeme}
+\usepackage[skip=10pt plus1pt, indent=20pt]{parskip}
+\usepackage[font=small,labelfont=bf]{caption}
+\usepackage[backend=biber, style=authoryear, citestyle=authoryear, maxcitenames=2, maxbibnames=10, uniquelist=false, backref=false, url=false, date=year, giveninits]{biblatex}
+
+% SEPARATION BETWEEN BIBLIOGRAPHY ITEMS
+\setlength\bibitemsep{0.5\baselineskip}
+
+\renewcommand*{\finentrypunct}{}
+
+\renewbibmacro*{cite}{%
+  \printtext[bibhyperref]{%
+    \iffieldundef{shorthand}
+      {\ifthenelse{\ifnameundef{labelname}\OR\iffieldundef{labelyear}}
+         {\usebibmacro{cite:label}%
+          \setunit{\printdelim{nonameyeardelim}}}
+         {\printnames{labelname}%
+          \setunit{\printdelim{nameyeardelim}}}%
+       \usebibmacro{cite:labeldate+extradate}}
+      {\usebibmacro{cite:shorthand}}}}
+
+\usepackage{csquotes}
+\usepackage{etoc}
+\usepackage{fancyhdr}
+% \fancyhead[LE]{\textsc{\nouppercase{\newlinetospace{{\leftmark}}\quad\thepage}}}
+\usepackage{setspace}
+\usepackage{mathabx}
+
+\usepackage{rotating}
+
+\usepackage[ruled]{algorithm2e}
+\DontPrintSemicolon
+
+\usepackage{colortbl}
+
+\setcounter{tocdepth}{4}
+\setcounter{secnumdepth}{4}
+
+
+\tcbuselibrary{theorems}
+\newtcbtheorem[number within=section]{theorembox}{Theorem}%
+{colback=green!5,colframe=green!35!black,fonttitle=\bfseries}{th}
+
+\newtcbtheorem[number within=section, use counter from=theorembox]{lemmabox}{Lemma}%
+{colback=blue!5,colframe=blue!35!black,fonttitle=\bfseries}{th}
+
+\newtcbtheorem[number within=section, use counter from=theorembox]{corollarybox}{Corollary}%
+{colback=red!5,colframe=red!35!black,fonttitle=\bfseries}{th}
+
+
+
+\newcommand{\uchapter}[1]{\chapter{#1}
+\addcontentsline{toc}{chapter}{#1}}
+
+\newcommand{\usection}[1]{\section*{#1}
+\addcontentsline{toc}{section}{#1}}
+
+\newcommand{\usubsection}[1]{\subsection*{#1}
+\addcontentsline{toc}{subsection}{#1}}
+
+\newcommand{\usubsubsection}[1]{\subsubsection*{#1}
+\addcontentsline{toc}{subsubsection}{\protect\numberline{}#1}}
+
+\DeclareMathOperator{\im}{im}
+\DeclareMathOperator{\rank}{rank}
+\DeclareMathOperator{\codim}{codim}
+\DeclareMathOperator{\corank}{corank}
+\DeclareMathOperator{\codomain}{codomain}
+\DeclareMathOperator*{\argmin}{arg\,min}
+% Affine space E
+\newcommand{\E}{E} 
+\newcommand{\Ef}{E_f}
+\newcommand{\Etau}{E_{\tau}}
+\newcommand{\Et}{E_t}
+
+\newcommand{\IR}{\mathbb{R}}
+\newcommand{\IRn}{\mathbb{R}^n}
+\newcommand{\IRd}{\mathbb{R}^d}
+\newcommand{\IRm}{\mathbb{R}^m}
+\newcommand{\IRp}{\mathbb{R}^p}
+\newcommand{\IRnm}{\mathbb{R}^{n\times m}}
+\newcommand{\IRmn}{\mathbb{R}^{m\times n}}
+\newcommand{\IRpn}{\mathbb{R}^{p\times n}}
+\newcommand{\IRnp}{\mathbb{R}^{n\times p}}
+\newcommand{\IRpm}{\mathbb{R}^{p\times m}}
+\newcommand{\IRmp}{\mathbb{R}^{m\times p}}
+
+\newcommand{\Cube}{\mathcal{C}}
+\newcommand{\Zono}{\mathcal{Z}}
+\newcommand{\Pol}{\mathcal{P}}
+\newcommand{\Ellipsoid}{\mathcal{E}}
+\newcommand{\Sphere}{\mathcal{S}}
+% \newcommand{\q}{\mathbf{q}}
+
+\newcommand{\orth}[1]{#1^{\bot}}
+
+\newcommand{\WedgeR}{\bigwedge\mathbf{R}}
+% \newcommand{<nom>}[<nb arg>][<option par défaut>]{<code à effectuer>}
+\newcommand{\cvector}[1]{\boldsymbol{\mathrm{#1}}}
+\newcommand{\conv}[1]{\text{conv}(#1)}
+\newcommand{\ext}[1]{\text{ext}(#1)}
+
+\theoremstyle{definition}
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{corollary}{Corollary}[theorem]
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem*{remark}{Remark}
+\newtheorem*{example}{Example}
+\newtheorem*{application}{Application}
+
+\newtheorem{definition}{Definition}[section]
+\newtheorem{notation}{Notation}[section]
+\newtheorem{properties}{Properties}[section]
+\newtheorem{proposition}{Proposition}[section]
+\newtheorem{hypothesis}{Hypothesis}[section]
+
+
+\setlength{\headheight}{14.5pt}
+
+\fancypagestyle{fancy}{
+    \fancyhf{}
+    \renewcommand{\headrulewidth}{0.1pt}
+    % \setlength{\headheight}{22pt} 
+    % \fancyhead[RO]{\textsc{\nouppercase{{\leftmark}\quad\thepage}}}
+    \fancyhead[R]{\textsc{\nouppercase{\thepage}}}
+    \fancyhead[L]{\textsc{\nouppercase{\leftmark}}}
+
+}
+\fancypagestyle{plain}{
+    \fancyhf{}
+    \renewcommand{\headrulewidth}{0pt}
+    % \fancyhead{}\fancyfoot{}\fancyhead[R]{\thepage}
+    % \fancyhead[R]{\thepage}
+    \fancyhead[RO]{\thepage}
+    \fancyhead[LE]{\thepage}
+    % \fancyhead[L]{\leftmark}
+}
+
+% \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+% \renewcommand{\sectionmark}[1]{\markright{#1}}
+
+\addbibresource{bibliographie.bib}
+\renewcommand*{\nameyeardelim}{\addcomma\space}
+
+\begin{document}
+
+\input{./chapters/page_de_garde.tex}
+
+\pagestyle{plain}
+\pagenumbering{roman}
+\setcounter{page}{1}
+\newgeometry{top=1.5cm,bottom=2cm,left=3cm,right=2cm,includehead}
+\input{./chapters/abstract.tex}
+
+\renewcommand{\contentsname}{Table of Contents}
+\begingroup
+\hypersetup{linkcolor=black}
+\tableofcontents
+\endgroup
+
+\input{./chapters/introduction.tex}
+\input{./chapters/chapter_1.tex}
+\input{./chapters/chapter_2.tex}
+\input{./chapters/chapter_3.tex}
+\input{./chapters/chapter_4.tex}
+\input{./chapters/chapter_5.tex}
+\input{./chapters/conclusion.tex}
+
+\printbibliography[heading=bibintoc]
+
+\restoregeometry
+
+\end{document}

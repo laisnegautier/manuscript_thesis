@@ -1,0 +1,90 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{Introduction}{1}{chapter*.5}%
+\contentsline {section}{Shared force exertion}{2}{section*.6}%
+\contentsline {section}{Maximal isometric forces: is a set-theoretic approach suitable?}{4}{section*.7}%
+\contentsline {section}{Thesis overview}{5}{section*.11}%
+\contentsline {section}{List of publications}{8}{section*.12}%
+\contentsline {section}{Notations}{8}{section*.13}%
+\contentsline {chapter}{\numberline {1}Force feasible set modeling}{11}{chapter.1}%
+\contentsline {section}{Introduction}{11}{section*.14}%
+\contentsline {section}{\numberline {1.1}Musculoskeletal modeling and in silico force feasible sets}{12}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Musculoskeletal models}{12}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Force feasible sets formalism}{16}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}Force feasible sets computation}{22}{subsection.1.1.3}%
+\contentsline {subsection}{\numberline {1.1.4}Conclusion}{26}{subsection.1.1.4}%
+\contentsline {section}{\numberline {1.2}Modeling force feasible sets via maximal isometric force measurements}{27}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}\emph {In vivo} measurements of force feasible sets in the human upper-limb}{28}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Comparison between \emph {in silico} and \emph {in vivo} force feasible sets}{33}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Conclusion}{38}{subsection.1.2.3}%
+\contentsline {section}{\numberline {1.3}General conclusion}{39}{section.1.3}%
+\contentsline {chapter}{\numberline {2}New efficient edge-based zonotope vertex enumeration}{41}{chapter.2}%
+\contentsline {section}{Introduction}{41}{section*.51}%
+\contentsline {section}{\numberline {2.1}The edge enumeration algorithm}{45}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Theoretical complexity}{51}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Time complexity}{52}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Space complexity}{56}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Time-theoretic comparison with other algorithms}{57}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}Time benchmarks}{61}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Benchmark results}{61}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Parallelization of EdgeEnum}{62}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Conclusion on practical time computation}{62}{subsection.2.3.3}%
+\contentsline {section}{\numberline {2.4}Approximation of the vertex set}{63}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Conclusion}{66}{section.2.5}%
+\contentsline {chapter}{\numberline {3}A unified model of the tension feasible set}{71}{chapter.3}%
+\contentsline {section}{Introduction}{71}{section*.100}%
+\contentsline {section}{\numberline {3.1}The theory of Banach spaces}{75}{section.3.1}%
+\contentsline {section}{\numberline {3.2}The ellipsoidal shape of the force feasible set}{79}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}The Local Theory of Banach spaces}{82}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Rewritting the force feasible set geometric construction}{85}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Construction of the ellipsoidal approximation of force feasible sets}{88}{subsection.3.2.3}%
+\contentsline {section}{\numberline {3.3}Accounting for the projected volume problem}{91}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Projection of unit \emph {p}-balls}{91}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Leveraging the projected volume via the projection constant}{94}{subsection.3.3.2}%
+\contentsline {section}{\numberline {3.4}Quantifying the impact of muscle geometry on maximum joint torque generation}{97}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Conclusion}{100}{section.3.5}%
+\contentsline {chapter}{\numberline {4}In silico musculoskeletal model muscle personalization}{103}{chapter.4}%
+\contentsline {section}{Introduction}{103}{section*.129}%
+\contentsline {section}{\numberline {4.1}Musculoskeletal model muscle personalization based on force feasible sets}{104}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Generic upper limb musculoskeletal model}{104}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Muscle personalization through an optimization approach}{108}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Comparing force feasible sets}{111}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}Handling high-dimensionality, non-differentiability and non-convexity in optimization problems}{116}{subsection.4.1.4}%
+\contentsline {subsection}{\numberline {4.1.5}Assessing the accuracy of fitted personalized musculoskeletal models}{121}{subsection.4.1.5}%
+\contentsline {section}{\numberline {4.2}Muscle parameters sensitivity via force polytopes}{122}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Hyperparameters optimization}{122}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Validation postures}{130}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Experimental testbed}{131}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Results}{134}{subsection.4.2.4}%
+\contentsline {subsection}{\numberline {4.2.5}Summary}{148}{subsection.4.2.5}%
+\contentsline {section}{\numberline {4.3}Muscle parameters sensitivity via ellipsoidal approximation of force feasible sets}{150}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Fitting postures}{150}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Validation postures}{152}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Experimental testbed}{154}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}Results}{155}{subsection.4.3.4}%
+\contentsline {subsection}{\numberline {4.3.5}Summary}{165}{subsection.4.3.5}%
+\contentsline {section}{\numberline {4.4}Conclusion and discussion}{166}{section.4.4}%
+\contentsline {chapter}{\numberline {5}Towards an ellipsoidal characterization of in vivo upper-limb force feasible sets}{169}{chapter.5}%
+\contentsline {section}{Introduction}{169}{section*.246}%
+\contentsline {section}{\numberline {5.1}Design of an adaptable experimental platform for MVIC}{170}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Isolation of forces exerted by upper-limb muscles}{170}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Anthropometric variability and hand location}{171}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}Force directions and real-time visual force feedback}{172}{subsection.5.1.3}%
+\contentsline {subsection}{\numberline {5.1.4}Accounting for factors influencing a MVIC}{173}{subsection.5.1.4}%
+\contentsline {subsection}{\numberline {5.1.5}Upper-limb postures of reference}{174}{subsection.5.1.5}%
+\contentsline {subsection}{\numberline {5.1.6}Proprioceptive placement of the upper limb}{175}{subsection.5.1.6}%
+\contentsline {subsection}{\numberline {5.1.7}Experimental Protocol}{175}{subsection.5.1.7}%
+\contentsline {subsection}{\numberline {5.1.8}Ethical validation}{178}{subsection.5.1.8}%
+\contentsline {section}{\numberline {5.2}Posture stability}{178}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Assessing the ellipsoidal characterization of in vivo force feasible set}{182}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Representing the underlying structure of in vivo force feasible sets}{182}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Quantifying the relevance of in silico ellipsoidal force feasible sets}{186}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}Results}{188}{subsection.5.3.3}%
+\contentsline {subsection}{\numberline {5.3.4}Conclusion and discussion}{192}{subsection.5.3.4}%
+\contentsline {section}{\numberline {5.4}Conclusion}{194}{section.5.4}%
+\contentsline {chapter}{Conclusion}{197}{chapter*.273}%
+\contentsline {section}{Thesis contributions}{198}{section*.274}%
+\contentsline {section}{Perspectives}{199}{section*.275}%
+\contentsline {subsection}{Improving the force feasible set framework}{199}{section*.276}%
+\contentsline {subsection}{Broader perspectives and applications}{201}{section*.281}%
+\contentsline {chapter}{Bibliography}{203}{chapter*.285}%
