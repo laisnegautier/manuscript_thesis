@@ -1,4 +1,42 @@
 \begin{center}
+    \textbf{Acknowledgements}
+\end{center}
+La thèse, c'est chaud.
+
+Au jury,
+
+Merci à mes directeurs de thèse : Jean-Mars Salotti, dont ses questionnements m'ont remis en question au point que je ne comprenais plus ce que je disais moi-même, et à Nasser Rezzoug, qui m'a écouté avec une oreille attentive qui m'a impressionné du début à la fin. Bien qu'avec des modes de fonctionnements différents, je trouve que ce triplet était à la fois stimulant et accueillant.
+
+A mes stagiaires marquants : c'était trop cool de travailler avec vous ! Valentine et Clara.
+Cher Pierre, ou cher rayon de soleil devrai-je dire, tu as illuminé nos journées à chaque fois que tu étais présent, et quand tu es parti, il n'y avait que désolation, désespoir, et des articles à écrire.
+
+Aux membres d'AUCTUS : commençons par David. David, David, David. Je ne te l'ai jamais dit mais non, je ne vois pas ce que tu veux dire. Je te remercie de m'avoir convaincu de rester discuter maths après ma journée pendant des heures, alors que j'avais vraiment autre chose de prévu. Vincent, quand je rigole lorsque tu fais des contrepétries, en fait je ne sais pas pourquoi je rigole - ce n'est pas de ma génération, désolé. Lucas ! Je te remercie de m'avoir sorti à de multiples reprises de mon état de torpeur mathématiques en me racontant des anecdotes sur ta vie de famille, me rappelant - de manière nécéssaire - que le travail se termine à une heure raisonnable. Margot, ta bonne humeur quotidienne a apporté, avec certitude, une bien meilleure. Elio, "phrase à écrire avec chatgpt sur le fait qu'il faut tenir bon". Ahmed, je pense qu'au final $\det{M} = 0$, pour $M$ une matrice avec un nombre infini de valeurs singulières. Mais c'est sûrement faux car je comprends rien à ton sujet en fait. Fais-toi confiance ! 
+
+Loic,
+
+Cher Antun, le S, le vrai, 
+
+Cher Nicolas, la N, la vraie, 
+
+
+Maintenant, je voudrai remercier les 3 plus gros chiens de la casse que j'ai pu rencontrer dans ma vie : Erwannichon, El Camblor et Alex6.
+
+
+Mes amis : Suzanne, Ella, Pauline et Eulalie, les 4 femmes de ma vie qui m'ont marqué.
+
+Merci aux Ombres, Émile et Benoît
+
+Ma famille : les soeurs, mon père et ma mère et mon ptit frère
+Mais également à Angèle, qui m'a permi de prendre l'air et à Edouard pour m'avoir accueilli à bras ouverts dans une période compliquée
+Merci à tous les gens de ma famille qui m'ont soutenu de près comme de loin, Manuela, Calypso, Régis et mamie Annette.
+Par contre mamie Marinette tu abuses quand même.
+
+Merci à mon amour, Sébastien, pour m'avoir écouté parler de polytopes pendant des heures alors qu'on était censé être en vacances à se reposer. Merci de m'avoir demandé 3000 fois "ça avance comme tu veux ?" alors que je te répondais à chaque fois "non.". Mais aujourd'hui je te réponds "oui" ! On va enfin pouvoir profiter d'une vie de couple dans laquelle je ne pense plus à un $n$-cube à table, sous la douche, en faisant du piano, ou en passant le balai.
+
+Et enfin, merci à Pamplemousse, ma chatte ingratte qui devrait apprendre à arrêter de gratter sa litière quand je suis en visio.
+
+\clearpage
+\begin{center}
     \textbf{Upper-limb force feasible set:}\\ 
     \textbf{theoretical foundations and musculoskeletal model reconstruction}
 \end{center}
@@ -7,7 +45,7 @@
 
 In physical Human-Robot Interaction, where robots and humans collaborate on shared tasks through physical contact, such as between the robot's end effector and the human's hand, human safety is a primary concern. This necessitates that the collaborative system inherently consider human characteristics to provide appropriate and safe robotic assistance. To achieve this, it is necessary to evaluate the capabilities of the human upper-limb. In biomechanics, these capabilities are defined through force feasible sets at the hand, which represent all the forces a human operator can exert in a given posture. These three-dimensional sets are influenced by individual factors such as anthropometry and muscle strength and the surface of these sets represents the maximum force capabilities of the human upper-limb in all directions. Therefore, force feasible sets are an invaluable tool for guiding robotic assistance, ensuring it respects biomechanical constraints by remaining within the human's exertable force limits.
 
-Force feasible sets are challenging to measure directly but can be partially represented in isometric conditions by measuring maximum exerted forces. Musculoskeletal models, which mathematically represent the human skeleton, joints, and muscles, allow for in silico representation of force feasible sets in various postures through geometric operations (Minkowski sum, projection, intersection) on convex sets. However, these operations are computationally expensive. This thesis first focuses on a novel approach to reduce the computational time of one of the most demanding tasks within this framework.
+Force feasible sets are challenging to measure directly but can be partially represented in isometric conditions by measuring maximum exerted forces. Musculoskeletal models, which mathematically represent the human skeleton, joints, and muscles, allow for \emph{in silico} representation of force feasible sets in various postures through geometric operations (Minkowski sum, projection, intersection) on convex sets. However, these operations are computationally expensive. This thesis first focuses on a novel approach to reduce the computational time of one of the most demanding tasks within this framework.
 
 Furthermore, existing \emph{in silico} models often employ various geometric assumptions about how muscle tensions contribute to joint torques, leading to different characterizations of force feasible sets' shapes, including 3D polytopes and ellipsoids. This thesis proposes a unified framework to represent force feasible sets that explicitly incorporates these geometric assumptions. This framework addresses the limitations of current numerical simulations, which struggle to analyze complex scenarios involving more detailed representation of musculoskeletal models and inherently higher computational costs.
 
