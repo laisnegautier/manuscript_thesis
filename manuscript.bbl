@@ -55,7 +55,7 @@
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The objective of the present study was to determine the instantaneous moment arms of 18 major muscle sub-regions crossing the glenohumeral joint during coronal-plane abduction and sagittal-plane flexion. Muscle moment-arm data for sub-regions of the shoulder musculature during humeral elevation are currently not available. The tendon-excursion method was used to measure instantaneous muscle moment arms in eight entire upper-extremity cadaver specimens. Significant differences in moment arms were reported across sub-regions of the deltoid, pectoralis major, latissimus dorsi, subscapularis, infraspinatus and supraspinatus (P {$<$} 0.01). The most effective abductors were the middle and anterior deltoid, whereas the most effective adductors were the teres major, middle and inferior latissimus dorsi (lumbar vertebrae and iliac crest fibers, respectively), and middle and inferior pectoralis major (sternal and lower-costal fibers, respectively). In flexion, the superior pectoralis major (clavicular fibers), anterior and posterior supraspinatus, and anterior deltoid were the most effective flexors, whereas the teres major and posterior deltoid had the largest extensor moment arms. Division of multi-pennate shoulder muscles of broad origins into sub-regions highlighted distinct functional differences across those sub-regions. Most significantly, we found that the superior sub-region of the pectoralis major had the capacity to exert substantial torque in flexion, whereas the middle and inferior sub-regions tended to behave as a stabilizer and extensor, respectively. Knowledge of moment arm differences between muscle sub-regions may assist in identifying the functional effects of muscle sub-region tears, assist surgeons in planning tendon reconstructive surgery, and aid in the development and validation of biomechanical computer models used in implant design.}
@@ -95,7 +95,7 @@
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{english}
@@ -139,7 +139,7 @@
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-1-4704-2193-9 978-1-4704-2345-2}
@@ -208,7 +208,7 @@
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The field of humanoid robotics stands at the precipice of a paradigm shift, driven by the integration of biomechanics-inspired control strategies. This paper delineates the development and implementation of control mechanisms in humanoid robots, aiming to emulate human motion and interaction with unstructured environments. By assimilating principles of biomechanics, including joint dynamics, balance, and gait patterns, a novel control architecture is proposed. The architecture employs predictive modeling and adaptive feedback loops, facilitating real-time adjustments akin to human reflexive responses. Key contributions include the synchronization of sensory inputs with motor actions to achieve dynamic stability and fluidity in locomotion, even under uncertain conditions. Experiments conducted demonstrate significant enhancements in the robots' adaptability, efficiency in energy usage, and proficiency in executing complex tasks. Through rigorous testing, humanoid robots exhibit unprecedented levels of dexterity and robustness, marking a milestone in their evolution. The fusion of biomechanical models with advanced robotics not only propels the capabilities of humanoid robots but also enriches the understanding of human motor control, offering potential applications in prosthetics and rehabilitation. This research signifies a step towards more anthropomorphic robots capable of seamlessly integrating into human-centric environments.}
@@ -256,7 +256,7 @@
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Discrete Computational Geometry}
@@ -301,7 +301,7 @@
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The convex hull of a set of points is the smallest convex set that contains the points. This article presents a practical convex hull algorithm that combines the two-dimensional Quickhull algorithm with the general-dimension Beneath-Beyond Algorithm. It is similar to the randomized, incremental algorithms for convex hull and delaunay triangulation. We provide empirical evidence that the algorithm runs faster when the input contains nonextreme points and that it used less memory. computational geometry algorithms have traditionally assumed that input sets are well behaved. When an algorithm is implemented with floating-point arithmetic, this assumption can lead to serous errors. We briefly describe a solution to this problem when computing the convex hull in two, three, or four dimensions. The output is a set of ``thick'' facets that contain all possible exact convex hulls of the input. A variation is effective in five or more dimensions.}
@@ -343,7 +343,7 @@
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In this paper, we present a general and systematic analysis of cable-driven planar parallel mechanisms. The equations for the velocities are derived, and the forces in the cables are obtained by the principle of virtual work. Then, a detailed analysis of the workspace is performed and an analytical method for the determination of the boundaries of an x-y two-dimensional subset is proposed. The new notion of dynamic workspace is defined, as its shape depends on the accelerations of the end-effector. We demonstrate that any subset of the workspace can be considered as a combination of three-cable subworkspaces, with boundaries being of two kinds: two-cable equilibrium loci and three-cable singularity loci. By using a parametric representation, we see that for the x-y workspace of a simple no-spring mechanism, the two-cable equilibrium loci represent a hyperbolic section, degenerating, in some particular cases, to one or two linear segments. Examples of such loci are presented. We use quadratic programming to choose which sections of the curves constitute the boundaries of the workspace for any particular dynamic state. A detailed example of workspace determination is included for a six-cable mechanism.}
@@ -385,7 +385,7 @@
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{We present a polynomial time algorithm to compute any fixed number of the highest coefficients of the Ehrhart quasi-polynomial of a rational simplex. Previously such algorithms were known for integer simplices and for rational polytopes of a fixed dimension. The algorithm is based on the formula relating the kth coefficient of the Ehrhart quasi-polynomial of a rational polytope to volumes of sections of the polytope by affine lattice subspaces parallel to k-dimensional faces of the polytope. We discuss possible extensions and open questions.}
@@ -448,7 +448,7 @@
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Musculoskeletal modeling represents a valuable tool to noninvasively investigate the relationship between body motion and internal biomechanical loads in a wide range of physiological and pathological conditions. This chapter presents a detailed overview of the theoretical and practical aspects of this modeling technique, specifically focusing on the characterization of the human spine. The panorama of available modeling software is reported as well. Furthermore, the chapter provides a review of the scientific works that exploited the musculoskeletal modeling approach to characterize the human spine and to investigate the biomechanical loads in physiological conditions and pathological scenarios.}
@@ -555,7 +555,7 @@
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{The future robotics will be more and more closer to human in many applications such as in a future manufacturing, human rehabilitation, sport training and physical assistance, or medical and robotized surgery. Also, a domain of object co-manipulation jointly by human and robot is a very interesting and promising way of research. All these lead necessarily to a physical Human-Robot Interaction (commonly called pHRI) which brings new issues and challenges. Therefore, the classical approaches of robotic are not anymore suitable. The objective of this special issue is to collect articles that report the most recent accomplishments and results in the area of physical human-robot interaction and human-robot co-manipulation of objects.}
@@ -657,7 +657,7 @@
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Robots designed to share an environment with humans, such as e.g. in domestic or entertainment applications or in cooperative material-handling tasks, must fulfill different requirements from those typically met in industry. It is often the case, for instance, that accuracy requirements are less demanding. On the other hand, concerns of paramount importance are safety and dependability of the robot system. According to such difference in requirements, it can be expected that usage of conventional industrial arms for anthropic environments will be far from optimal. An approach to increase the safety level of robot arms interacting with humans consists in the introduction of compliance at the mechanical design level. In this paper we discuss the problem of achieving good performances in accuracy and promptness with a robot manipulator under the condition that safety is guaranteed throughout whole task execution. Intuitively, while a rigid and powerful structure of the arm would favor its performance, lightweight compliant structures are more suitable for safe operation. The quantitative analysis of the resulting design trade-off between safety and performance has a strong impact on how robot mechanisms and controllers should be designed for human- interactive applications. We discuss few different possible concepts for safely actuating joints, and focus on aspects related to the implementation of the mechanics and control of this new class of robots.}
@@ -694,7 +694,7 @@
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{10 studies that included comparisons of dominant and nondominant grip strength are summarized. Grip strength is typically greater on the dominant than on the nondominant side, but the difference between sides varies widely among studies and depends on whether individuals are right- or left-hand dominant. Available information may be insufficient to justify using between-side comparisons to make judgments about grip-strength impairments.}
@@ -747,7 +747,7 @@
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This paper presents a method for analytically generating the boundaries of the wrench-feasible workspace (WFW) for cable robots. This method uses the available net wrench set, which is the set of all wrenches that a cable robot can apply to its surroundings without violating tension limits in the cables. The geometric properties of this set permit calculation of the boundaries of the WFW for planar, spatial, and point-mass cable robots. Complete analytical expressions for the WFW boundaries are detailed for a planar cable robot and a spatial point-mass cable robot. The analytically determined boundaries are verified by comparison with numerical results. Based on this, several workspace properties are shown for point-mass cable robots. Finally, it is shown how this workspace-generation approach can be used to analytically formulate other workspaces}
@@ -789,7 +789,7 @@
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-3-540-34034-8}
@@ -839,7 +839,7 @@
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1025-5842, 1476-8259}
@@ -881,7 +881,7 @@
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{french}
@@ -910,7 +910,7 @@
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0009-725X}
@@ -1067,7 +1067,7 @@
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Praise for previous editions of Occupational Biomechanics "This book is a valuable resource for any advanced ergonomist interested in physical ergonomics . . . provides valuable research information." -Ergonomics in Design "[This book] represents a distillation of the authors' combined years of experience in applying biomechanicsin various industries and work situations . . . I recommend this book to anyone, regardless of discipline, who is interested in understanding the many biomechanical factors which must be considered when trying to effectthe prevention and reduction of musculoskeletal injuries in the workplace." -Journal of Biomechanics "Impressive descriptions of biomechanical concepts and worksite considerations . . . based not only on mechanical and mathematical principles, but on solid anatomical and physiologic constructs . . . a very valuablereference source." -Research Communications in Chemical Pathology and Pharmacology THE DEFINITIVE TEXT ON DESIGNING FOR THE DEMANDS OF TODAY'S WORKPLACE With critical applications in manufacturing, transportation, defense, security, environmental safety and occupational health, and other industries, the field of occupational biomechanics is more central to industrial design than ever before. This latest edition of the popular and widely adopted Occupational Biomechanics provides the foundations and tools to assemble and evaluate biomechanical processes as they apply to today's changing industries, with emphasis on improving overall work efficiency and preventing work-related injuries. The book expertly weaves engineering and medical information from diverse sources and provides a coherent treatment of the biomechanical principles underlying the well-designed and ergonomically sound workplace. NEW TO THIS THOROUGHLY REVISED AND UPDATED FOURTH EDITION: * 150 new references and many new illustrations * Major changes within each chapter that reflect recent and significant findings * Recent research in musculoskeletal disorders * New measurement techniques for biomechanical parameters and numerous international initiatives on the subject Presented in an easy-to-understand manner and supported by over 200 illustrations and numerous examples, Occupational Biomechanics, Fourth Edition remains the premier one-stop reference for students and professionals in the areas of industrial engineering, product and process design, medicine, and occupational health and safety.}
@@ -1102,7 +1102,7 @@
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Proceedings of the American Mathematical Society}
@@ -1194,7 +1194,7 @@
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Currently, contrasting views exist regarding which body and arm postures are most effective for eliciting maximal voluntary exertions in the shoulder muscles. Informed exertion standardization may improve comparisons between subjects and muscle groups for normalized electromyography values. Additionally, identifying exertions that can produce equivalent maximal electrical activity values can reduce experimental setup time and reduce the likelihood of fatigue development. This research study examined twelve posture and force direction defined test exertions to identify those that elicited maximal electrical activity from the deltoid (anterior and middle fibres) and pectoralis major (clavicular and sternal heads). Further, the question of whether a single test exertion could obtain maximal electrical activity from multiple muscle fascicles was explored. Maximal activation was demonstrated for the deltoid during several exertions that incorporated an upward force exertion and the pectoralis major for multiple exertions that included an inward force direction. Finally, two test exertions produced maximal electrical activity from both muscles of interest. This research supports the notion that a range of exertions can elicit maximal electrical activity from a muscle, rather than one specific exertion. This suggests that researchers may be able to leverage a smaller set of test exertions to evaluate multiple muscles simultaneously without loss of data quality, and thereby decrease overall experimental data collection time while maintaining high fidelity data.}
@@ -1313,7 +1313,7 @@
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Abstract. A ``cobot'' is a robotic device which manipulates objects in collaboration with a human operator. A cobot provides assistance to the human operator by setting up virtual surfaces which can be used to constrain and guide motion. While conventional servo-actuated haptic displays may be used in this way also, an important distinction is that, while haptic displays are active devices which can supply energy to the human operator, cobots are intrinsically passive. This is because cobots do not use servos to implement constraint, but instead employ ``steerable'' nonholonomic joints. As a consequence of their passivity, cobots are potentially well-suited to safety-critical tasks (e.g. surgery) or those which involve large interaction forces (e.g. automobile assembly). This paper focuses on the simplest possible cobot, which has only a single joint (a steerable wheel). Two control modes of this ``unicycle cobot'', termed ``virtual caster'' and ``virtual wall'' control, are developed in detail. Experimental results are also presented.}
@@ -1357,7 +1357,7 @@
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{We studied normal hand strength and the difference between dominant and nondominant hands. Two hundred fourteen volunteers were tested with a calibrated jamar dynamometer at all five levels. A pinch gauge was used to assess key and pulp pinch. Height, weight, sex, hand dominance, and hobby demands were predictive of maximum grip. Mean maximum grip for women was 81 lb. and for men was 137 lb. Key pinch averaged 22\%, while pulp pinch averaged 16\% of maximum grip. Only 129 (60\%) patients had maximum strengths at level 2. The majority of right-handed subjects were 10\% stronger in grip strength on the dominant side. In left-handed subjects, mean grip was the same for both hands; the nondominant hand was stronger in 50\% of left-handed subjects.}
@@ -1400,7 +1400,7 @@
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Fourier-Motzkin elimination is a classical method for solving linear inequalities in which one variable is eliminated in each iteration. This method is considered here as a matrix operation and properties of this operation are established. In particular, the focus is on situations where this matrix operation preserves combinatorial matrices (defined here as (0, 1, -1)-matrices).}
@@ -1464,7 +1464,7 @@
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1569190X}
@@ -1506,7 +1506,7 @@
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{BACKGROUND: This review provides an overview of the range of methods that have been developed for the assessment of exposure to risk factors for work-related musculoskeletal disorders. METHODS: Relevant publications and material on exposure assessment techniques have been gathered for inclusion in this review. RESULTS: The methods have been categorized under three main headings: (1) self-reports from workers can be used to collect data on workplace exposure to both physical and psychosocial factors by using methods that include worker diaries, interviews and questionnaires; (2) observational methods that may be further subdivided between (a) simpler techniques developed for systematically recording workplace exposure that enable an observer to assess and record data on a number of factors using specifically designed pro-forma sheets for establishing priorities for workplace intervention; and (b) advanced techniques developed for the assessment of postural variation for highly dynamic activities that record data either on videotape or are computer analysed using dedicated software; (3) direct measurements using monitoring instruments that rely on sensors attached directly to the subject for the measurement of exposure variables at work. CONCLUSIONS: The choice between the methods available will depend upon the application concerned and the objectives of the study. General, observation-based assessments appear to provide the levels of costs, capacity, versatility, generality and exactness best matched to the needs of occupational safety and health practitioners (or those from related professions) who have limited time and resources at their disposal and need a basis for establishing priorities for intervention.}
@@ -1552,7 +1552,7 @@
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Objective. The development of a thorax-{®}xed regression model for the shoulder which statistically predicts the orientation of the clavicle and the scapula from the humerus orientation. Background. The application of three-dimensional position recording systems to the shoulder}
@@ -1700,7 +1700,7 @@
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{issn}{0018-9294}
@@ -1776,7 +1776,7 @@
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{IEEE Transactions on Biomedical engineering}
@@ -1998,7 +1998,7 @@
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{annotation}{OCLC: ocn132691969}
@@ -2040,7 +2040,7 @@
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The purpose of object matching is to decide the similarity between two objects. This paper introduces 24 possible distance measures based on the Hausdorff distance between two point sets. These measures can be used to match two sets of edge points extracted from any two objects. Based on our experiments on synthetic images containing various levels of noise, we determined that one of these distance measures, called the modified Hausdorff distance (MHD) has the best performance for object matching. The advantages of MHD over other distances are also demonstrated on several edge maps of objects extracted from real images.}
@@ -2081,7 +2081,7 @@
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Matematika}
@@ -2125,7 +2125,7 @@
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The imposition of general disjunctions of the form ``\${\textbackslash}pi x{\textbackslash}leq{\textbackslash}pi\_0{\textbackslash}vee{\textbackslash}pi x{\textbackslash}geq{\textbackslash}pi\_0+1\$,'' where \${\textbackslash}pi,{\textbackslash}pi\_0\$ are integer-valued, is a fundamental operation in both the branch-and-bound and cutting-plane algorithms for solving mixed integer linear programs. Such disjunctions can be used for branching at each iteration of the branch-and-bound algorithm or to generate split inequalities for the cutting-plane algorithm. We first consider the problem of selecting a general disjunction and show that the problem of selecting an optimal such disjunction, according to specific criteria described herein, is \${\textbackslash}mathcal\{NP\}\$-hard. We further show that the problem remains \${\textbackslash}mathcal\{NP\}\$-hard even for binary programs or when considering certain restricted classes of disjunctions. We observe that the problem of deciding whether a given inequality is a split inequality can be reduced to one of the above problems, which leads to a proof that the problem is \${\textbackslash}mathcal\{NP\}\$-complete.}
@@ -2292,7 +2292,7 @@
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Hypothesis Musculoskeletal computer models provide valuable insights into shoulder biomechanics. The shoulder is a complex joint composed of glenohumeral, scapulothoracic, acromioclavicular, and sternoclavicular articulations, whose function is largely dependent on the many muscles spanning these joints. However, the range of patient-to-patient variability in shoulder function is largely unknown. We therefore assessed the sensitivity of glenohumeral forces to population-based model input parameters that were likely to influence shoulder function. Methods We constructed musculoskeletal models of the shoulder in the AnyBody Modeling System (AnyBody Technology, Aalborg, Denmark). We used inverse dynamics and static optimization to solve for glenohumeral joint forces during a simulated shoulder elevation. We generated 1000 AnyBody models by uniformly distributing the following input parameters: subject height, scapulohumeral rhythm, humeral head radius, and acromiohumeral interval. Results Increasing body height increased glenohumeral joint forces. Increasing the ratio of scapulothoracic to glenohumeral elevation also increased forces. Increasing humeral head radius and acromiohumeral interval decreased forces. The relative sensitivity of glenohumeral joint forces to input parameters was dependent on the angle of shoulder elevation. We developed an efficient method of generating and simulating musculoskeletal models representing a large population of shoulder arthroplasty patients. We found that scapulohumeral rhythm had a significant influence on glenohumeral joint force. Conclusions This finding underscores the importance of more accurately measuring and simulating scapulothoracic motion rather than using fixed ratios or average scapulothoracic motion. This modeling approach can be used to generate virtual populations for conducting efficient simulations and generating statistical conclusions.}
@@ -2430,7 +2430,7 @@
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{This paper introduces PyGAD, an open-source easyto-use Python library for building the genetic algorithm. PyGAD supports a wide range of parameters to give the user control over everything in its life cycle. This includes, but is not limited to, population, gene value range, gene data type, parent selection, crossover, and mutation. PyGAD is designed as a generalpurpose optimization library that allows the user to customize the fitness function. Its usage consists of 3 main steps: build the fitness function, create an instance of the pygad.GA class, and calling the pygad.GA.run() method. The library supports training deep learning models created either with PyGAD itself or with frameworks like Keras and PyTorch. Given its stable state, PyGAD is also in active development to respond to the user's requested features and enhancement received on GitHub github.com/ahmedfgad/GeneticAlgorithmPython. PyGAD comes with documentation pygad.readthedocs.io for further details and examples.}
@@ -2584,7 +2584,7 @@
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The space of ellipsoids may be metrized by the Hausdorff distance or by the sum of the distance between their centers and a distance between matrices. Various inequalities between metrics are established. It follows that the square root of positive semidefinite symmetric matrices satisfies a Lipschitz condition, with a constant which depends only on the dimension of the space.}
@@ -2676,7 +2676,7 @@
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{We present a simple proof with sharp estimates of Dvoretzky's theorem on the existence of almost spherical sections having large dimension in arbitrary convex bodies in \$R{\textasciicircum}N\$.}
@@ -2792,7 +2792,7 @@
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Pushing and pulling tasks are increasingly prevalent in industrial workplaces. Few studies have investigated low-back biomechanical risk factors associated with pushing, and we are aware of none that has quantified spinal stability during pushing exertions. Data recorded from 11 healthy participants performing isometric pushing exertions demonstrated that trunk posture, vector force direction of the applied load, and trunk moment were influenced (p {$<$} .01) by exertion level, elevation of the handle for the pushing task, and foot position. A biomechanical model was used to analyze the posture and hand force data gathered from the pushing exertions. Model results indicate that pushing exertions provide significantly (p {$<$} .01) less stability than lifting when antagonistic cocontraction is ignored. However, stability can be augmented by recruitment of muscle cocontraction. Results suggest that cocontraction may be recruited to compensate for the fact that equilibrium mechanics provide little intrinsic trunk stiffness and stability during pushing exertions. If one maintains stability by means of cocontraction, additional spinal load is thereby created, increasing the risk of overload injury. Thus it is important to consider muscle cocontraction when evaluating the biomechanics of pushing exertions. Potential applications of this research include improved assessment of biomechanical risk factors for the design of industrial pushing tasks.}
@@ -2887,7 +2887,7 @@
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{"The appearance of Grünbaum's book Convex Polytopes in 1967 was a moment of grace to geometers and combinatorialists. The special spirit of the book is very much alive even in those chapters where the book's immense influence made them quickly obsolete. Some other chapters promise beautiful unexplored land for future research. The appearance of the new edition is going to be another moment of grace. Kaibel, Klee and Ziegler were able to update the convex polytope saga in a clear, accurate, lively, and inspired way." (Gil Kalai, The Hebrew University of Jerusalem) "The original book of Grünbaum has provided the central reference for work in this active area of mathematics for the past 35 years...I first consulted this book as a graduate student in 1967; yet, even today, I am surprised again and again by what I find there. It is an amazingly complete reference for work on this subject up to that time and continues to be a major influence on research to this day." (Louis J. Billera, Cornell University) "The original edition of Convex Polytopes inspired a whole generation of grateful workers in polytope theory. Without it, it is doubtful whether many of the subsequent advances in the subject would have been made. The many seeds it sowed have since grown into healthy trees, with vigorous branches and luxuriant foliage. It is good to see it in print once again." (Peter McMullen, University College London)}
@@ -3031,7 +3031,7 @@
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Zonotopes are centrally symmetric polytopes with a very special structure: they are the Minkowski sum of line segments. In this paper we propose to use zonotopes as bounding volumes for geometry in collision detection and other applications where the spatial relationship between two pieces of geometry is important. We show how to construct optimal, or approximately optimal zonotopes enclosing given set of points or other geometry. We also show how zonotopes can be used for efficient collision testing, based on their description via their defining line segments — without ever building their explicit description as polytopes. This implicit representation adds flexibility, power, and economy to the use of zonotopes as bounding volumes.}
@@ -3063,7 +3063,7 @@
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{14}
@@ -3162,7 +3162,7 @@
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Developing formalisms to determine force capabilities of human limbs by using musculoskeletal models could be useful for biomechanical and ergonomic applications. In this framework, the purpose of this study was to compare measured maximal isometric force capabilities at the hand in a set of Cartesian directions with forces computed from a musculoskeletal model of the upper-limb. The results were represented under the form of a measured force polytope (MFP) and a musculoskeletal force polytope (MSFP). Both of them were obtained from the convex hull of measured and simulated force vectors endpoints. Nine subjects participated to the experiment. For one posture recorded with an optoelectronic system, maximum isometric forces exerted at the hand were recorded in twenty six directions of the Cartesian space with a triaxial force sensor. Results showed significant differences between the polytopes global shapes. The MSFP was more elongated than the MFP. Concerning the polytopes volumes, no significant difference was found. Mean maximal isometric forces provided by MFP and MSFP were 509.6 (118.4)N and 627.9 (73.3)N respectively. Moreover, the angle between the main axes of the two polytopes was 5.5 (2.3){$^\circ$} on average. Finally, RMS error values between MFP and MSFP were lower than 100N in 88\% of the considered directions. The proposed MSFP based on a musculoskeletal model gave interesting information on optimal force orientation parameters. The possible applications in the frame of ergonomics, rehabilitation and biomechanics are proposed and discussed.}
@@ -3226,7 +3226,7 @@
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1025-5842, 1476-8259}
@@ -3280,7 +3280,7 @@
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In order to improve the evaluation of the force feasible set (FFS) of the upper-limb which is of great interest in the biomechanics field, this study proposes two additional techniques. The first one is based on the identification of the maximal isometric force (MIF) of Hill-based muscles models from sEMG and isometric force measurements at the hand. The second one considers muscles cocontraction. The FFS was computed with an upper-limb musculoskeletal model in three different cases. The first one (M1) considered binary muscular activation and a simple MIF scaling method based on the weight and muscle length of the subject. The second one (M2) introduces cocontraction factors determined from sEMG. The third one (M3) considers the cocontraction factors and the MIF identification. Finally, M1, M2 and M3 are compared with end-effector force measurement. M3 outperforms the two other methods on FFS prediction demonstrating the validity and the usefulness of MIF identification and the consideration of the cocontraction factors.}
@@ -3316,7 +3316,7 @@
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The hope was recently expressed (Hill 1937, p. 116) that with the development of a more accurate and rapid technique for muscle heat measurement, a much more consistent picture might emerge of the energy relations of muscles shortening (or lengthening) and doing positive (or negative) work. This hope has been realized, and some astonishingly simple and accurate relations have been found, relations, moreover, which (among other things) determine the effect of load on speed of shortening, allow the form of the isometric contraction to be predicted, and are the basis of the so-called ``visco-elasticity'' of skeletal muscle. This paper is divided into three parts. In Part I further developments of the technique are described: everything has depended on the technique, so no apology is needed for a rather full description of it and of the precautions necessary. In Part II the results themselves are described and discussed. In Part III the ``visco-elastic'' properties of active muscle are shown to be a consequence of the properties described in Part II.}
@@ -3463,7 +3463,7 @@
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0014-0139, 1366-5847}
@@ -3530,7 +3530,7 @@
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{issn}{0014-0139, 1366-5847}
@@ -3591,7 +3591,7 @@
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Evolutionary algorithms have been shown to be very successful in solving multi-objective optimization problems (MOPs). However, their performance often deteriorates when solving MOPs with irregular Pareto fronts. To remedy this issue, a large body of research has been performed in recent years and many new algorithms have been proposed. This paper provides a comprehensive survey of the research on MOPs with irregular Pareto fronts. We start with a brief introduction to the basic concepts, followed by a summary of the benchmark test problems with irregular problems, an analysis of the causes of the irregularity, and real-world optimization problems with irregular Pareto fronts. Then, a taxonomy of the existing methodologies for handling irregular problems is given and representative algorithms are reviewed with a discussion of their strengths and weaknesses. Finally, open challenges are pointed out and a few promising future directions are suggested.}
@@ -3631,7 +3631,7 @@
       \field{sortinit}{I}
       \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Executive summary world robotics 2023 industrial robots}
@@ -3662,7 +3662,7 @@
       \field{sortinit}{J}
       \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In this paper, we measured the maximum isometric force at the hand in eight directions in the horizontal plane and at five positions in the workplace. These endpoint forces were the result of shoulder horizontal adduction/abduction and elbow flexion/ extension torques. We found that the normalized maximum forces of all the six subjects deviated less than 15\%, despite intra-subject differences in muscle strength of more than a factor of two. The maximum forces were found to systematically depend on the force direction and on the hand position in the workspace. The largest forces were found in a direction approximately along the line connecting shoulder joint and hand, and the smallest forces perpendicular to that line, thereby forming an elliptically shaped pattern. The elongation of the pattern was the largest for those hand positions having the more extended elbow joint. By using a lumped six-muscle model, with two mono-articular muscle pairs and one bi-articular pair, we were able to predict the observed force patterns. Here, we assumed that one of the muscles generates its maximum force and the others adjust their output to point the endpoint force in the required direction. We used a principal component analysis of the surface EMGs of simultaneously measured representatives of four of the six muscles. With the same model, we were then able to determine the principal directions of all the six muscle groups.}
@@ -3716,7 +3716,7 @@
       \field{sortinit}{J}
       \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The purpose of this study was to investigate effects of fingernail length on active range of motion (AROM) of the fingers, speed of finger manipulation, number of words typed, and grip strength. Fifteen normal women (mean age, 30 years) performed measurements under four conditions---with no attached fingernails and with fingernails extending 2, 1, and 0.5 cm beyond the tip of the finger. Analyses of variance showed that: 1) with fingernails of all extended lengths, grip strength measured on the first setting of the Jamar hand dynamometer decreased; 2) with fingernails 1 and 2 cm in length, AROM, grip strength on the second dynamometer setting, and finger manipulation decreased; and 3) with fingernails 2 cm in length, typing speed decreased (p {$<$} 0.05). Long fingernails limit flexion of the finger joints, particularly the metacarpophalangeal joints. Lack of finger flexion will limit excursion of long flexors and extensors in patients. It is recommended that patients cut their fingernails to a length of 0.5 cm to achieve optimal functional outcomes.}
@@ -3782,7 +3782,7 @@
       \field{sortinit}{J}
       \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The present study determined whether the motor process of handwriting is influenced by a circadian rhythm during writing tasks of high everyday relevance and analyzed the relationship to the circadian rhythm of grip strength. Ten healthy young male subjects underwent a 40 h sleep-deprivation protocol under constant routine conditions. Starting at 09:00 h, subjects performed three handwriting tasks of increasing perceptual-motor complexity (writing a sentence, writing one's signature, and copying a text for 3 min) and assessed grip strength of both hands every 3 h. Handwriting performance was analyzed by writing speed, writing fluency, script size, break times, and pen pressure. The handwriting tasks revealed a coincident circadian rhythm for the frequency of handwriting as a measure of movement speed, with slowest writing speed at 03:16 h. A weak effect of task complexity was evident for the non-writing episodes: while copying a text, break times were influenced by a circadian rhythm, whereas during sentence writing, the non-writing episodes remained constant. The circadian rhythm of grip strength paralleled the time course of motivation ratings, with least motivation and weakest grip strength around 06:00 h concurrently for both hands. The rate of force production also displayed circadian rhythmicity and sharply decreased with the onset of melatonin secretion. Neither grip strength nor the kinematics of handwriting was influenced by sleep deprivation; only the level of the force rate was decreased the second day. The results show a clear circadian rhythm in the speed of handwriting and grip strength.}
@@ -3846,7 +3846,7 @@
       \field{sortinit}{J}
       \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The term "collaborative robot" is commonly known as Cobot, which refers to a partnership between a robot and a human. Aside from providing physical contact between a robot and a person on the same production line simultaneously, the Cobot is designed as user-friendly. They enable operators to respond immediately to work done by the robot based on the company's urgent needs. This paper aims to explore the potential of Cobots in manufacturing. Cobots are widely employed in various industries such as life science, automotive, manufacturing, electronics, aerospace, packaging, plastics, and healthcare. For many of these businesses, the capacity to maintain a lucrative man-machine shared workplace can provide a considerable competitive edge. Cobots are simple to use while being dependable, safe, and precise. A literature review was carried out from the database from ScienceDirect, Scopus, Google Scholar, ResearchGate and other research platforms on the keyword ``Cobots'' or ``Collaborative robots'' for manufacturing. The Paper briefly discusses and provides the capabilities of this technology in manufacturing. Cobots are programmed to do crucial things such as handling poisonous substances, from putting screws on a vehicle body to cooking a meal, etc. Human operators can readily control this technology remotely and perform dangerous jobs. This paper's overview of Cobots and how it is differentiated from Robot is briefly described. The typical Features, Capabilities, Collaboration \& Industrial Scenarios with Cobots are also discussed briefly. Further, the study identified and discussed the significant applications of Cobots for manufacturing. Cobots are utilised in several methods and a wide range of application areas. These elevate manufacturing and other operations to new heights. They also collaborate with humans to balance the demand for safety and the need for flexibility and efficiency.}
@@ -3900,7 +3900,7 @@
       \field{sortinit}{J}
       \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The purpose of this study was to investigate the hypothesized correlation between volume of a verbal command and magnitude of a resulting voluntary isometric muscular contraction, using a withdrawal-reinstatement (ABAB) research design. Nineteen volunteer male subjects between the ages of 18 and 30 years performed isometric contractions of the triceps brachii muscles in response to prerecorded verbal commands. With a volume increase of 22 decibels A scale, subjects averaged an 8 percent increase in muscle contraction strength, a difference that was significant at the .05 level. Through an awareness and use of the effects of voice volume on muscular contraction, the therapist may be able to improve the accuracy and consistency of examination methods, and increase the efficacy and efficiency of therapeutic procedures.}
@@ -3981,7 +3981,7 @@
       \field{sortinit}{J}
       \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The objective of this study was to evaluate the effects of instruction, verbal encouragement, and real-time visual feedback on static handgrip strength. Sixteen subjects participated in this study and a computerized wrist dynamometer was used for the measurement of grip strength. The independent variables were five different instructions including the Caldwell Regimen, use of verbal encouragement and visual feedback. According to the results of ANOVA, there were significant differences in main effects. Therefore, the employment of verbal encouragement or visual feedback should be noted in any paper if used while measuring static strength. Since the comparison between peak forces showed that fast contraction and immediate release upon maximal contraction instruction had greater peak forces than all other instruction sets, it can be suggested for the standard of peak force measurement that the static strength should be reached within 1.5 seconds and immediately released when reaching the maximum force and the greatest force can be designated as the peak force.}
@@ -4054,7 +4054,7 @@
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Muscle structure is an essential component in typical computational models of the musculoskeletal system. Almost all musculoskeletal models represent muscle geometry using a set of line segments. The straight-line approach limits models' ability to accurately predict the paths of muscles with complex geometry. This approach needs knowledge of how the muscle changes shape and interacts with fundamental structures like muscles, bones, and joints that move. Moreover, the moment arms are supposed to be equivalent to all the fibers in the muscle. This study aims to create a shoulder musculoskeletal model that includes complex muscle geometries. We reconstructed the shape of fibers in the entire volume of six muscles adjacent to the shoulder using an automated technique. This method generates many fibers from the surface geometry of the skeletal muscle and its attachment areas. Highly discretized muscle representations for all muscles were created and used to simulate different shoulder movements. The moment arms of each muscle were calculated and validated against cadaveric measurements and models of the same muscles from the literature. We found that simulations using the developed musculoskeletal models generated more realistic geometries, which expands the physical representation of muscles compared to line segments. The shoulder musculoskeletal model with complex muscle geometry is created to increase the anatomical reality of models and the lines action of muscle fibers, and to be used for finite element investigations.}
@@ -4150,7 +4150,7 @@
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{We study the computational complexity of determining the Hausdorff distance oftwo polytopes given in halfspace- or vertex-presentation in arbitrary dimension. Sub-sequently, a matching problem is investigated where a convex body is allowed to behomothetically transformed in order to minimize its Hausdorff distance to another one. For this problem, we characterize optimal solutions, deduce a Helly-type theorem and give polynomial time (approximation) algorithms for polytopes.}
@@ -4230,29 +4230,29 @@
     \endentry
     \entry{kushnirLinearTransformationsIntersections}{article}{}
       \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=bd142d14ca3a70343e5373680467b477}{%
+        {{un=0,uniquepart=base,hash=9444756147e464c465a1e64b2e14a33d}{%
            family={Kushnir},
            familyi={K\bibinitperiod},
-           given={Alexey},
+           given={A},
            giveni={A\bibinitperiod},
            givenun=0}}%
-        {{un=1,uniquepart=given,hash=72f831685ec758790c27d3252094c2e6}{%
+        {{un=1,uniquepart=given,hash=92faacc6874983183ce7fb86e39f31ec}{%
            family={Liu},
            familyi={L\bibinitperiod},
-           given={Shuo},
+           given={S},
            giveni={S\bibinitperiod},
            givenun=1}}%
       }
-      \strng{namehash}{df5d0d4a6b0957be9888ed8ddc5ef83a}
-      \strng{fullhash}{df5d0d4a6b0957be9888ed8ddc5ef83a}
-      \strng{bibnamehash}{df5d0d4a6b0957be9888ed8ddc5ef83a}
-      \strng{authorbibnamehash}{df5d0d4a6b0957be9888ed8ddc5ef83a}
-      \strng{authornamehash}{df5d0d4a6b0957be9888ed8ddc5ef83a}
-      \strng{authorfullhash}{df5d0d4a6b0957be9888ed8ddc5ef83a}
+      \strng{namehash}{7420c7396bf3eb84ca04902d09ab0ae3}
+      \strng{fullhash}{7420c7396bf3eb84ca04902d09ab0ae3}
+      \strng{bibnamehash}{7420c7396bf3eb84ca04902d09ab0ae3}
+      \strng{authorbibnamehash}{7420c7396bf3eb84ca04902d09ab0ae3}
+      \strng{authornamehash}{7420c7396bf3eb84ca04902d09ab0ae3}
+      \strng{authorfullhash}{7420c7396bf3eb84ca04902d09ab0ae3}
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{For any linear transformation and two convex closed sets, we provide necessary and sufficient conditions for when the transformation of the intersection of the sets coincides with the intersection of their images. We also identify analogous conditions for non-convex sets, general transformations, and multiple sets. We demonstrate the usefulness of our results via an application to the economics literature of mechanism design.}
@@ -4300,7 +4300,7 @@
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0014-0139, 1366-5847}
@@ -4349,7 +4349,7 @@
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{In ergonomics, strength prediction has typically been accomplished using linked-segment biomechanical models, and independent estimates of strength about each axis of the wrist, elbow and shoulder joints. It has recently been shown that multiple regression approaches, using the simple task-relevant inputs of hand location and force direction, may be a better method for predicting manual arm strength (MAS) capabilities. Artificial neural networks (ANNs) also serve as a powerful data fitting approach, but their application to occupational biomechanics and ergonomics is limited. Therefore, the purpose of this study was to perform a direct comparison between ANN and regression models, by evaluating their ability to predict MAS with identical sets of development and validation MAS data. Multi-directional MAS data were obtained from 95 healthy female participants at 36 hand locations within the reach envelope. ANN and regression models were developed using a random, but identical, sample of 85\% of the MAS data (n {$\frac{1}{4}$}456). The remaining 15\% of the data (n {$\frac{1}{4}$} 80) were used to validate the two approaches. When compared to the development data, the ANN predictions had a much higher explained variance (90.2\% vs. 66.5\%) and much lower RMSD (9.3 N vs. 17.2 N), vs. the regression model. The ANN also performed better with the independent validation data (r2{$\frac{1}{4}$}78.6\%, RMSD {$\frac{1}{4}$} 15.1) compared to the regression approach (r2{$\frac{1}{4}$} 65.3\%, RMSD {$\frac{1}{4}$}18.6 N). These results suggest that ANNs provide a more accurate and robust alternative to regression approaches, and should be considered more often in biomechanics and ergonomics evaluations.}
@@ -4400,7 +4400,7 @@
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This paper describes the development of a novel method (termed the `Arm Force Field' or `AFF') to predict manual arm strength (MAS) for a wide range of body orientations, hand locations and any force direction. This method used an artificial neural network (ANN) to predict the effects of hand location and force direction on MAS, and included a method to estimate the contribution of the arm's weight to the predicted strength. The AFF method predicted the MAS values very well (r2 {$\frac{1}{4}$} 0.97, RMSD {$\frac{1}{4}$} 5.2 N, n {$\frac{1}{4}$} 456) and maintained good generalizability with external test data (r2 {$\frac{1}{4}$} 0.842, RMSD {$\frac{1}{4}$} 13.1 N, n {$\frac{1}{4}$} 80). The AFF can be readily integrated within any DHM ergonomics software, and appears to be a more robust, reliable and valid method of estimating the strength capabilities of the arm, when compared to current approaches.}
@@ -4459,7 +4459,7 @@
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradate}{1}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Hand force capacities reflect an individual's ability to generate forces in all directions, considering a given upper-limb posture. These capacities are described as polytopes by means of an upper-limb musculoskeletal model. However, such a model needs to be adapted to an individual for more accuracy. The model parameter space is investigated using derivative-free algorithms which do not require the optimization function to be differentiable: genetic algorithms and SRACOS, a classificationbased algorithm. Results demonstrate that employing a genetic algorithm with a polytope representation in 26 vertices yields the most accurate prediction of force capacities in a validation posture.}
@@ -4509,7 +4509,7 @@
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradate}{2}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Knowledge of human's force capacities enables the design of physical Human-Robot Interaction (pHRI) workspaces. As measuring force capacities for all postures is time consuming, predicting force capacities from a subset of measurements performed in a limited number of postures is crucial. The force capacities can be described as a convex polytope by means of a personalized musculoskeletal (MSK) model (Skuric et al. 2022). However, the tuning of a MSK model is difficult due to the high number of parameters. Thanks to its constraint-free nature on the optimization function, a genetic algorithm is implemented to find a MSK model parameter set, which fits and predicts force polytopes.}
@@ -4550,7 +4550,7 @@
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In (1) Dvoretsky proved, using very ingenious methods, that every centrally symmetric convex body of sufficiently high dimension contains a central k -dimensional section which is almost spherical. Here we shall extend this result (Corollary to Theorem 2) to k -dimensional sections through an arbitrary interior point of any convex body.}
@@ -4606,7 +4606,7 @@
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In this paper, a technique to generate the wrench-closure workspace for general case completely restrained cable driven parallel mechanisms is proposed. Existing methods can be classified as either numerically or analytically based approaches. Numerical techniques exhaustively sample the task space, which can be inaccurate due to discretisation and is computationally expensive. In comparison, analytical formulations have higher accuracy, but often provides only qualitative workspace information. The proposed hybrid approach combines the high accuracy of the analytical approach and the algorithmic versatility of the numerical approach. Additionally, this is achieved with significantly lower computational costs compared to numerical methods. It is shown that the wrench-closure workspace can be reduced to a set of univariate polynomial inequalities with respect to a single variable of the end-effector motion. In this form, the workspace can then be efficiently determined and quantitatively evaluated. The proposed technique is described for a 3-DOF and a 6-DOF cable driven parallel manipulator. A detailed example in workspace determination using the proposed approach and comparison against the conventional numerical approach are presented.}
@@ -4704,7 +4704,7 @@
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0373-3114}
@@ -4752,7 +4752,7 @@
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Spinal manipulation (SM) is a common manual therapy technique; however, there is limited knowledge regarding the coordination of hand and foot forces during SM. This study investigated the biomechanics of force transmission and generation in the ...}
@@ -4798,7 +4798,7 @@
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{[Purpose] Maximum voluntary isometric contraction can increase the reliability of electromyography data by controlling respiration; however, many studies that use normalization of electromyography data fail to account for this. This study aims to ...}
@@ -4864,7 +4864,7 @@
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Recent advances in derivative-free optimization allow efficient approximation of the global-optimal solutions of sophisticated functions, such as functions with many local optima, non-differentiable and non-continuous functions. This article describes the ZOOpt (Zeroth Order Optimization) toolbox that provides efficient derivative-free solvers and is designed easy to use. ZOOpt provides single-machine parallel optimization on the basis of python core and multi-machine distributed optimization for time-consuming tasks by incorporating with the Ray framework --- a famous platform for building distributed applications. ZOOpt particularly focuses on optimization problems in machine learning, addressing high-dimensional and noisy problems such as hyper-parameter tuning and direct policy search. The toolbox is maintained toward a ready-to-use tool in real-world machine learning tasks.}
@@ -4932,7 +4932,7 @@
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Abstract This paper aims at proposing an automatic method to design and adjust simplified muscle paths of a musculoskeletal model. These muscle paths are composed of straight lines described by a limited set of fixed active via points and an optimization routine is developed to place these via points on the model in order to fit moment arms and musculotendon lengths input data. The method has been applied to a forearm musculoskeletal model extracted from the literature, using theoretical input data as an example. Results showed that for 75\% of the muscle set, the relative root-mean-square error between literature theoretical data and the results from optimized muscle path was under 29.23\% for moment arms and of 1.09\% for musculotendon lengths. These results confirm the ability of the method to automatically generate computationally efficient muscle paths for musculoskeletal simulations. Using only via points lowers computational expense compared to paths exhibiting wrapping objects. A proper balance between computational time and anatomical realism should be found to help those models being interpreted by practitioners.}
@@ -4981,7 +4981,7 @@
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{00104655}
@@ -5028,7 +5028,7 @@
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Widespread use of gait or motion analysis in the diagnosis of patients with locomotor pathology and the subsequent planning and assessment of treatment has been limited because of its reliability, particularly in evaluating frontal and transverse plane components. This is because spatial reconstruction of the musculoskeletal system and calculation of its kinematics and kinetics via a skin marker-based multi-link model are subject to marker skin movement artefacts. Traditional methods treat each body segment separately without imposing joint constraints, resulting in apparent dislocations at joints predominantly because of skin movement artefacts. An optimisation method for the determination of the positions and orientations of multi-link musculoskeletal models from marker co-ordinates is presented. It is based on the minimisation of the weighted sum of squared distances between measured and model-determined marker positions. The model imposes joint constraints. Numerical experiments were performed to show that the new method is capable of eliminating joint dislocations and giving more accurate model position and orientation estimations. It is suggested that, with joint constraints and a global error compensation scheme, the effects of measurement errors on the reconstruction of the musculoskeletal system and subsequent mechanical analyses can be reduced globally. The proposed method minimises errors in axial rotation and ab/adduction at the joints and may extend the applicability of gait analysis to clinical problems.}
@@ -5148,7 +5148,7 @@
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Twenty-seven college women participated in a study to evaluate the reliability and validity of four tests of hand strength: grip, palmar pinch, key pinch, and tip pinch. Standardized positioning and instructions were followed. The results showed very high inter-rater reliability. Test-retest reliability was highest in all tests when the mean of three trials was used. Lower correlations were shown when one trial or the highest score of three trials were utilized. The Jamar dynamometer by Asimow Engineering and the pinch gauge by B\&L Engineering demonstrated the highest accuracy of the instruments tested.}
@@ -5188,7 +5188,7 @@
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Vertebrate animals exploit the elastic properties of their tendons in several different ways. Firstly, metabolic energy can be saved in locomotion if tendons stretch and then recoil, storing and returning elastic strain energy, as the animal loses and regains kinetic energy. Leg tendons save energy in this way when birds and mammals run, and an aponeurosis in the back is also important in galloping mammals. Tendons may have similar energy-saving roles in other modes of locomotion, for example in cetacean swimming. Secondly, tendons can recoil elastically much faster than muscles can shorten, enabling animals to jump further than they otherwise could. Thirdly, tendon elasticity affects the control of muscles, enhancing force control at the expense of position control.}
@@ -5258,7 +5258,7 @@
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Maximum voluntary isometric contraction (MVIC) is a standardized method for measurement of muscle strength in patients with neuromuscular disease. Values obtained from MVIC testing are difficult to interpret at present as normative data are limited. The objective of this study was to generate reference values for MVIC. A convenience sample of 494 healthy men and women aged 20--76 years was recruited. MVIC testing was performed on nine muscle groups bilaterally: neck flexors, shoulder abductors, shoulder adductors, elbow and knee flexors and extensors, and hip and ankle flexors. MVIC was performed using the Quantitative Muscle Assessment system. Age and sex related reference values were calculated for each muscle group using quantile regression. A clinical reporting system was developed to facilitate interpretation of patient values with reference to normal percentiles. Reference values generated from this study can be used to determine the presence and extent of muscle weakness in a given population and to evaluate the effectiveness of treatment interventions.}
@@ -5314,7 +5314,7 @@
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{00219290}
@@ -5362,7 +5362,7 @@
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Biomechanics is at the interface of several fields of science, such as mechanics, human physiology and robotics. Although this transdisciplinarity encourages the emergence of new ideas, the variety of data to analyze simultaneously can be overwhelming. Commonly biomechanical datasets are composed of skin markers trajectories (termed as markers), contact forces, electromyography (EMG) signal, inertial measurement units (IMU) kinematics, etc., which by nature are not straightforward to combine. It is at their meeting point---the body movement---that biorbd steps in; bio standing for biomechanics and rbd for rigid body dynamics. biorbd is a feature-based development library that targets the manipulation of biomechanical data in a comprehensive and accessible manner. For a given musculoskeletal model, it provides functions for inverse flow---i.e., from markers to EMG---and direct flow---i.e., from EMG to markers.}
@@ -5424,7 +5424,7 @@
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Muscle-driven simulations of human and animal motion are widely used to complement physical experiments for studying movement dynamics. Musculotendon models are an essential component of muscle-driven simulations, yet neither the computational speed nor the biological accuracy of the simulated forces has been adequately evaluated. Here we compare the speed and accuracy of three musculotendon models: two with an elastic tendon (an equilibrium model and a damped equilibrium model) and one with a rigid tendon. Our simulation benchmarks demonstrate that the equilibrium and damped equilibrium models produce similar force profiles but have different computational speeds. At low activation, the damped equilibrium model is 29 times faster than the equilibrium model when using an explicit integrator and 3 times faster when using an implicit integrator; at high activation, the two models have similar simulation speeds. In the special case of simulating a muscle with a short tendon, the rigid-tendon model produces forces that match those generated by the elastic-tendon models, but simulates 2-54 times faster when an explicit integrator is used and 6-31 times faster when an implicit integrator is used. The equilibrium, damped equilibrium, and rigid-tendon models reproduce forces generated by maximally-activated biological muscle with mean absolute errors less than 8.9\%, 8.9\%, and 20.9\% of the maximum isometric muscle force, respectively. When compared to forces generated by submaximally-activated biological muscle, the forces produced by the equilibrium, damped equilibrium, and rigid-tendon models have mean absolute errors less than 16.2\%, 16.4\%, and 18.5\%, respectively. To encourage further development of musculotendon models, we provide implementations of each of these models in OpenSim version 3.1 and benchmark data online, enabling others to reproduce our results and test their models of musculotendon dynamics.}
@@ -5474,7 +5474,7 @@
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{It was shown by G. Pisier that any finite-dimensional normed space admits an {$\alpha$}regular M -position, guaranteeing not only regular entropy estimates but moreover regular estimates on the diameters of minimal sections of its unit-ball and its dual. We revisit Pisier's argument and show the existence of a different position, which guarantees the same estimates for randomly sampled sections with high-probability. As an application, we obtain a random version of V. Milman's Quotient-of-Subspace Theorem, asserting that in the above position, typical quotients of subspaces are isomorphic to Euclidean, with a distance estimate which matches the best-known deterministic one (and beating all prior estimates which hold with high-probability). Our main novel ingredient is a new position of convex bodies, whose existence we establish by using topological arguments and a fixed-point theorem.}
@@ -5516,7 +5516,7 @@
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The main result of this article is Theorem 1 which states that a quotient space Y, dim Y = k, of a subspace of any finite dimensional normed space X, dim X = n, may be chosen to be d-isomorphic to a euclidean space even for k = [X n ] for any fixed X {$<$} 1 (and d depending on X only).}
@@ -5567,22 +5567,22 @@
     \endentry
     \entry{milmanAsymptoticTheoryFinite2001}{book}{}
       \name{author}{3}{}{%
-        {{un=1,uniquepart=given,hash=a4ea09556bbbddba9d3a02a702f1da33}{%
+        {{un=1,uniquepart=given,hash=36fc6a05922b6a297ea8ff251c00218f}{%
            family={Milman},
            familyi={M\bibinitperiod},
-           given={Vitali},
+           given={V},
            giveni={V\bibinitperiod},
            givenun=1}}%
-        {{un=0,uniquepart=base,hash=77f2aefa76be5d4386b4445f6417ca57}{%
+        {{un=0,uniquepart=base,hash=c9cade4241c823dae8ed92a38edd8db3}{%
            family={Schechtman},
            familyi={S\bibinitperiod},
-           given={Gideon},
+           given={G},
            giveni={G\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=29614b28c97cd314c5624d6dde3ea402}{%
+        {{un=0,uniquepart=base,hash=00439431c8452ddc2a23d53f156c3ffe}{%
            family={Gromov},
            familyi={G\bibinitperiod},
-           given={Mikhael},
+           given={M},
            giveni={M\bibinitperiod},
            givenun=0}}%
       }
@@ -5592,12 +5592,12 @@
       \list{publisher}{1}{%
         {Springer}%
       }
-      \strng{namehash}{95136eb0e78e484f0880d42919c2ac27}
-      \strng{fullhash}{48ba336beac7619487f97738577a2a63}
-      \strng{bibnamehash}{48ba336beac7619487f97738577a2a63}
-      \strng{authorbibnamehash}{48ba336beac7619487f97738577a2a63}
-      \strng{authornamehash}{95136eb0e78e484f0880d42919c2ac27}
-      \strng{authorfullhash}{48ba336beac7619487f97738577a2a63}
+      \strng{namehash}{ad99b185039f59a22ceca8bedea0d4da}
+      \strng{fullhash}{eeee02c3d59f655cbfb7fca1ac845c75}
+      \strng{bibnamehash}{eeee02c3d59f655cbfb7fca1ac845c75}
+      \strng{authorbibnamehash}{eeee02c3d59f655cbfb7fca1ac845c75}
+      \strng{authornamehash}{ad99b185039f59a22ceca8bedea0d4da}
+      \strng{authorfullhash}{eeee02c3d59f655cbfb7fca1ac845c75}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
@@ -5650,7 +5650,7 @@
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{issn}{2475-9066}
@@ -5692,7 +5692,7 @@
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Transactions of the American Mathematical Society}
@@ -5725,7 +5725,7 @@
       \field{sortinit}{N}
       \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1432-1823}
@@ -5782,7 +5782,7 @@
       \field{sortinit}{O}
       \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A large number of methods for solving multiobjective optimisation (MOO) problems have been developed. To compare these methods rigorously, or to measure the performance of a particular MOO algorithm quantitatively, a variety of performance indices (PIs) have been proposed. This paper provides an overview of the various PIs and attempts to categorise them into a certain number of classes according to their properties. Comparative studies have been conducted using a group of artificial solution sets and a group of solution sets obtained by various MOO solvers to show the advantages and disadvantages of the PIs. The comparative studies show that many PIs may be misleading in that they fail to truly reflect the quality of solution sets. Thus, it may not be a good practice to evaluate the performance of MOO solvers based on PIs only.}
@@ -5841,7 +5841,7 @@
       \field{sortinit}{O}
       \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A new virtual human model to be more realistic than the conventional model operated with the joint coordinate system is proposed and will also be useful for a human-friendly robot. We propose an introduction of a muscle coordinate system consisting of the bi-articular muscles as well as the mono-articular muscles instead of a conventional joint coordinate system consisting of only the mono-articular muscles without the bi-articular muscles to discuss an interface between man and machine. The output force distribution developed at the wrist joint of the human arm under isometric and maximal effort conditions demonstrates a hexagonal shape. Since complex muscle arrangements of the human arm could be simplified into one antagonistic pair of the bi-articular muscles and two antagonistic pairs of the mono-articular muscles (functionally effective muscular strengths), a robot arm provided with three pairs of muscles was built. The robot arm operated with the muscle coordinate system demonstrated hexagonal shape output force distributions. Whereas, the robot arm operated with the joint coordinate system showed quadrangular output force distributions. A characteristic of the hexagonal force distribution made it possible to evaluate individual functionally effective muscular strengths from the human arm output force distribution. The results obtained here will lead a new virtual human model to be more realistic than the conventional model operated with the joint coordinate system. The idea will also be useful for a human-friendly robot.}
@@ -5885,7 +5885,7 @@
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The extent to which specific muscles may limit maximum isometric force production is largely unknown. This study investigated shoulder muscle activity in six muscles and maximum force generation at the hand in three directions, while in eight different working positions. Ten right hand dominant, university-aged female participants completed twenty-four maximal isometric force hand exertions against a handle positioned by a robot arm within a 3-dimensional simulated workspace. A multivariate, full factorial ANOVA indicated a reach distance main effect where 11\% greater force production occurred at the lesser reach distance. A target handle elevation and force direction interaction effect on maximum force production also existed. These findings add to normative static strength data for hand locations typical of an operating work envelope. Although hand force was significantly influenced by position in each direction (p {$<$} 0.05), muscle EMG was not influenced in any of the six muscles measured. No muscle achieved 100\% MVE in any of the tested conditions, with the highest total muscle activity recorded at 86\% MVE for the Pectoralis Major -- sternal origin. Collectively, these data better demonstrate that the location and direction of work presentation influences force outputs more than specific muscle demands (of those measured), and should be considered in evaluating workstations.}
@@ -5958,7 +5958,7 @@
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{We describe a new robot architecture: the collaborative robot, or cobot. Cobots are intended for direct physical interaction with a human operator. The cobot can create smooth, strong virtual surfaces and other haptic effects within a shared human/cobot workspace. The kinematic properties of cobots differ markedly from those of robots. Most significantly, cobots have only one mechanical degree of freedom, regardless of their taskspace dimensionality. The instantaneous direction of motion associated with this single degree of freedom is actively servo-controlled, or steered, within the higher dimensional taskspace. This paper explains the kinematics of cobots and the continuously variable transmissions (CVTs) that are essential to them. Powered cobots are introduced, made possible by a parallel interconnection of the CVTs. We discuss the relation of cobots to conventionally actuated robots and to nonholonomic robots. Several cobots in design, prototype, or industrial testbed settings illustrate the concepts discussed.}
@@ -6018,7 +6018,7 @@
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In this paper, we propose a method that allows the robot to adapt its physical behaviour to the human fatigue in human-robot co-manipulation tasks. The robot initially imitates the human to perform the collaborative task in a leader-follower setting, using a feedback about the human motor behaviour. Simultaneously, the robot obtains the skill in online manner. When a predetermined level of human fatigue is detected, the robot uses the learnt skill to take over the physically demanding aspect of the task and contributes to a significant reduction of the human effort. The human, on the other hand, controls and supervises the high-level interaction behaviour and performs the aspects that require the contribution of both agents in such a dynamic co-manipulation setup. The robot adaptation system is based on the Dynamical Movement Primitives, Locally Weighted Regression and Adaptive Frequency Oscillators. The estimation of the human motor fatigue is carried out using a proposed online model, which is based on the human muscle activity measured by the electromyography. We demonstrate the proposed method with experiments on a real-world co-manipulation task with environmental constraints and dynamic uncertainties.}
@@ -6148,7 +6148,7 @@
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The zone theorem for an arrangement of n hyperplanes in d-dimensional real space says that the total number of faces bounding the cells intersected by another hyperplane is \$O(n{\textasciicircum}\{d - 1\} )\$. This result is the basis of a time-optimal incremental algorithm that constructs a hyperplane arrangement and has a host of other algorithmic and combinatorial applications. Unfortunately, the original proof of the zone theorem, for \$d {\textbackslash}geqslant 3\$, turned out to contain a serious and irreparable error. This paper presents a new proof of the theorem. The proof is based on an inductive argument, which also applies in the case of pseudohyperplane arrangements. The fallacies of the old proof along with some ways of partially saving that approach are briefly discussed.}
@@ -6253,7 +6253,7 @@
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{There is little known about kinetic changes in anterior cruciate ligament deficiency (ACLD) combined with meniscal tears during jogging. Therefore, 29 male patients with injured ACLs and 15 healthy male volunteers were recruited for this study to investigate kinetic abnormalities in male patients after ACL deficiency combined with a meniscal injury during jogging. Based on experimental data measured by an optical tracking system, a subject-specific musculoskeletal model was employed to estimate the tibiofemoral joint kinetics during jogging. Between-limb and interpatient differences were compared by the analysis of variance. The results showed that decreased knee joint forces and moments of both legs in ACLD patients were detected during the stance phase compared to the control group. Meanwhile, compared with ACLD knees, significantly fewer contact forces and flexion moments in ACLD combined with lateral and medial meniscal injury groups were found at the mid-stance, and ACLD with medial meniscal injury group showed a lower axial moment in the loading response (p {$<$} 0.05). In conclusion, ACLD knees exhibit reduced tibiofemoral joint forces and moments during jogging when compared with control knees. A combination of meniscus injuries in the ACLD-affected side exhibited abnormal kinetic alterations at the loading response and mid-stance phase.}
@@ -6393,7 +6393,7 @@
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Background: the European Working Group on Sarcopenia in Older People has developed a clinical definition of sarcopenia based on low muscle mass and reduced muscle function (strength or performance). Grip strength is recommended as a good simple measure of muscle strength when `measured in standard conditions'. However, standard conditions remain to 85 be defined. 30 Methods: a literature search was conducted to review articles describing the measurement of grip strength listed in Medline, Web of Science and Cochrane Library databases up to 31 December 2009. Results: there is wide variability in the choice of equipment and protocol for measuring grip strength. The Jamar hand dynamometer is the most widely used instrument with established test--retest, inter-rater and intra-rater reliability. However, 90 there is considerable variation in how it is used and studies often provide insufficient information on the protocol followed 35 making comparisons difficult. There is evidence that variation in approach can affect the values recorded. Furthermore, reported summary measures of grip strength vary widely including maximum or mean value, from one, two or three attempts, with either hand or the dominant hand alone. Conclusions: there is considerable variation in current methods of assessing grip strength which makes comparison 95 between studies difficult. A standardised method would enable more consistent measurement of grip strength and better 40 assessment of sarcopenia. Our approach is described.}
@@ -6455,7 +6455,7 @@
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0014-0139, 1366-5847}
@@ -6515,7 +6515,7 @@
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The aim of this study is to assess the performances of the global optimisation (GO) method (Bone position estimation from skin marker co-ordinates using GO with joint constraints. Journal of Biomechanics 32, 129--134) within the upper limb kinematics analysis. First the model of the upper limb is presented. Then we apply GO method in order to reduce skin movement artefacts that imply relative movement between markers and bones. The performances of the method are then evaluated with the help of simulated movements of the upper limb. Results show a significant reduction of the errors and of the variability due to skin movement.}
@@ -6582,7 +6582,7 @@
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{issn}{03635023}
@@ -6694,7 +6694,7 @@
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Open access peer-reviewed chapter}
@@ -6859,7 +6859,7 @@
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{BACKGROUND: The International Society of Biomechanics has proposed a standardization recommendation for motion recordings of the upper extremity defining the set of bony landmarks, local coordinate systems and joint coordinate systems. The aim of our study was to verify the clinical interpretation of the proposed rotation sequence for the glenohumeral joint and to compare it with other sequences. METHODS: Fifteen glenohumeral movements in their maximal ranges were tested on five healthy subjects. The movements were separated into five groups (flexion, extension, abduction, horizontal flexion and circumduction) with three humeral rotation positions (full external, full internal and neutral). Four glenohumeral rotation sequences were constructed using YXY, YXZ, ZXY and XZY orders and angle amplitudes were examined in terms of gimbal lock and amplitude coherence. FINDINGS: The results of the gimbal lock incidence and amplitude coherence should be taken into account together. Therefore, the suitable rotation sequences for all rotation variations of abduction and extension were found and no tested rotation sequence was found to be clinically interpretable for all tested movements. INTERPRETATION: Before glenohumeral three-dimension experiments the choice of the rotation sequence should be made in agreement with the no-gimbal lock incidence and amplitude interpretability of the performed movements.}
@@ -6971,7 +6971,7 @@
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A model of the knee in the sagittal plane was developed to study the forces in the ligaments induced by isometric contractions of the extensor and flexor muscles. The geometry of the distal femur was obtained from cadaver data. The tibial plateau and patellar facet were modeled as flat surfaces. Eleven elastic elements were used to describe the mechanical behavior of the anterior and posterior cruciate ligaments (ACL and PCL), the medial and lateral collateral ligaments (MCL and LCL), and the posterior capsule. The model knee was actuated by 11 musculotendinous units, each muscle represented by a Hill-type contractile element, a series-elastic element, and a parallel-elastic element. Tendon was assumed to be elastic. The response of the model to anterior-posterior drawer suggests that the geometrical and mechanical properties of the model ligaments approximate the behavior of real ligaments in the intact knee. Calculations for a simulated quadriceps leg raise indicate further that the two-dimensional model reproduces the response of the three-dimensional knee under similar conditions of loading and constraint. During maximum isometric contractions of the quadriceps, the model ACL is loaded from full extension to 80{$^\circ$}C of flexion; the model PCL is loaded at 70{$^\circ$} of flexion and greater. For maximum isometric extension, ACL forces in the range 0--20{$^\circ$} of flexion depend most heavily upon the force-length properties of the quadriceps. At flexion angles greater than 20{$^\circ$}, cruciate ligament forces are determined by the geometry of the articulating surfaces of the bones. During isolated contractions of the hamstrings and gastrocnemius muscles, the model ACL is loaded from full extension to 10{$^\circ$} of flexion; the model PCL is loaded at all flexion angles greater than 10{$^\circ$}. Isolated contractions of the flexor muscles cannot unload the ACL near full extension, as the behavior of the ACL in this region is governed by the shapes of the bones. At 10{$^\circ$} of flexion or greater, the overall pattern of PCL force is explained by the force-length properties of the hamstrings and by the geometrical arrangement of the flexor muscles about the knee.}
@@ -7014,7 +7014,7 @@
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{A coupled view of the physical abilities of human-robot dyad for the online quantitative evaluation of assistance needs}}
@@ -7205,7 +7205,7 @@
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Computational models of the musculoskeletal system are scientific tools used to study human movement, quantify the effects of injury and disease, plan surgical interventions, or control realistic high-dimensional articulated prosthetic limbs. If the models are sufficiently accurate, they may embed complex relationships within the sensorimotor system. These potential benefits are limited by the challenge of implementing fast and accurate musculoskeletal computations. A typical hand muscle spans over 3 degrees of freedom (DOF), wrapping over complex geometrical constraints that change its moment arms and lead to complex posture-dependent variation in torque generation. Here, we report a method to accurately and efficiently calculate musculotendon length and moment arms across all physiological postures of the forearm muscles that actuate the hand and wrist. Then, we use this model to test the hypothesis that the functional similarities of muscle actions are embedded in muscle structure. The posture dependent muscle geometry, moment arms and lengths of modeled muscles were captured using autogenerating polynomials that expanded their optimal selection of terms using information measurements. The iterative process approximated 33 musculotendon actuators, each spanning up to 6 DOFs in an 18 DOF model of the human arm and hand, defined over the full physiological range of motion. Using these polynomials, the entire forearm anatomy could be computed in {$<$}10 {$\mu$}s, which is far better than what is required for real-time performance, and with low errors in moment arms (below 5\%) and lengths (below 0.4\%). Moreover, we demonstrate that the number of elements in these autogenerating polynomials does not increase exponentially with increasing muscle complexity; complexity increases linearly instead. Dimensionality reduction using the polynomial terms alone resulted in clusters comprised of muscles with similar functions, indicating the high accuracy of approximating models. We propose that this novel method of describing musculoskeletal biomechanics might further improve the applications of detailed and scalable models to describe human movement.}
@@ -7316,7 +7316,7 @@
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Musculoskeletal models provide an approach towards simulating the ability of the human body in a variety of human-robot applications. A promising use for musculoskeletal models is to model the physical capabilities of the human body, for example, estimating the strength at the hand. Several methods of modelling and representing human strength with musculoskeletal models have been used in ergonomic analysis, human-robot interaction and robotic assistance. However, it is currently unclear which methods best suit modelling and representing limb strength. This paper compares existing methods for calculating and representing the strength of the upper limb using musculoskeletal models. It then details the differences and relative advantages of the existing methods, enabling the discussion on the appropriateness of each method for particular applications.}
@@ -7403,7 +7403,7 @@
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Accurate representation of subject-specific bone anatomy in lower-limb musculoskeletal models is important for human movement analyses and simulations. Mathematical methods can reconstruct geometric bone models using incomplete imaging of bone by morphing bone model templates, but the validity of these methods has not been fully explored. The purpose of this study was to determine the minimal imaging requirements for accurate reconstruction of geometric bone models. Complete geometric pelvis and femur models of 14 healthy adults were reconstructed from magnetic resonance imaging through segmentation. From each complete bone segmentation, three sets of incomplete segmentations (set 1 being the most incomplete) were created to test the effect of imaging incompleteness on reconstruction accuracy. Geometric bone models were reconstructed from complete sets, three incomplete sets, and two motion capture-based methods. Reconstructions from (in)complete sets were generated using statistical shape modelling, followed by host-mesh and local-mesh fitting through the Musculoskeletal Atlas Project Client. Reconstructions from motion capture-based methods used positional data from skin surface markers placed atop anatomic landmarks and estimated joint centre locations as target points for statistical shape modelling and linear scaling. Accuracy was evaluated with distance error (mm) and overlapping volume similarity (\%) between complete bone segmentation and reconstructed bone models, and statistically compared using a repeated measure analysis of variance (p{$<$}0.05). Motion capture-based methods produced significantly higher distance error than reconstructions from (in)complete sets. Pelvis volume similarity reduced significantly with the level of incompleteness: complete set (92.70{\textpm}1.92\%), set 3 (85.41{\textpm}1.99\%), set 2 (81.22{\textpm}3.03\%), set 1 (62.30{\textpm}6.17\%), motion capture-based statistical shape modelling (41.18{\textpm}9.54\%), and motion capture-based linear scaling (26.80{\textpm}7.19\%). A similar trend was observed for femur volume similarity. Results indicate that imaging two relevant bone regions produces overlapping volume similarity {$>$}80\% compared to complete segmented bone models, and improve analyses and simulation over current standard practice of linear scaling musculoskeletal models.}
@@ -7447,7 +7447,7 @@
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The generation of muscle-actuated simulations that accurately represent the movement of old adults requires a model that accounts for changes in muscle properties that occur with aging. An objective of this study was to adjust the parameters of Hill-type musculo-tendon models to reflect nominal age-related changes in muscle mechanics that have been reported in the literature. A second objective was to determine whether using the parametric adjustments resulted in simulated dynamic ankle torque behavior similar to that seen in healthy old adults. The primary parameter adjustment involved decreasing maximum isometric muscle forces to account for the loss of muscle mass and specific strength with age. A review of the literature suggested the need for other modest adjustments that account for prolonged muscular deactivation, a reduction in maximum contraction velocity, greater passive muscle stiffness and increased normalized force capacity during lengthening contractions. With age-related changes incorporated, a musculo-tendon model was used to simulate isometric and isokinetic contractions of ankle plantarflexor and dorsiflexor muscles. The model predicted that ankle plantarflexion power output during 120 deg/s shortening contractions would be over 40\% lower in old adults compared to healthy young adults. These power losses with age exceed the 30\% loss in isometric strength assumed in the model but are comparable to 39--44\% reductions in ankle power outputs measured in healthy old adults of approximately 70 years of age. Thus, accounting for age-related changes in muscle properties, other than decreased maximum isometric force, may be particularly important when simulating movements that require substantial power development.}
@@ -7526,7 +7526,7 @@
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1460-2113, 0026-4423}
@@ -7586,7 +7586,7 @@
       \field{sortinit}{V}
       \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0014-0139, 1366-5847}
@@ -7646,7 +7646,7 @@
       \field{sortinit}{V}
       \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Easy-to-use collaborative robotics solutions, where human workers and robots share their skills, are entering the market, thus becoming the new frontier in industrial robotics. They allow to combine the advantages of robots, which enjoy high levels of accuracy, speed and repeatability, with the flexibility and cognitive skills of human workers. However, to achieve an efficient human--robot collaboration, several challenges need to be tackled. First, a safe interaction must be guaranteed to prevent harming humans having a direct contact with the moving robot. Additionally, to take full advantage of human skills, it is important that intuitive user interfaces are properly designed, so that human operators can easily program and interact with the robot. In this survey paper, an extensive review on human--robot collaboration in industrial environment is provided, with specific focus on issues related to physical and cognitive interaction. The commercially available solutions are also presented and the main industrial applications where collaborative robotic is advantageous are discussed, highlighting how collaborative solutions are intended to improve the efficiency of the system and which the open issue are.}
@@ -7713,7 +7713,7 @@
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Basic Liner algebra subprograms (BLAS) is a fundamental library in scientific computing. In this paper, we present a template-based optimization framework, AUGEM, which can automatically generate fully optimized assembly code for several dense linear algebra (DLA) kernels, such as GEMM, GEMV, AXPY and DOT, on varying multi-core CPUs without requiring any manual interference from developers. In particular, based on domain-specific knowledge about algorithms of the DLA kernels, we use a collection of parameterized code templates to formulate a number of commonly occurring instruction sequences within the optimized low-level C code of these DLA kernels. Then, our framework uses a specialized low-level C optimizer to identify instruction sequences that match the pre-defined code templates and thereby translates them into extremely efficient SSE/AVX instructions. The DLA kernels generated by our templatebased approach surpass the implementations of Intel MKL and AMD ACML BLAS libraries, on both Intel Sandy Bridge and AMD Piledriver processors.}
@@ -7785,7 +7785,7 @@
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Purpose Because of the difficulty in verifying the reliability and validity of grip strength there is still no consensus regarding its measurement, particularly short-term reliability. The present study was conducted to investigate the short-term reliability of grip strength measurement and the effects of posture and grip span. Methods One hundred healthy subjects (50 men, 50 women; mean age, 38.2 y; range, 22--58 y) were evaluated. Grip strength was measured twice as a single set by using a dynamometer and the mean value for each hand was recorded. First 3 sets of measurements were performed using 2 different approaches: (1) continuous measurement without rest and (2) interval measurement with a 1-minute rest after each set. Next 1 set of measurements was performed with 3 types of grip span: standard grip span (which was measured as one half the distance between the index finger tip and the metacarpophalangeal joint flexion crease at the base of the thumb), +10\% of the standard grip span, and -10\% of the standard grip span. Finally 1 set of measurements was performed in 3 postures: standing, sitting, and supine. Results During continuous measurement the grip strength decreased gradually as the number of sets increased. During interval measurement, however, there was no change among sets for both genders and each hand. On the basis of this result subsequent studies were performed using interval measurement. There was no significant difference in maximum grip strength between the standard and +10\% of standard grip span measurements; however, the -10\% of standard model gave the minimum grip strength in both genders. With regard to posture the minimum grip strength in both genders was obtained when the subject was supine, with no difference between standing and sitting. Conclusions Our study showed that interval measurement with a 1-minute rest after each set yielded a constant value; therefore, we advocate this approach for rapid evaluation of grip strength under different conditions. In addition the influence of grip span and posture should be considered to maximize data accuracy.}
@@ -7947,7 +7947,7 @@
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0195-5616, 1878-1306}
@@ -8052,7 +8052,7 @@
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{issn}{00219290}
@@ -8098,7 +8098,7 @@
       \field{sortinit}{Y}
       \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Over the past fifty years there has been considerable development in motion analysis systems and in computer simulation modelling of sports movements while the relevance and importance of functional variability of sports technique has become increasingly recognised. Technical developments for experimental work have led to increased, and still increasing, subject numbers. Increased subjects per study give better statistical power, the ability to utilise different data analyses, and thus the determination of more subtle and nuanced factors. The overall number of studies has also increased massively. Most actions in sport can, and have, been studied at some level with even the more challenging ones, such as player on player impacts, having some developing research. Computer simulation models of sports movements have ranged from simple (one or two segment) models to very complex musculoskeletal models and have used parameters ranging from the generic to individual-specific. Simple models have given insights into the key mechanics of movement while individual-specific model optimisations have been used to improve athlete performance. Our depth of understanding of the mechanics of sports techniques has increased across a wide range of sports. In the future there is likely to be more development and use of markerless motion capture, individual-specific model parameters, and more consideration of motor control aspects in the analysis of sports technique.}
@@ -8171,7 +8171,7 @@
       \field{sortinit}{Y}
       \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This paper discusses the manipulating ability of robotic mechanisms in positioning and orienting end-effectors and proposes a measure of manipulability. Some properties of this measure are obtained, the best postures of various types of manipulators are given, and a four-degree-of-freedom finger is considered from the viewpoint of the measure. The pos tures somewhat resemble those of human arms and fingers.}
@@ -8226,7 +8226,7 @@
       \field{sortinit}{Y}
       \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Many randomized heuristic derivative-free optimization methods share a framework that iteratively learns a model for promising search areas and samples solutions from the model. This paper studies a particular setting of such framework, where the model is implemented by a classification model discriminating good solutions from bad ones. This setting allows a general theoretical characterization, where critical factors to the optimization are discovered. We also prove that optimization problems with Local Lipschitz continuity can be solved in polynomial time by proper configurations of this framework. Following the critical factors, we propose the randomized coordinate shrinking classification algorithm to learn the model, forming the RACOS algorithm, for optimization in continuous and discrete domains. Experiments on the testing functions as well as on the machine learning tasks including spectral clustering and classification with Ramp loss demonstrate the effectiveness of RACOS.}
@@ -8268,7 +8268,7 @@
       \field{sortinit}{Z}
       \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Skeletal muscles transform neural control signals into forces that act upon the body segments to effect a coordinated motor task. This transformation is complex, not only because the properties of muscles are complex, but because the tendon affects the transmission of muscle force to the skeleton. This review focuses on how to synthesize basic properties of muscle and tendon to construct models applicable to studies of coordination. After a review of the properties of muscle and tendon, their integrated ability to generate force statically and dynamically is studied by formulating a generic model of the "musculotendon actuator", which has only one parameter, the ratio of tendon length at rest to muscle fiber length at rest. To illustrate the utility of the model, it is analyzed to show how this one parameter specifies whether excitation-contraction or musculotendon contraction is the rate-limiting process of force generation, whether elastic energy is stored in tendon or muscle, and whether hip- and knee-extensor actuators function as springs or dashpots during walking.}
@@ -8322,7 +8322,6 @@
       \keyw{Mathematics / Topology}
     \endentry
   \enddatalist
-  \missing{dvoretzkyTHEOREMCONVEXBODIES1961)}
 \endrefsection
 \endinput
 

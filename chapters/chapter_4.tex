@@ -1311,7 +1311,7 @@ Based on thes observations, we shall dive further into the analysis and introduc
 To interpret this ratio, consider the following cases:
 \begin{itemize}
     \item {$\text{EC}(\text{Solver}, A/B) = 1$ then this means that the solver did not have more difficulties in searching through the space $A$ than the $B$. We can say that $A$ and $B$ induced equivalent difficulties \underline{for the chosen solver}. Notice that necessarily, we should have $\text{EC}(\text{Solver}, A/A) \approx 1$ as the number of trials gets large;}
-    \item {$\text{EC}(\text{Solver}, A/B) = k > 1$, then it was globally easier for the solver to search through the larger space $A$ than $B$. We say that, for the solver, "$A$ is $k$ times more complex than $B$ for the chosen solver";}
+    \item {$\text{EC}(\text{Solver}, A/B) = k > 1$, then it was globally more difficult for the solver to search through the larger space $A$ than $B$. We say that, for the solver, ``$A$ is $k$ times more complex than $B$ for the chosen solver'';}
     \item {$\text{EC}(\text{Solver}, A/B) = k < 1$, then it was globally easier for the solver to search through the larger space $A$ than $B$ (which may be a rare case, since $B$ is assumed to be included in $A$).}
 \end{itemize}
 
