@@ -37,7 +37,7 @@
 \contentsline {section}{\numberline {3.2}The ellipsoidal shape of the force feasible set}{79}{section.3.2}%
 \contentsline {subsection}{\numberline {3.2.1}The Local Theory of Banach spaces}{82}{subsection.3.2.1}%
 \contentsline {subsection}{\numberline {3.2.2}Rewritting the force feasible set geometric construction}{85}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}Construction of the ellipsoidal approximation of force feasible sets}{88}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.3}Construction of the ellipsoidal approximation of force feasible sets}{87}{subsection.3.2.3}%
 \contentsline {section}{\numberline {3.3}Accounting for the projected volume problem}{91}{section.3.3}%
 \contentsline {subsection}{\numberline {3.3.1}Projection of unit \emph {p}-balls}{91}{subsection.3.3.1}%
 \contentsline {subsection}{\numberline {3.3.2}Leveraging the projected volume via the projection constant}{94}{subsection.3.3.2}%

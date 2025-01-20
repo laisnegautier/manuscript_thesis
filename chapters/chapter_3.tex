@@ -70,7 +70,7 @@ Consequently, neither an ellipsoid nor a polytope representation of the force fe
 In the aforementioned representations of $\mathcal{F}$, the specific models share one common characteristic: $\mathcal{T}$ is assumed to be convex and symmetric. Most results in this chapter assume symmetry of the tension feasible set, $\mathcal{T}$, which might not always be realistic in a biomechanical context. They are valid for a broad class of nested symmetric shapes, which allows us to consequently extend the results to non-symmetric convex models that can be enclosed in between two arbitrarily chosen symmetric $\mathcal{T}$ shape models. This ensures applicability to a wide range of muscle activation patterns, even those that exhibit some degree of asymmetry. While a spherical shape offers computational advantages, it underestimates the true size of the force feasible set. Conversely, a cubical shape leads to combinatorial challenges, overestimates the size, and introduces unrealistically sharp edges in the context of human biomechanics.
 
 This chapter aims to address these limitations through a deeper understanding of the mathematical formulation of force feasible sets. Our objectives are threefold:
-\begin{enumerate}[noitemsep]
+\begin{enumerate}
   \item \textbf{Decouple size and shape:}  Separate the notions of \emph{size} and \emph{shape} in $\mathcal{F}$ to gain finer control when fitting in silico models to experimental data (cf. Chapter \ref{chapter:5}). We will demonstrate that $\mathcal{F}$ inherently possesses an ellipsoidal shape, regardless of the chosen model, and that this approximation improves with the number of muscles considered.  Furthermore, we will show that the size of $\mathcal{F}$ depends on a coupling between the mean value of maximal muscle tensions and muscle path geometry.
   \item \textbf{Quantify the impact of muscle path geometry:} Analyze how muscle path geometry influences $\mathcal{F}$, and apply this analysis to determine whether personalization of muscle geometry in a scaled generic musculoskeletal model is necessary.
   \item \textbf{Provide modeling guidelines:} Offer insights into how force feasible sets should be modeled depending on the specific context.
@@ -265,7 +265,7 @@ Similarly, the concept of a quotient space can be viewed as an adaptation of the
 Consider Banach spaces $E$, $Y$, and $X$ such that $X \subset Y \subset E$. Let's examine the unit balls of $Y$, $X$, and $Y/X$.
 The unit ball of $Y$ can be derived directly from the unit ball of $E$ through intersection: $\mathcal{B}_Y := \mathcal{B}_E \cap Y$.  Similarly, for the unit ball of $X$, we have $\mathcal{B}_X = \mathcal{B}_Y \cap X = \mathcal{B}_E \cap X$, since $X \subset Y \subset E$.
 
-To determine the unit ball of the quotient space $Y/X$, we utilize Pisier's identification detailed in \cite{pisierVolumeConvexBodies1989} (in chapter 1), which suggests considering orthogonal projections rather than intersections.  Let $P_X$ be the orthogonal projection from $E$ onto $X$. Then, the unit ball of $Y/X$ can be identified with $P_X(\mathcal{B}_Y)$. Therefore, we have:
+To determine the unit ball of the quotient space $Y/X$, we utilize Pisier's identification detailed in (\cite{pisierVolumeConvexBodies1989}, Chapter 1), which suggests considering orthogonal projections rather than intersections.  Let $P_X$ be the orthogonal projection from $E$ onto $X$. Then, the unit ball of $Y/X$ can be identified with $P_X(\mathcal{B}_Y)$. Therefore, we have:
 \begin{align*}
 \mathcal{B}_{Y/X} \longleftrightarrow P_X(\mathcal{B}_E \cap Y)
 \end{align*}
@@ -359,7 +359,7 @@ As a corollary of this reformulation, we obtain a noteworthy biomechanical inter
     \dim (F\cap K) & = \dim F + \dim K - \dim (F\cup K) \\
     \implies 0 &\geq \dim F + \dim K - m \\
     \implies 0 &\geq \dim F + m-(n-p) - m\\
-    \implies n-p &\geq \dim F\\
+    \implies n-p &\geq \dim F
   \end{align*}
 
   This implies that the tension combinations producing a vertex of the force polytope lie on a face of the cube $\mathcal{T}$ with dimension at most $n-p$. Therefore, in such a combination, $m-(n-p)$ coordinates are not free; they are either at their minimal or maximal value, which is characteristic of the faces of a cube.
@@ -558,7 +558,7 @@ Therefore, we focus on the worst-case scenario, represented by the largest possi
 \end{align*}
 where the supremum is taken over all Banach spaces $Y$ containing an isometric copy of $X$ and over all isometric embeddings $I: X \rightarrow Y$. In essence, we embed the unit ball of $X$ into higher-dimensional spaces and assess the worst-case deformation of these embeddings under projection onto $X$.
 
-A key result in Banach space theory states that any finite-dimensional Banach space $X$ can be isometrically embedded into a finite-dimensional space equipped with the $\infty$-norm \cite{defantProjectionConstantsSpaces2022}. In other words, we can always find a higher-dimensional cube with a section or projection that is a linear transformation of a unit $p$-ball. This implies that finding the absolute projection constant $\lambda(X)$ is equivalent to finding the minimal projection constant from a finite-dimensional space with the $\infty$-norm onto $X$.
+A key result in Banach space theory states that any finite-dimensional Banach space $X$ can be isometrically embedded into a finite-dimensional space equipped with the $\infty$-norm (\cite{defantProjectionConstantsSpaces2022}). In other words, we can always find a higher-dimensional cube with a section or projection that is a linear transformation of a unit $p$-ball. This implies that finding the absolute projection constant $\lambda(X)$ is equivalent to finding the minimal projection constant from a finite-dimensional space with the $\infty$-norm onto $X$.
 
 Intuitively, the projection constant $\lambda(X)$ can be interpreted as a measure of the maximal distortion (in terms of volume) when projecting a $p$-ball onto $X$.
 % Once this metric is retrieved, we shall take this second $p$-ball and multiply it by the computed value to obtain a worst-case approximation (in size) of the first projected $p$-ball. In practice in the context of choosing a modeling for the tension feasible set $\mathcal{T}$, it tells us that whatever the choice of $p$ for $\mathcal{T}_p$, we can adapt the size of the torque feasible set (in volume) afterwards to fit another chosen $p$. Let's recall that the choice of $p$ can be seen as how the working biomechanician or robotician would choose to model the interactions between muscle tensions.

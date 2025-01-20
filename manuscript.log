@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.15)  15 JAN 2025 12:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.18)  20 JAN 2025 11:05
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/gautierlaisne/Documents/manuscript_thesis/manuscript.tex
-(/Users/gautierlaisne/Documents/manuscript_thesis/manuscript.tex
+**/Users/gautierlaisne/Library/CloudStorage/OneDrive-Personnel/manuscript_thesis/manuscript.tex
+(/Users/gautierlaisne/Library/CloudStorage/OneDrive-Personnel/manuscript_thesis/manuscript.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/report.cls
@@ -1648,11 +1648,11 @@ File: img/page_de_garde/Universite Bordeaux RVB-01.png Graphic file (type png)
 <use img/page_de_garde/Universite Bordeaux RVB-01.png>
 Package pdftex.def Info: img/page_de_garde/Universite Bordeaux RVB-01.png  used on input line 6.
 (pdftex.def)             Requested size: 995.71758pt x 399.49152pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 52.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 56.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 52.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 56.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
@@ -1708,11 +1708,7 @@ Non-PDF special ignored!
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
- (./chapters/abstract.tex
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 26.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-) [1
+ (./chapters/abstract.tex [1
 
 ] [2] [3
 
@@ -1761,7 +1757,7 @@ Package mdframed Info: mdframed detected package amsthm
  changed the theorem header of amsthm
 (mdframed)              on input line 49.
  [3]
-<img/chapter_1/ffs_characteristics.pdf, id=604, 385.44pt x 530.98375pt>
+<img/chapter_1/ffs_characteristics.pdf, id=603, 385.44pt x 530.98375pt>
 File: img/chapter_1/ffs_characteristics.pdf Graphic file (type pdf)
 <use img/chapter_1/ffs_characteristics.pdf>
 Package pdftex.def Info: img/chapter_1/ffs_characteristics.pdf  used on input line 67.
@@ -1797,7 +1793,7 @@ Underfull \vbox (badness 4001) has occurred while \output is active []
  [11] [12]
 
 pdfTeX warning: pdflatex (file ./img/chapter_4/general_rigid_body_model.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/chapter_4/general_rigid_body_model.pdf, id=746, 445.665pt x 159.71669pt>
+<img/chapter_4/general_rigid_body_model.pdf, id=744, 445.665pt x 159.71669pt>
 File: img/chapter_4/general_rigid_body_model.pdf Graphic file (type pdf)
 <use img/chapter_4/general_rigid_body_model.pdf>
 Package pdftex.def Info: img/chapter_4/general_rigid_body_model.pdf  used on input line 39.
@@ -1808,7 +1804,7 @@ Underfull \vbox (badness 6032) has occurred while \output is active []
  [15]
 
 pdfTeX warning: pdflatex (file ./img/chapter_1/hill_mechanical_model.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/chapter_1/hill_mechanical_model.pdf, id=828, 243.79079pt x 213.67828pt>
+<img/chapter_1/hill_mechanical_model.pdf, id=826, 243.79079pt x 213.67828pt>
 File: img/chapter_1/hill_mechanical_model.pdf Graphic file (type pdf)
 <use img/chapter_1/hill_mechanical_model.pdf>
 Package pdftex.def Info: img/chapter_1/hill_mechanical_model.pdf  used on input line 84.
@@ -1816,7 +1812,7 @@ Package pdftex.def Info: img/chapter_1/hill_mechanical_model.pdf  used on input 
 
 
 pdfTeX warning: pdflatex (file ./img/chapter_1/hill_force_length_relationship_fully_act.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/chapter_1/hill_force_length_relationship_fully_act.pdf, id=835, 223.7961pt x 137.5539pt>
+<img/chapter_1/hill_force_length_relationship_fully_act.pdf, id=833, 223.7961pt x 137.5539pt>
 File: img/chapter_1/hill_force_length_relationship_fully_act.pdf Graphic file (type pdf)
 <use img/chapter_1/hill_force_length_relationship_fully_act.pdf>
 Package pdftex.def Info: img/chapter_1/hill_force_length_relationship_fully_act.pdf  used on input line 95.
@@ -1824,7 +1820,7 @@ Package pdftex.def Info: img/chapter_1/hill_force_length_relationship_fully_act.
 
 
 pdfTeX warning: pdflatex (file ./img/chapter_1/hill_force_length_relationship_all_act.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/chapter_1/hill_force_length_relationship_all_act.pdf, id=837, 213.67828pt x 137.5539pt>
+<img/chapter_1/hill_force_length_relationship_all_act.pdf, id=835, 213.67828pt x 137.5539pt>
 File: img/chapter_1/hill_force_length_relationship_all_act.pdf Graphic file (type pdf)
 <use img/chapter_1/hill_force_length_relationship_all_act.pdf>
 Package pdftex.def Info: img/chapter_1/hill_force_length_relationship_all_act.pdf  used on input line 100.
@@ -1832,7 +1828,7 @@ Package pdftex.def Info: img/chapter_1/hill_force_length_relationship_all_act.pd
 [16 <./img/chapter_1/hill_mechanical_model.pdf>]
 
 pdfTeX warning: pdflatex (file ./img/chapter_1/hill_mechanical_force_model.drawio.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/chapter_1/hill_mechanical_force_model.drawio.pdf, id=855, 317.26529pt x 186.6975pt>
+<img/chapter_1/hill_mechanical_force_model.drawio.pdf, id=853, 317.26529pt x 186.6975pt>
 File: img/chapter_1/hill_mechanical_force_model.drawio.pdf Graphic file (type pdf)
 <use img/chapter_1/hill_mechanical_force_model.drawio.pdf>
 Package pdftex.def Info: img/chapter_1/hill_mechanical_force_model.drawio.pdf  used on input line 110.
@@ -1840,18 +1836,18 @@ Package pdftex.def Info: img/chapter_1/hill_mechanical_force_model.drawio.pdf  u
 [17 <./img/chapter_1/hill_force_length_relationship_fully_act.pdf> <./img/chapter_1/hill_force_length_relationship_all_act.pdf> <./img/chapter_1/hill_mechanical_force_model.drawio.pdf>]
 
 pdfTeX warning: pdflatex (file ./img/chapter_2/tension_set_orthotope.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/chapter_2/tension_set_orthotope.pdf, id=915, 321.11969pt x 209.8239pt>
+<img/chapter_2/tension_set_orthotope.pdf, id=913, 321.11969pt x 209.8239pt>
 File: img/chapter_2/tension_set_orthotope.pdf Graphic file (type pdf)
 <use img/chapter_2/tension_set_orthotope.pdf>
 Package pdftex.def Info: img/chapter_2/tension_set_orthotope.pdf  used on input line 148.
 (pdftex.def)             Requested size: 273.14923pt x 185.4132pt.
 [18] [19 <./img/chapter_2/tension_set_orthotope.pdf>] [20] [21] [22]
-<img/chapter_3/polytope_better_ggb.png, id=974, 1786.675pt x 1320.935pt>
+<img/chapter_3/polytope_better_ggb.png, id=972, 1786.675pt x 1320.935pt>
 File: img/chapter_3/polytope_better_ggb.png Graphic file (type png)
 <use img/chapter_3/polytope_better_ggb.png>
 Package pdftex.def Info: img/chapter_3/polytope_better_ggb.png  used on input line 269.
 (pdftex.def)             Requested size: 218.51521pt x 142.54922pt.
-<img/chapter_3/polytope_from_sphere_ggb.png, id=977, 1786.675pt x 1320.935pt>
+<img/chapter_3/polytope_from_sphere_ggb.png, id=975, 1786.675pt x 1320.935pt>
 File: img/chapter_3/polytope_from_sphere_ggb.png Graphic file (type png)
 <use img/chapter_3/polytope_from_sphere_ggb.png>
 Package pdftex.def Info: img/chapter_3/polytope_from_sphere_ggb.png  used on input line 275.
@@ -1859,7 +1855,7 @@ Package pdftex.def Info: img/chapter_3/polytope_from_sphere_ggb.png  used on inp
 
 
 pdfTeX warning: pdflatex (file ./img/chapter_2/zonotope_vertices.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/chapter_2/zonotope_vertices.pdf, id=984, 233.9139pt x 225.7233pt>
+<img/chapter_2/zonotope_vertices.pdf, id=982, 233.9139pt x 225.7233pt>
 File: img/chapter_2/zonotope_vertices.pdf Graphic file (type pdf)
 <use img/chapter_2/zonotope_vertices.pdf>
 Package pdftex.def Info: img/chapter_2/zonotope_vertices.pdf  used on input line 291.
@@ -1867,64 +1863,64 @@ Package pdftex.def Info: img/chapter_2/zonotope_vertices.pdf  used on input line
 
 
 pdfTeX warning: pdflatex (file ./img/chapter_2/zonotope_hyperplanes.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/chapter_2/zonotope_hyperplanes.pdf, id=986, 298.23419pt x 295.1025pt>
+<img/chapter_2/zonotope_hyperplanes.pdf, id=984, 298.23419pt x 295.1025pt>
 File: img/chapter_2/zonotope_hyperplanes.pdf Graphic file (type pdf)
 <use img/chapter_2/zonotope_hyperplanes.pdf>
 Package pdftex.def Info: img/chapter_2/zonotope_hyperplanes.pdf  used on input line 296.
 (pdftex.def)             Requested size: 167.30408pt x 165.55345pt.
-<img/chapter_1/Polytope inter.png, id=991, 1493.58pt x 309.40594pt>
+<img/chapter_1/Polytope inter.png, id=989, 1493.58pt x 309.40594pt>
 File: img/chapter_1/Polytope inter.png Graphic file (type png)
 <use img/chapter_1/Polytope inter.png>
 Package pdftex.def Info: img/chapter_1/Polytope inter.png  used on input line 306.
 (pdftex.def)             Requested size: 455.24411pt x 94.30493pt.
 [23 <./img/chapter_3/polytope_better_ggb.png> <./img/chapter_3/polytope_from_sphere_ggb.png>] [24 <./img/chapter_2/zonotope_vertices.pdf> <./img/chapter_2/zonotope_hyperplanes.pdf> <./img/chapter_1/Polytope inter.png>] [25] [26] [27] [28] [29]
-<img/chapter_1/hernandez_optoelectronic.png, id=1217, 459.00053pt x 524.38768pt>
+<img/chapter_1/hernandez_optoelectronic.png, id=1215, 459.00053pt x 524.38768pt>
 File: img/chapter_1/hernandez_optoelectronic.png Graphic file (type png)
 <use img/chapter_1/hernandez_optoelectronic.png>
 Package pdftex.def Info: img/chapter_1/hernandez_optoelectronic.png  used on input line 395.
 (pdftex.def)             Requested size: 182.09486pt x 208.03903pt.
  [30]
-<img/chapter_1/sasaki_force.png, id=1250, 591.20876pt x 687.56876pt>
+<img/chapter_1/sasaki_force.png, id=1248, 591.20876pt x 687.56876pt>
 File: img/chapter_1/sasaki_force.png Graphic file (type png)
 <use img/chapter_1/sasaki_force.png>
 Package pdftex.def Info: img/chapter_1/sasaki_force.png  used on input line 412.
 (pdftex.def)             Requested size: 182.09486pt x 211.76973pt.
  [31 <./img/chapter_1/hernandez_optoelectronic.png>]
-<img/chapter_1/axis_hernandez_rezzoug.png, id=1274, 1158.47089pt x 561.38304pt>
+<img/chapter_1/axis_hernandez_rezzoug.png, id=1272, 1158.47089pt x 561.38304pt>
 File: img/chapter_1/axis_hernandez_rezzoug.png Graphic file (type png)
 <use img/chapter_1/axis_hernandez_rezzoug.png>
 Package pdftex.def Info: img/chapter_1/axis_hernandez_rezzoug.png  used on input line 423.
 (pdftex.def)             Requested size: 455.24411pt x 220.60887pt.
  [32 <./img/chapter_1/sasaki_force.png (PNG copy)>] [33 <./img/chapter_1/axis_hernandez_rezzoug.png>]
-<img/chapter_1/chiaccho_pol.png, id=1321, 596.2275pt x 415.98268pt>
+<img/chapter_1/chiaccho_pol.png, id=1319, 596.2275pt x 415.98268pt>
 File: img/chapter_1/chiaccho_pol.png Graphic file (type png)
 <use img/chapter_1/chiaccho_pol.png>
 Package pdftex.def Info: img/chapter_1/chiaccho_pol.png  used on input line 454.
 (pdftex.def)             Requested size: 218.51521pt x 152.45763pt.
-<img/chapter_1/chiaccho_elli.png, id=1323, 613.43465pt x 441.7934pt>
+<img/chapter_1/chiaccho_elli.png, id=1321, 613.43465pt x 441.7934pt>
 File: img/chapter_1/chiaccho_elli.png Graphic file (type png)
 <use img/chapter_1/chiaccho_elli.png>
 Package pdftex.def Info: img/chapter_1/chiaccho_elli.png  used on input line 459.
 (pdftex.def)             Requested size: 218.51521pt x 157.37367pt.
  [34 <./img/chapter_1/chiaccho_pol.png> <./img/chapter_1/chiaccho_elli.png>]
-<img/chapter_1/rezzoug_2021.png, id=1340, 584.1825pt x 441.7934pt>
+<img/chapter_1/rezzoug_2021.png, id=1338, 584.1825pt x 441.7934pt>
 File: img/chapter_1/rezzoug_2021.png Graphic file (type png)
 <use img/chapter_1/rezzoug_2021.png>
 Package pdftex.def Info: img/chapter_1/rezzoug_2021.png  used on input line 485.
 (pdftex.def)             Requested size: 182.09486pt x 137.70955pt.
  [35 <./img/chapter_1/rezzoug_2021.png>]
-<img/chapter_1/hernandez_force.png, id=1360, 703.77214pt x 541.16464pt>
+<img/chapter_1/hernandez_force.png, id=1358, 703.77214pt x 541.16464pt>
 File: img/chapter_1/hernandez_force.png Graphic file (type png)
 <use img/chapter_1/hernandez_force.png>
 Package pdftex.def Info: img/chapter_1/hernandez_force.png  used on input line 501.
 (pdftex.def)             Requested size: 318.66948pt x 245.04121pt.
  [36 <./img/chapter_1/hernandez_force.png>]
-<img/chapter_1/sasaki_hexagon.png, id=1384, 458.14018pt x 574.28839pt>
+<img/chapter_1/sasaki_hexagon.png, id=1382, 458.14018pt x 574.28839pt>
 File: img/chapter_1/sasaki_hexagon.png Graphic file (type png)
 <use img/chapter_1/sasaki_hexagon.png>
 Package pdftex.def Info: img/chapter_1/sasaki_hexagon.png  used on input line 519.
 (pdftex.def)             Requested size: 182.09833pt x 228.2654pt.
-<img/chapter_1/oshima_force_output.png, id=1390, 422.00517pt x 550.1984pt>
+<img/chapter_1/oshima_force_output.png, id=1388, 422.00517pt x 550.1984pt>
 File: img/chapter_1/oshima_force_output.png Graphic file (type png)
 <use img/chapter_1/oshima_force_output.png>
 Package pdftex.def Info: img/chapter_1/oshima_force_output.png  used on input line 526.
@@ -1939,7 +1935,7 @@ Chapter 2.
 ]
 
 pdfTeX warning: pdflatex (file ./img/chapter_2/joint_torque_simple_2D.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/chapter_2/joint_torque_simple_2D.pdf, id=1451, 192.72pt x 133.45859pt>
+<img/chapter_2/joint_torque_simple_2D.pdf, id=1449, 192.72pt x 133.45859pt>
 File: img/chapter_2/joint_torque_simple_2D.pdf Graphic file (type pdf)
 <use img/chapter_2/joint_torque_simple_2D.pdf>
 Package pdftex.def Info: img/chapter_2/joint_torque_simple_2D.pdf  used on input line 29.
@@ -1951,7 +1947,7 @@ Package pdftex.def Info: img/chapter_2/tension_set_orthotope.pdf  used on input 
 [42 <./img/chapter_2/joint_torque_simple_2D.pdf>]
 
 pdfTeX warning: pdflatex (file ./img/chapter_2/invertible_transformation.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/chapter_2/invertible_transformation.pdf, id=1474, 716.6775pt x 213.67828pt>
+<img/chapter_2/invertible_transformation.pdf, id=1472, 716.6775pt x 213.67828pt>
 File: img/chapter_2/invertible_transformation.pdf Graphic file (type pdf)
 <use img/chapter_2/invertible_transformation.pdf>
 Package pdftex.def Info: img/chapter_2/invertible_transformation.pdf  used on input line 49.
@@ -1962,7 +1958,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [43 <./img/chapter_2/invertible_transformation.pdf>]
 
 pdfTeX warning: pdflatex (file ./img/chapter_2/zonotope_2d_4g.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/chapter_2/zonotope_2d_4g.pdf, id=1504, 219.70079pt x 219.70079pt>
+<img/chapter_2/zonotope_2d_4g.pdf, id=1502, 219.70079pt x 219.70079pt>
 File: img/chapter_2/zonotope_2d_4g.pdf Graphic file (type pdf)
 <use img/chapter_2/zonotope_2d_4g.pdf>
 Package pdftex.def Info: img/chapter_2/zonotope_2d_4g.pdf  used on input line 84.
@@ -1970,7 +1966,7 @@ Package pdftex.def Info: img/chapter_2/zonotope_2d_4g.pdf  used on input line 84
 
 
 pdfTeX warning: pdflatex (file ./img/chapter_2/zonotope_2d_4g_alt.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/chapter_2/zonotope_2d_4g_alt.pdf, id=1506, 224.7597pt x 225.7233pt>
+<img/chapter_2/zonotope_2d_4g_alt.pdf, id=1504, 224.7597pt x 225.7233pt>
 File: img/chapter_2/zonotope_2d_4g_alt.pdf Graphic file (type pdf)
 <use img/chapter_2/zonotope_2d_4g_alt.pdf>
 Package pdftex.def Info: img/chapter_2/zonotope_2d_4g_alt.pdf  used on input line 89.
@@ -1986,7 +1982,7 @@ Package pdftex.def Info: img/chapter_2/zonotope_hyperplanes.pdf  used on input l
 [44 <./img/chapter_2/zonotope_2d_4g.pdf> <./img/chapter_2/zonotope_2d_4g_alt.pdf>] [45]
 
 pdfTeX warning: pdflatex (file ./img/chapter_2/zonotope_construction_from_cube_edge_duplication.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/chapter_2/zonotope_construction_from_cube_edge_duplication.pdf, id=1567, 826.04607pt x 220.9053pt>
+<img/chapter_2/zonotope_construction_from_cube_edge_duplication.pdf, id=1565, 826.04607pt x 220.9053pt>
 File: img/chapter_2/zonotope_construction_from_cube_edge_duplication.pdf Graphic file (type pdf)
 <use img/chapter_2/zonotope_construction_from_cube_edge_duplication.pdf>
 Package pdftex.def Info: img/chapter_2/zonotope_construction_from_cube_edge_duplication.pdf  used on input line 131.
@@ -1994,7 +1990,7 @@ Package pdftex.def Info: img/chapter_2/zonotope_construction_from_cube_edge_dupl
 
 
 pdfTeX warning: pdflatex (file ./img/chapter_2/zonotope_after_cube_duplication.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/chapter_2/zonotope_after_cube_duplication.pdf, id=1570, 236.8047pt x 234.8775pt>
+<img/chapter_2/zonotope_after_cube_duplication.pdf, id=1568, 236.8047pt x 234.8775pt>
 File: img/chapter_2/zonotope_after_cube_duplication.pdf Graphic file (type pdf)
 <use img/chapter_2/zonotope_after_cube_duplication.pdf>
 Package pdftex.def Info: img/chapter_2/zonotope_after_cube_duplication.pdf  used on input line 141.
@@ -2002,7 +1998,7 @@ Package pdftex.def Info: img/chapter_2/zonotope_after_cube_duplication.pdf  used
 [46 <./img/chapter_2/zonotope_construction_from_cube_edge_duplication.pdf> <./img/chapter_2/zonotope_after_cube_duplication.pdf>]
 
 pdfTeX warning: pdflatex (file ./img/chapter_2/zonotope_edges_parallel_generator.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/chapter_2/zonotope_edges_parallel_generator.pdf, id=1605, 220.9053pt x 219.70079pt>
+<img/chapter_2/zonotope_edges_parallel_generator.pdf, id=1603, 220.9053pt x 219.70079pt>
 File: img/chapter_2/zonotope_edges_parallel_generator.pdf Graphic file (type pdf)
 <use img/chapter_2/zonotope_edges_parallel_generator.pdf>
 Package pdftex.def Info: img/chapter_2/zonotope_edges_parallel_generator.pdf  used on input line 163.
@@ -2010,7 +2006,7 @@ Package pdftex.def Info: img/chapter_2/zonotope_edges_parallel_generator.pdf  us
 
 
 pdfTeX warning: pdflatex (file ./img/chapter_2/zonotope_edges_parallel_generator_alt.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/chapter_2/zonotope_edges_parallel_generator_alt.pdf, id=1607, 219.70079pt x 219.70079pt>
+<img/chapter_2/zonotope_edges_parallel_generator_alt.pdf, id=1605, 219.70079pt x 219.70079pt>
 File: img/chapter_2/zonotope_edges_parallel_generator_alt.pdf Graphic file (type pdf)
 <use img/chapter_2/zonotope_edges_parallel_generator_alt.pdf>
 Package pdftex.def Info: img/chapter_2/zonotope_edges_parallel_generator_alt.pdf  used on input line 168.
@@ -2018,7 +2014,7 @@ Package pdftex.def Info: img/chapter_2/zonotope_edges_parallel_generator_alt.pdf
 [47 <./img/chapter_2/zonotope_edges_parallel_generator.pdf> <./img/chapter_2/zonotope_edges_parallel_generator_alt.pdf>]
 
 pdfTeX warning: pdflatex (file ./img/chapter_2/zonotope_convex_hull_lines_intro.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/chapter_2/zonotope_convex_hull_lines_intro.pdf, id=1628, 339.18718pt x 171.76169pt>
+<img/chapter_2/zonotope_convex_hull_lines_intro.pdf, id=1626, 339.18718pt x 171.76169pt>
 File: img/chapter_2/zonotope_convex_hull_lines_intro.pdf Graphic file (type pdf)
 <use img/chapter_2/zonotope_convex_hull_lines_intro.pdf>
 Package pdftex.def Info: img/chapter_2/zonotope_convex_hull_lines_intro.pdf  used on input line 191.
@@ -2026,7 +2022,7 @@ Package pdftex.def Info: img/chapter_2/zonotope_convex_hull_lines_intro.pdf  use
 
 
 pdfTeX warning: pdflatex (file ./img/chapter_2/zonotope_convex_hull_lines.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/chapter_2/zonotope_convex_hull_lines.pdf, id=1632, 783.88857pt x 215.84639pt>
+<img/chapter_2/zonotope_convex_hull_lines.pdf, id=1630, 783.88857pt x 215.84639pt>
 File: img/chapter_2/zonotope_convex_hull_lines.pdf Graphic file (type pdf)
 <use img/chapter_2/zonotope_convex_hull_lines.pdf>
 Package pdftex.def Info: img/chapter_2/zonotope_convex_hull_lines.pdf  used on input line 204.
@@ -2034,7 +2030,7 @@ Package pdftex.def Info: img/chapter_2/zonotope_convex_hull_lines.pdf  used on i
 
 
 pdfTeX warning: pdflatex (file ./img/chapter_2/zonotope_edge_elimination_repeat.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/chapter_2/zonotope_edge_elimination_repeat.pdf, id=1635, 801.95605pt x 165.7392pt>
+<img/chapter_2/zonotope_edge_elimination_repeat.pdf, id=1633, 801.95605pt x 165.7392pt>
 File: img/chapter_2/zonotope_edge_elimination_repeat.pdf Graphic file (type pdf)
 <use img/chapter_2/zonotope_edge_elimination_repeat.pdf>
 Package pdftex.def Info: img/chapter_2/zonotope_edge_elimination_repeat.pdf  used on input line 216.
@@ -2042,12 +2038,16 @@ Package pdftex.def Info: img/chapter_2/zonotope_edge_elimination_repeat.pdf  use
 [48 <./img/chapter_2/zonotope_convex_hull_lines_intro.pdf> <./img/chapter_2/zonotope_convex_hull_lines.pdf>]
 
 pdfTeX warning: pdflatex (file ./img/chapter_2/zonotope_edges_elimination_end.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/chapter_2/zonotope_edges_elimination_end.pdf, id=1670, 759.79855pt x 216.81pt>
+<img/chapter_2/zonotope_edges_elimination_end.pdf, id=1668, 759.79855pt x 216.81pt>
 File: img/chapter_2/zonotope_edges_elimination_end.pdf Graphic file (type pdf)
 <use img/chapter_2/zonotope_edges_elimination_end.pdf>
 Package pdftex.def Info: img/chapter_2/zonotope_edges_elimination_end.pdf  used on input line 228.
 (pdftex.def)             Requested size: 455.24411pt x 129.90504pt.
-[49 <./img/chapter_2/zonotope_edge_elimination_repeat.pdf> <./img/chapter_2/zonotope_edges_elimination_end.pdf>] [50
+[49 <./img/chapter_2/zonotope_edge_elimination_repeat.pdf> <./img/chapter_2/zonotope_edges_elimination_end.pdf>]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 263.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+) [50
 
 ] [51] [52] [53] [54] [55] [56] [57]
 File: img/chapter_2/zonotope_edges_parallel_generator.pdf Graphic file (type pdf)
@@ -2057,7 +2057,7 @@ Package pdftex.def Info: img/chapter_2/zonotope_edges_parallel_generator.pdf  us
 
 
 pdfTeX warning: pdflatex (file ./img/chapter_2/central_arrangement.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/chapter_2/central_arrangement.pdf, id=1844, 248.8497pt x 256.07669pt>
+<img/chapter_2/central_arrangement.pdf, id=1842, 248.8497pt x 256.07669pt>
 File: img/chapter_2/central_arrangement.pdf Graphic file (type pdf)
 <use img/chapter_2/central_arrangement.pdf>
 Package pdftex.def Info: img/chapter_2/central_arrangement.pdf  used on input line 498.
@@ -2065,7 +2065,7 @@ Package pdftex.def Info: img/chapter_2/central_arrangement.pdf  used on input li
 
 
 pdfTeX warning: pdflatex (file ./img/chapter_2/sign_vectors_zonotope.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/chapter_2/sign_vectors_zonotope.pdf, id=1846, 248.8497pt x 270.0489pt>
+<img/chapter_2/sign_vectors_zonotope.pdf, id=1844, 248.8497pt x 270.0489pt>
 File: img/chapter_2/sign_vectors_zonotope.pdf Graphic file (type pdf)
 <use img/chapter_2/sign_vectors_zonotope.pdf>
 Package pdftex.def Info: img/chapter_2/sign_vectors_zonotope.pdf  used on input line 509.
@@ -2073,7 +2073,7 @@ Package pdftex.def Info: img/chapter_2/sign_vectors_zonotope.pdf  used on input 
 
 
 pdfTeX warning: pdflatex (file ./img/chapter_2/zonotope_vertices_sign_vectors.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/chapter_2/zonotope_vertices_sign_vectors.pdf, id=1848, 355.3275pt x 311.24278pt>
+<img/chapter_2/zonotope_vertices_sign_vectors.pdf, id=1846, 355.3275pt x 311.24278pt>
 File: img/chapter_2/zonotope_vertices_sign_vectors.pdf Graphic file (type pdf)
 <use img/chapter_2/zonotope_vertices_sign_vectors.pdf>
 Package pdftex.def Info: img/chapter_2/zonotope_vertices_sign_vectors.pdf  used on input line 514.
@@ -2081,7 +2081,7 @@ Package pdftex.def Info: img/chapter_2/zonotope_vertices_sign_vectors.pdf  used 
 [58 <./img/chapter_2/central_arrangement.pdf> <./img/chapter_2/sign_vectors_zonotope.pdf> <./img/chapter_2/zonotope_vertices_sign_vectors.pdf>]
 
 pdfTeX warning: pdflatex (file ./img/chapter_2/gu_et_al_alg.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/chapter_2/gu_et_al_alg.pdf, id=1895, 658.37968pt x 260.89468pt>
+<img/chapter_2/gu_et_al_alg.pdf, id=1893, 658.37968pt x 260.89468pt>
 File: img/chapter_2/gu_et_al_alg.pdf Graphic file (type pdf)
 <use img/chapter_2/gu_et_al_alg.pdf>
 Package pdftex.def Info: img/chapter_2/gu_et_al_alg.pdf  used on input line 529.
@@ -2092,13 +2092,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [60] [61] [62]
 
 pdfTeX warning: pdflatex (file ./img/chapter_2/stinson_algo_fail.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/chapter_2/stinson_algo_fail.pdf, id=1991, 233.9139pt x 225.7233pt>
+<img/chapter_2/stinson_algo_fail.pdf, id=1989, 233.9139pt x 225.7233pt>
 File: img/chapter_2/stinson_algo_fail.pdf Graphic file (type pdf)
 <use img/chapter_2/stinson_algo_fail.pdf>
 Package pdftex.def Info: img/chapter_2/stinson_algo_fail.pdf  used on input line 678.
 (pdftex.def)             Requested size: 227.62206pt x 141.5151pt.
 [63 <./img/chapter_2/stinson_algo_fail.pdf>]
-<img/chapter_2/ich_alg.png, id=2023, 1061.46562pt x 531.48563pt>
+<img/chapter_2/ich_alg.png, id=2021, 1061.46562pt x 531.48563pt>
 File: img/chapter_2/ich_alg.png Graphic file (type png)
 <use img/chapter_2/ich_alg.png>
 Package pdftex.def Info: img/chapter_2/ich_alg.png  used on input line 705.
@@ -2106,7 +2106,7 @@ Package pdftex.def Info: img/chapter_2/ich_alg.png  used on input line 705.
  [64 <./img/chapter_2/ich_alg.png>] [65] [66] [67]
 
 pdfTeX warning: pdflatex (file ./img/chapter_2/polytope_section_zono.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/chapter_2/polytope_section_zono.pdf, id=2101, 241.86359pt x 219.70079pt>
+<img/chapter_2/polytope_section_zono.pdf, id=2099, 241.86359pt x 219.70079pt>
 File: img/chapter_2/polytope_section_zono.pdf Graphic file (type pdf)
 <use img/chapter_2/polytope_section_zono.pdf>
 Package pdftex.def Info: img/chapter_2/polytope_section_zono.pdf  used on input line 836.
@@ -2115,7 +2115,7 @@ Package pdftex.def Info: img/chapter_2/polytope_section_zono.pdf  used on input 
 
 ]
 Chapter 3.
-<img/chapter_3/chiacchioellipsoid.png, id=2135, 1786.675pt x 1320.935pt>
+<img/chapter_3/chiacchioellipsoid.png, id=2133, 1786.675pt x 1320.935pt>
 File: img/chapter_3/chiacchioellipsoid.png Graphic file (type png)
 <use img/chapter_3/chiacchioellipsoid.png>
 Package pdftex.def Info: img/chapter_3/chiacchioellipsoid.png  used on input line 13.
@@ -2130,21 +2130,24 @@ File: img/chapter_3/polytope_from_sphere_ggb.png Graphic file (type png)
 Package pdftex.def Info: img/chapter_3/polytope_from_sphere_ggb.png  used on input line 53.
 (pdftex.def)             Requested size: 223.07211pt x 145.5204pt.
  [72 <./img/chapter_3/chiacchioellipsoid.png>]
-<img/chapter_3/FFSComparisonRezzoug.png, id=2164, 1011.02719pt x 792.71156pt>
+<img/chapter_3/FFSComparisonRezzoug.png, id=2162, 1011.02719pt x 792.71156pt>
 File: img/chapter_3/FFSComparisonRezzoug.png Graphic file (type png)
 <use img/chapter_3/FFSComparisonRezzoug.png>
 Package pdftex.def Info: img/chapter_3/FFSComparisonRezzoug.png  used on input line 63.
 (pdftex.def)             Requested size: 227.62206pt x 178.46126pt.
- [73] [74 <./img/chapter_3/FFSComparisonRezzoug.png>] [75]
-<img/chapter_3/p_norms.png, id=2201, 823.075pt x 823.075pt>
+ [73]
+Underfull \vbox (badness 2469) has occurred while \output is active []
+
+ [74 <./img/chapter_3/FFSComparisonRezzoug.png>] [75] [76]
+<img/chapter_3/p_norms.png, id=2206, 823.075pt x 823.075pt>
 File: img/chapter_3/p_norms.png Graphic file (type png)
 <use img/chapter_3/p_norms.png>
 Package pdftex.def Info: img/chapter_3/p_norms.png  used on input line 123.
 (pdftex.def)             Requested size: 182.09486pt x 182.09435pt.
- [76]
+
 
 pdfTeX warning: pdflatex (file ./img/chapter_3/operator_norm.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/chapter_3/operator_norm.pdf, id=2211, 859.29025pt x 174.6525pt>
+<img/chapter_3/operator_norm.pdf, id=2209, 859.29025pt x 174.6525pt>
 File: img/chapter_3/operator_norm.pdf Graphic file (type pdf)
 <use img/chapter_3/operator_norm.pdf>
 Package pdftex.def Info: img/chapter_3/operator_norm.pdf  used on input line 146.
@@ -2152,24 +2155,21 @@ Package pdftex.def Info: img/chapter_3/operator_norm.pdf  used on input line 146
 [77 <./img/chapter_3/p_norms.png>]
 
 pdfTeX warning: pdflatex (file ./img/chapter_3/banachmazurdvoretzky.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/chapter_3/banachmazurdvoretzky.pdf, id=2225, 234.8775pt x 177.7842pt>
+<img/chapter_3/banachmazurdvoretzky.pdf, id=2222, 234.8775pt x 177.7842pt>
 File: img/chapter_3/banachmazurdvoretzky.pdf Graphic file (type pdf)
 <use img/chapter_3/banachmazurdvoretzky.pdf>
 Package pdftex.def Info: img/chapter_3/banachmazurdvoretzky.pdf  used on input line 170.
 (pdftex.def)             Requested size: 227.62206pt x 123.65558pt.
 [78 <./img/chapter_3/operator_norm.pdf>] [79 <./img/chapter_3/banachmazurdvoretzky.pdf>] [80]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 7451) has occurred while \output is active []
 
  [81] [82]
 Underfull \hbox (badness 1142) in paragraph at lines 274--274
 [][]\T1/cmr/bx/n/12 Milman's Quo-tient of Sub-space The-o-rem ([][][]Artstein-
  []
 
-[83] [84] [85] [86]
-Underfull \vbox (badness 5519) has occurred while \output is active []
-
- [87]
-<img/chapter_3/zonotopes_looks_like_ellipsoids.pdf, id=2396, 771.18387pt x 726.15204pt>
+[83] [84] [85] [86] [87]
+<img/chapter_3/zonotopes_looks_like_ellipsoids.pdf, id=2394, 771.18387pt x 726.15204pt>
 File: img/chapter_3/zonotopes_looks_like_ellipsoids.pdf Graphic file (type pdf)
 <use img/chapter_3/zonotopes_looks_like_ellipsoids.pdf>
 Package pdftex.def Info: img/chapter_3/zonotopes_looks_like_ellipsoids.pdf  used on input line 384.
@@ -2186,7 +2186,7 @@ File: img/chapter_3/zonotopes_looks_like_ellipsoids.pdf Graphic file (type pdf)
 <use img/chapter_3/zonotopes_looks_like_ellipsoids.pdf>
 Package pdftex.def Info: img/chapter_3/zonotopes_looks_like_ellipsoids.pdf  used on input line 396.
 (pdftex.def)             Requested size: 409.71692pt x 119.1565pt.
-<img/chapter_3/zonotopes_looks_like_ellipsoids_2.pdf, id=2401, 768.17819pt x 724.43199pt>
+<img/chapter_3/zonotopes_looks_like_ellipsoids_2.pdf, id=2399, 768.17819pt x 724.43199pt>
 File: img/chapter_3/zonotopes_looks_like_ellipsoids_2.pdf Graphic file (type pdf)
 <use img/chapter_3/zonotopes_looks_like_ellipsoids_2.pdf>
 Package pdftex.def Info: img/chapter_3/zonotopes_looks_like_ellipsoids_2.pdf  used on input line 409.
@@ -2203,11 +2203,14 @@ File: img/chapter_3/zonotopes_looks_like_ellipsoids_2.pdf Graphic file (type pdf
 <use img/chapter_3/zonotopes_looks_like_ellipsoids_2.pdf>
 Package pdftex.def Info: img/chapter_3/zonotopes_looks_like_ellipsoids_2.pdf  used on input line 421.
 (pdftex.def)             Requested size: 409.71692pt x 118.70448pt.
- [88 <./img/chapter_3/zonotopes_looks_like_ellipsoids.pdf>] [89 <./img/chapter_3/zonotopes_looks_like_ellipsoids_2.pdf>]
+ [88 <./img/chapter_3/zonotopes_looks_like_ellipsoids.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [89 <./img/chapter_3/zonotopes_looks_like_ellipsoids_2.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [90]
-<img/chapter_3/zonotopes_looks_like_ellipsoids_2_same_scale.pdf, id=2492, 776.2588pt x 727.03731pt>
+<img/chapter_3/zonotopes_looks_like_ellipsoids_2_same_scale.pdf, id=2490, 776.2588pt x 727.03731pt>
 File: img/chapter_3/zonotopes_looks_like_ellipsoids_2_same_scale.pdf Graphic file (type pdf)
 <use img/chapter_3/zonotopes_looks_like_ellipsoids_2_same_scale.pdf>
 Package pdftex.def Info: img/chapter_3/zonotopes_looks_like_ellipsoids_2_same_scale.pdf  used on input line 459.
@@ -2224,7 +2227,7 @@ File: img/chapter_3/zonotopes_looks_like_ellipsoids_2_same_scale.pdf Graphic fil
 <use img/chapter_3/zonotopes_looks_like_ellipsoids_2_same_scale.pdf>
 Package pdftex.def Info: img/chapter_3/zonotopes_looks_like_ellipsoids_2_same_scale.pdf  used on input line 471.
 (pdftex.def)             Requested size: 409.71692pt x 118.84006pt.
-<img/chapter_3/ellipsoids_size.pdf, id=2500, 786.67528pt x 280.0751pt>
+<img/chapter_3/ellipsoids_size.pdf, id=2498, 786.67528pt x 280.0751pt>
 File: img/chapter_3/ellipsoids_size.pdf Graphic file (type pdf)
 <use img/chapter_3/ellipsoids_size.pdf>
 Package pdftex.def Info: img/chapter_3/ellipsoids_size.pdf  used on input line 483.
@@ -2234,13 +2237,13 @@ File: img/chapter_3/ellipsoids_size.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/chapter_3/ellipsoids_size.pdf  used on input line 487.
 (pdftex.def)             Requested size: 409.71692pt x 135.41502pt.
  [91 <./img/chapter_3/zonotopes_looks_like_ellipsoids_2_same_scale.pdf>] [92 <./img/chapter_3/ellipsoids_size.pdf>]
-<img/chapter_3/myIma4_projection_cube_sphere_same_volume.pdf, id=2567, 347.60489pt x 326.96216pt>
+<img/chapter_3/myIma4_projection_cube_sphere_same_volume.pdf, id=2565, 347.60489pt x 326.96216pt>
 File: img/chapter_3/myIma4_projection_cube_sphere_same_volume.pdf Graphic file (type pdf)
 <use img/chapter_3/myIma4_projection_cube_sphere_same_volume.pdf>
 Package pdftex.def Info: img/chapter_3/myIma4_projection_cube_sphere_same_volume.pdf  used on input line 517.
 (pdftex.def)             Requested size: 227.62206pt x 214.10939pt.
  [93 <./img/chapter_3/myIma4_projection_cube_sphere_same_volume.pdf>] [94] [95]
-<img/chapter_3/myIma5_projection_constant.pdf, id=2659, 767.87598pt x 726.27028pt>
+<img/chapter_3/myIma5_projection_constant.pdf, id=2657, 767.87598pt x 726.27028pt>
 File: img/chapter_3/myIma5_projection_constant.pdf Graphic file (type pdf)
 <use img/chapter_3/myIma5_projection_constant.pdf>
 Package pdftex.def Info: img/chapter_3/myIma5_projection_constant.pdf  used on input line 610.
@@ -2277,44 +2280,44 @@ Overfull \hbox (5.96779pt too wide) in paragraph at lines 15--15
 []\T1/cmr/bx/n/17.28 Musculoskeletal model mus-cle per-son-al-iza-tion based
  []
 
-<img/chapter_4/full_stanford.png, id=2763, 338.01282pt x 310.91156pt>
+<img/chapter_4/full_stanford.png, id=2761, 338.01282pt x 310.91156pt>
 File: img/chapter_4/full_stanford.png Graphic file (type png)
 <use img/chapter_4/full_stanford.png>
 Package pdftex.def Info: img/chapter_4/full_stanford.png  used on input line 28.
 (pdftex.def)             Requested size: 91.04742pt x 95.03424pt.
 [104 <./img/chapter_4/full_stanford.png>] [105]
-<img/chapter_4/hill_model.png, id=2816, 1823.31187pt x 698.61pt>
+<img/chapter_4/hill_model.png, id=2815, 1823.31187pt x 698.61pt>
 File: img/chapter_4/hill_model.png Graphic file (type png)
 <use img/chapter_4/hill_model.png>
 Package pdftex.def Info: img/chapter_4/hill_model.png  used on input line 60.
 (pdftex.def)             Requested size: 273.14923pt x 104.65906pt.
  [106] [107 <./img/chapter_4/hill_model.png>]
-<img/chapter_4/stanford_view.png, id=2844, 201.75375pt x 408.02437pt>
+<img/chapter_4/stanford_view.png, id=2843, 201.75375pt x 408.02437pt>
 File: img/chapter_4/stanford_view.png Graphic file (type png)
 <use img/chapter_4/stanford_view.png>
 Package pdftex.def Info: img/chapter_4/stanford_view.png  used on input line 97.
 (pdftex.def)             Requested size: 81.9456pt x 165.72836pt.
-<img/chapter_4/stanford_frontal_coronal.png, id=2846, 328.97906pt x 481.04718pt>
+<img/chapter_4/stanford_frontal_coronal.png, id=2845, 328.97906pt x 481.04718pt>
 File: img/chapter_4/stanford_frontal_coronal.png Graphic file (type png)
 <use img/chapter_4/stanford_frontal_coronal.png>
 Package pdftex.def Info: img/chapter_4/stanford_frontal_coronal.png  used on input line 103.
 (pdftex.def)             Requested size: 109.2601pt x 159.759pt.
-<img/chapter_4/stanford_sagittal.png, id=2848, 198.7425pt x 490.08093pt>
+<img/chapter_4/stanford_sagittal.png, id=2847, 198.7425pt x 490.08093pt>
 File: img/chapter_4/stanford_sagittal.png Graphic file (type png)
 <use img/chapter_4/stanford_sagittal.png>
 Package pdftex.def Info: img/chapter_4/stanford_sagittal.png  used on input line 109.
 (pdftex.def)             Requested size: 68.28731pt x 168.39012pt.
-<img/chapter_4/stanford_view_pose1.png, id=2850, 309.40594pt x 316.18124pt>
+<img/chapter_4/stanford_view_pose1.png, id=2849, 309.40594pt x 316.18124pt>
 File: img/chapter_4/stanford_view_pose1.png Graphic file (type png)
 <use img/chapter_4/stanford_view_pose1.png>
 Package pdftex.def Info: img/chapter_4/stanford_view_pose1.png  used on input line 120.
 (pdftex.def)             Requested size: 81.9456pt x 83.73938pt.
-<img/chapter_4/stanford_frontal_pose1.png, id=2852, 345.54094pt x 249.18094pt>
+<img/chapter_4/stanford_frontal_pose1.png, id=2851, 345.54094pt x 249.18094pt>
 File: img/chapter_4/stanford_frontal_pose1.png Graphic file (type png)
 <use img/chapter_4/stanford_frontal_pose1.png>
 Package pdftex.def Info: img/chapter_4/stanford_frontal_pose1.png  used on input line 126.
 (pdftex.def)             Requested size: 109.2601pt x 78.78897pt.
-<img/chapter_4/stanford_sagittal_pose1.png, id=2854, 429.10312pt x 232.61906pt>
+<img/chapter_4/stanford_sagittal_pose1.png, id=2853, 429.10312pt x 232.61906pt>
 File: img/chapter_4/stanford_sagittal_pose1.png Graphic file (type png)
 <use img/chapter_4/stanford_sagittal_pose1.png>
 Package pdftex.def Info: img/chapter_4/stanford_sagittal_pose1.png  used on input line 132.
@@ -2322,30 +2325,30 @@ Package pdftex.def Info: img/chapter_4/stanford_sagittal_pose1.png  used on inpu
  [108 <./img/chapter_4/stanford_view.png> <./img/chapter_4/stanford_frontal_coronal.png> <./img/chapter_4/stanford_sagittal.png> <./img/chapter_4/stanford_view_pose1.png> <./img/chapter_4/stanford_frontal_pose1.png> <./img/chapter_4/stanford_sagittal_pose1.png>] [109] [110] [111]
 
 pdfTeX warning: pdflatex (file ./img/chapter_4/hausdorff_distance_explained.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/chapter_4/hausdorff_distance_explained.pdf, id=2918, 539.1342pt x 182.6022pt>
+<img/chapter_4/hausdorff_distance_explained.pdf, id=2917, 539.1342pt x 182.6022pt>
 File: img/chapter_4/hausdorff_distance_explained.pdf Graphic file (type pdf)
 <use img/chapter_4/hausdorff_distance_explained.pdf>
 Package pdftex.def Info: img/chapter_4/hausdorff_distance_explained.pdf  used on input line 229.
 (pdftex.def)             Requested size: 409.71692pt x 126.16315pt.
 [112]
-<img/chapter_4/chapter_4_hausdorff_sensitivity_1.pdf, id=2944, 939.51pt x 361.35pt>
+<img/chapter_4/chapter_4_hausdorff_sensitivity_1.pdf, id=2943, 939.51pt x 361.35pt>
 File: img/chapter_4/chapter_4_hausdorff_sensitivity_1.pdf Graphic file (type pdf)
 <use img/chapter_4/chapter_4_hausdorff_sensitivity_1.pdf>
 Package pdftex.def Info: img/chapter_4/chapter_4_hausdorff_sensitivity_1.pdf  used on input line 244.
 (pdftex.def)             Requested size: 455.24411pt x 183.01233pt.
  [113 <./img/chapter_4/hausdorff_distance_explained.pdf>]
-<img/chapter_4/imgs_discretization/discretization_lines_from_cube.pdf, id=2969, 580.09833pt x 207.83372pt>
+<img/chapter_4/imgs_discretization/discretization_lines_from_cube.pdf, id=2968, 580.09833pt x 207.83372pt>
 File: img/chapter_4/imgs_discretization/discretization_lines_from_cube.pdf Graphic file (type pdf)
 <use img/chapter_4/imgs_discretization/discretization_lines_from_cube.pdf>
 Package pdftex.def Info: img/chapter_4/imgs_discretization/discretization_lines_from_cube.pdf  used on input line 258.
 (pdftex.def)             Requested size: 455.24411pt x 147.3479pt.
  [114 <./img/chapter_4/chapter_4_hausdorff_sensitivity_1.pdf> <./img/chapter_4/imgs_discretization/discretization_lines_from_cube.pdf>]
-<img/chapter_4/imgs_discretization/STANFORD_POL_POSTURE_FITTING_01.pdf, id=3028, 580.09833pt x 207.83372pt>
+<img/chapter_4/imgs_discretization/STANFORD_POL_POSTURE_FITTING_01.pdf, id=3027, 580.09833pt x 207.83372pt>
 File: img/chapter_4/imgs_discretization/STANFORD_POL_POSTURE_FITTING_01.pdf Graphic file (type pdf)
 <use img/chapter_4/imgs_discretization/STANFORD_POL_POSTURE_FITTING_01.pdf>
 Package pdftex.def Info: img/chapter_4/imgs_discretization/STANFORD_POL_POSTURE_FITTING_01.pdf  used on input line 273.
 (pdftex.def)             Requested size: 455.24411pt x 147.3479pt.
-<img/chapter_4/imgs_discretization/STANFORD_POSTURE_FITTING_01.pdf, id=3034, 580.09833pt x 207.83372pt>
+<img/chapter_4/imgs_discretization/STANFORD_POSTURE_FITTING_01.pdf, id=3033, 580.09833pt x 207.83372pt>
 File: img/chapter_4/imgs_discretization/STANFORD_POSTURE_FITTING_01.pdf Graphic file (type pdf)
 <use img/chapter_4/imgs_discretization/STANFORD_POSTURE_FITTING_01.pdf>
 Package pdftex.def Info: img/chapter_4/imgs_discretization/STANFORD_POSTURE_FITTING_01.pdf  used on input line 294.
@@ -2359,63 +2362,63 @@ Overfull \hbox (3.06554pt too wide) in paragraph at lines 312--312
 Underfull \vbox (badness 7433) has occurred while \output is active []
 
  [119] [120] [121] [122] [123]
-<img/chapter_4/pose_1_view.png, id=3191, 434.37282pt x 275.52937pt>
+<img/chapter_4/pose_1_view.png, id=3190, 434.37282pt x 275.52937pt>
 File: img/chapter_4/pose_1_view.png Graphic file (type png)
 <use img/chapter_4/pose_1_view.png>
 Package pdftex.def Info: img/chapter_4/pose_1_view.png  used on input line 530.
 (pdftex.def)             Requested size: 129.74545pt x 82.29788pt.
-<img/chapter_4/pose_1_front.png, id=3193, 283.81032pt x 204.765pt>
+<img/chapter_4/pose_1_front.png, id=3192, 283.81032pt x 204.765pt>
 File: img/chapter_4/pose_1_front.png Graphic file (type png)
 <use img/chapter_4/pose_1_front.png>
 Package pdftex.def Info: img/chapter_4/pose_1_front.png  used on input line 536.
 (pdftex.def)             Requested size: 102.43095pt x 73.9028pt.
-<img/chapter_4/pose_1_side.png, id=3195, 353.82187pt x 252.945pt>
+<img/chapter_4/pose_1_side.png, id=3194, 353.82187pt x 252.945pt>
 File: img/chapter_4/pose_1_side.png Graphic file (type png)
 <use img/chapter_4/pose_1_side.png>
 Package pdftex.def Info: img/chapter_4/pose_1_side.png  used on input line 542.
 (pdftex.def)             Requested size: 109.2601pt x 78.10722pt.
-<img/chapter_4/pose_4_view.png, id=3197, 479.54156pt x 301.8778pt>
+<img/chapter_4/pose_4_view.png, id=3196, 479.54156pt x 301.8778pt>
 File: img/chapter_4/pose_4_view.png Graphic file (type png)
 <use img/chapter_4/pose_4_view.png>
 Package pdftex.def Info: img/chapter_4/pose_4_view.png  used on input line 553.
 (pdftex.def)             Requested size: 136.57462pt x 85.97618pt.
-<img/chapter_4/pose_4_front.png, id=3199, 485.56406pt x 238.64156pt>
+<img/chapter_4/pose_4_front.png, id=3198, 485.56406pt x 238.64156pt>
 File: img/chapter_4/pose_4_front.png Graphic file (type png)
 <use img/chapter_4/pose_4_front.png>
 Package pdftex.def Info: img/chapter_4/pose_4_front.png  used on input line 559.
 (pdftex.def)             Requested size: 136.57462pt x 68.5379pt.
-<img/chapter_4/pose_4_side.png, id=3201, 317.68687pt x 258.21469pt>
+<img/chapter_4/pose_4_side.png, id=3200, 317.68687pt x 258.21469pt>
 File: img/chapter_4/pose_4_side.png Graphic file (type png)
 <use img/chapter_4/pose_4_side.png>
 Package pdftex.def Info: img/chapter_4/pose_4_side.png  used on input line 565.
 (pdftex.def)             Requested size: 98.33388pt x 79.92358pt.
-<img/chapter_4/pose_6_view.png, id=3203, 325.96782pt x 304.88907pt>
+<img/chapter_4/pose_6_view.png, id=3202, 325.96782pt x 304.88907pt>
 File: img/chapter_4/pose_6_view.png Graphic file (type png)
 <use img/chapter_4/pose_6_view.png>
 Package pdftex.def Info: img/chapter_4/pose_6_view.png  used on input line 576.
 (pdftex.def)             Requested size: 95.6018pt x 89.42044pt.
-<img/chapter_4/pose_6_front.png, id=3205, 358.33875pt x 246.1697pt>
+<img/chapter_4/pose_6_front.png, id=3204, 358.33875pt x 246.1697pt>
 File: img/chapter_4/pose_6_front.png Graphic file (type png)
 <use img/chapter_4/pose_6_front.png>
 Package pdftex.def Info: img/chapter_4/pose_6_front.png  used on input line 582.
 (pdftex.def)             Requested size: 109.2601pt x 75.05722pt.
-<img/chapter_4/pose_6_side.png, id=3207, 433.62pt x 262.73157pt>
+<img/chapter_4/pose_6_side.png, id=3206, 433.62pt x 262.73157pt>
 File: img/chapter_4/pose_6_side.png Graphic file (type png)
 <use img/chapter_4/pose_6_side.png>
 Package pdftex.def Info: img/chapter_4/pose_6_side.png  used on input line 588.
 (pdftex.def)             Requested size: 122.9163pt x 76.2383pt.
  [124] [125 <./img/chapter_4/pose_1_view.png> <./img/chapter_4/pose_1_front.png> <./img/chapter_4/pose_1_side.png> <./img/chapter_4/pose_4_view.png> <./img/chapter_4/pose_4_front.png> <./img/chapter_4/pose_4_side.png> <./img/chapter_4/pose_6_view.png> <./img/chapter_4/pose_6_front.png> <./img/chapter_4/pose_6_side.png>]
-<img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_01.pdf, id=3250, 580.09833pt x 207.83372pt>
+<img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_01.pdf, id=3249, 580.09833pt x 207.83372pt>
 File: img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_01.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_01.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_01.pdf  used on input line 602.
 (pdftex.def)             Requested size: 455.24411pt x 163.10225pt.
-<img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_02.pdf, id=3252, 580.09833pt x 207.83372pt>
+<img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_02.pdf, id=3251, 580.09833pt x 207.83372pt>
 File: img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_02.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_02.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_02.pdf  used on input line 613.
 (pdftex.def)             Requested size: 455.24411pt x 163.10225pt.
-<img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_03.pdf, id=3254, 580.09833pt x 207.83372pt>
+<img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_03.pdf, id=3253, 580.09833pt x 207.83372pt>
 File: img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_03.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_03.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_03.pdf  used on input line 624.
@@ -2423,47 +2426,47 @@ Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/STANFORD_POS
  [126
 
  <./img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_01.pdf> <./img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_02.pdf> <./img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_03.pdf>]
-<img/chapter_4/pose_9_view.png, id=3312, 438.13687pt x 310.15875pt>
+<img/chapter_4/pose_9_view.png, id=3311, 438.13687pt x 310.15875pt>
 File: img/chapter_4/pose_9_view.png Graphic file (type png)
 <use img/chapter_4/pose_9_view.png>
 Package pdftex.def Info: img/chapter_4/pose_9_view.png  used on input line 658.
 (pdftex.def)             Requested size: 122.9163pt x 87.00949pt.
-<img/chapter_4/pose_9_front.png, id=3314, 279.29344pt x 320.69812pt>
+<img/chapter_4/pose_9_front.png, id=3313, 279.29344pt x 320.69812pt>
 File: img/chapter_4/pose_9_front.png Graphic file (type png)
 <use img/chapter_4/pose_9_front.png>
 Package pdftex.def Info: img/chapter_4/pose_9_front.png  used on input line 664.
 (pdftex.def)             Requested size: 95.6018pt x 109.77483pt.
-<img/chapter_4/pose_9_side.png, id=3316, 378.66469pt x 272.51813pt>
+<img/chapter_4/pose_9_side.png, id=3315, 378.66469pt x 272.51813pt>
 File: img/chapter_4/pose_9_side.png Graphic file (type png)
 <use img/chapter_4/pose_9_side.png>
 Package pdftex.def Info: img/chapter_4/pose_9_side.png  used on input line 670.
 (pdftex.def)             Requested size: 122.9163pt x 88.45921pt.
-<img/chapter_4/pose_3_view.png, id=3318, 346.29375pt x 340.27126pt>
+<img/chapter_4/pose_3_view.png, id=3317, 346.29375pt x 340.27126pt>
 File: img/chapter_4/pose_3_view.png Graphic file (type png)
 <use img/chapter_4/pose_3_view.png>
 Package pdftex.def Info: img/chapter_4/pose_3_view.png  used on input line 681.
 (pdftex.def)             Requested size: 109.2601pt x 107.35735pt.
-<img/chapter_4/pose_3_front.png, id=3320, 276.28218pt x 339.51843pt>
+<img/chapter_4/pose_3_front.png, id=3319, 276.28218pt x 339.51843pt>
 File: img/chapter_4/pose_3_front.png Graphic file (type png)
 <use img/chapter_4/pose_3_front.png>
 Package pdftex.def Info: img/chapter_4/pose_3_front.png  used on input line 687.
 (pdftex.def)             Requested size: 95.6018pt x 117.48108pt.
-<img/chapter_4/pose_3_side.png, id=3322, 264.99pt x 389.95688pt>
+<img/chapter_4/pose_3_side.png, id=3321, 264.99pt x 389.95688pt>
 File: img/chapter_4/pose_3_side.png Graphic file (type png)
 <use img/chapter_4/pose_3_side.png>
 Package pdftex.def Info: img/chapter_4/pose_3_side.png  used on input line 693.
 (pdftex.def)             Requested size: 81.9456pt x 120.58786pt.
-<img/chapter_4/pose_2_view.png, id=3324, 508.14844pt x 261.22594pt>
+<img/chapter_4/pose_2_view.png, id=3323, 508.14844pt x 261.22594pt>
 File: img/chapter_4/pose_2_view.png Graphic file (type png)
 <use img/chapter_4/pose_2_view.png>
 Package pdftex.def Info: img/chapter_4/pose_2_view.png  used on input line 704.
 (pdftex.def)             Requested size: 136.57462pt x 67.47763pt.
-<img/chapter_4/pose_2_front.png, id=3326, 271.0125pt x 287.57437pt>
+<img/chapter_4/pose_2_front.png, id=3325, 271.0125pt x 287.57437pt>
 File: img/chapter_4/pose_2_front.png Graphic file (type png)
 <use img/chapter_4/pose_2_front.png>
 Package pdftex.def Info: img/chapter_4/pose_2_front.png  used on input line 710.
 (pdftex.def)             Requested size: 95.6018pt x 101.44238pt.
-<img/chapter_4/pose_2_side.png, id=3328, 451.6875pt x 295.1025pt>
+<img/chapter_4/pose_2_side.png, id=3327, 451.6875pt x 295.1025pt>
 File: img/chapter_4/pose_2_side.png Graphic file (type png)
 <use img/chapter_4/pose_2_side.png>
 Package pdftex.def Info: img/chapter_4/pose_2_side.png  used on input line 716.
@@ -2471,17 +2474,17 @@ Package pdftex.def Info: img/chapter_4/pose_2_side.png  used on input line 716.
  [127
 
  <./img/chapter_4/pose_9_view.png> <./img/chapter_4/pose_9_front.png> <./img/chapter_4/pose_9_side.png> <./img/chapter_4/pose_3_view.png> <./img/chapter_4/pose_3_front.png> <./img/chapter_4/pose_3_side.png> <./img/chapter_4/pose_2_view.png> <./img/chapter_4/pose_2_front.png> <./img/chapter_4/pose_2_side.png>]
-<img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_04.pdf, id=3360, 580.09833pt x 207.83372pt>
+<img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_04.pdf, id=3359, 580.09833pt x 207.83372pt>
 File: img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_04.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_04.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_04.pdf  used on input line 728.
 (pdftex.def)             Requested size: 455.24411pt x 163.10225pt.
-<img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_05.pdf, id=3362, 580.09833pt x 207.83372pt>
+<img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_05.pdf, id=3361, 580.09833pt x 207.83372pt>
 File: img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_05.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_05.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_05.pdf  used on input line 739.
 (pdftex.def)             Requested size: 455.24411pt x 163.10225pt.
-<img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_06.pdf, id=3364, 580.09833pt x 207.83372pt>
+<img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_06.pdf, id=3363, 580.09833pt x 207.83372pt>
 File: img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_06.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_06.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_06.pdf  used on input line 750.
@@ -2491,82 +2494,82 @@ Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/STANFORD_POS
  <./img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_04.pdf> <./img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_05.pdf> <./img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_FITTING_06.pdf>] [129
 
 ]
-<img/chapter_4/pose_5_view.png, id=3422, 268.75406pt x 319.94531pt>
+<img/chapter_4/pose_5_view.png, id=3421, 268.75406pt x 319.94531pt>
 File: img/chapter_4/pose_5_view.png Graphic file (type png)
 <use img/chapter_4/pose_5_view.png>
 Package pdftex.def Info: img/chapter_4/pose_5_view.png  used on input line 834.
 (pdftex.def)             Requested size: 81.9456pt x 97.55144pt.
-<img/chapter_4/pose_5_front.png, id=3424, 296.60812pt x 238.64156pt>
+<img/chapter_4/pose_5_front.png, id=3423, 296.60812pt x 238.64156pt>
 File: img/chapter_4/pose_5_front.png Graphic file (type png)
 <use img/chapter_4/pose_5_front.png>
 Package pdftex.def Info: img/chapter_4/pose_5_front.png  used on input line 840.
 (pdftex.def)             Requested size: 109.2601pt x 87.90636pt.
-<img/chapter_4/pose_5_side.png, id=3426, 245.41687pt x 264.99pt>
+<img/chapter_4/pose_5_side.png, id=3425, 245.41687pt x 264.99pt>
 File: img/chapter_4/pose_5_side.png Graphic file (type png)
 <use img/chapter_4/pose_5_side.png>
 Package pdftex.def Info: img/chapter_4/pose_5_side.png  used on input line 846.
 (pdftex.def)             Requested size: 81.9456pt x 88.47803pt.
-<img/chapter_4/pose_7_view.png, id=3428, 502.87875pt x 273.27094pt>
+<img/chapter_4/pose_7_view.png, id=3427, 502.87875pt x 273.27094pt>
 File: img/chapter_4/pose_7_view.png Graphic file (type png)
 <use img/chapter_4/pose_7_view.png>
 Package pdftex.def Info: img/chapter_4/pose_7_view.png  used on input line 857.
 (pdftex.def)             Requested size: 143.40341pt x 77.92471pt.
-<img/chapter_4/pose_7_front.png, id=3430, 515.67656pt x 208.52907pt>
+<img/chapter_4/pose_7_front.png, id=3429, 515.67656pt x 208.52907pt>
 File: img/chapter_4/pose_7_front.png Graphic file (type png)
 <use img/chapter_4/pose_7_front.png>
 Package pdftex.def Info: img/chapter_4/pose_7_front.png  used on input line 863.
 (pdftex.def)             Requested size: 159.33821pt x 64.43333pt.
-<img/chapter_4/pose_7_side.png, id=3432, 359.09157pt x 250.68657pt>
+<img/chapter_4/pose_7_side.png, id=3431, 359.09157pt x 250.68657pt>
 File: img/chapter_4/pose_7_side.png Graphic file (type png)
 <use img/chapter_4/pose_7_side.png>
 Package pdftex.def Info: img/chapter_4/pose_7_side.png  used on input line 869.
 (pdftex.def)             Requested size: 102.42921pt x 71.50761pt.
-<img/chapter_4/pose_8_view.png, id=3434, 457.71pt x 277.78781pt>
+<img/chapter_4/pose_8_view.png, id=3433, 457.71pt x 277.78781pt>
 File: img/chapter_4/pose_8_view.png Graphic file (type png)
 <use img/chapter_4/pose_8_view.png>
 Package pdftex.def Info: img/chapter_4/pose_8_view.png  used on input line 880.
 (pdftex.def)             Requested size: 143.40341pt x 87.03311pt.
-<img/chapter_4/pose_8_front.png, id=3436, 367.3725pt x 268.75406pt>
+<img/chapter_4/pose_8_front.png, id=3435, 367.3725pt x 268.75406pt>
 File: img/chapter_4/pose_8_front.png Graphic file (type png)
 <use img/chapter_4/pose_8_front.png>
 Package pdftex.def Info: img/chapter_4/pose_8_front.png  used on input line 886.
 (pdftex.def)             Requested size: 127.47105pt x 93.25336pt.
-<img/chapter_4/pose_8_side.png, id=3438, 381.67593pt x 252.945pt>
+<img/chapter_4/pose_8_side.png, id=3437, 381.67593pt x 252.945pt>
 File: img/chapter_4/pose_8_side.png Graphic file (type png)
 <use img/chapter_4/pose_8_side.png>
 Package pdftex.def Info: img/chapter_4/pose_8_side.png  used on input line 892.
 (pdftex.def)             Requested size: 113.81102pt x 75.42479pt.
-<img/chapter_4/pose_10_view.png, id=3440, 399.74344pt x 291.33844pt>
+<img/chapter_4/pose_10_view.png, id=3439, 399.74344pt x 291.33844pt>
 File: img/chapter_4/pose_10_view.png Graphic file (type png)
 <use img/chapter_4/pose_10_view.png>
 Package pdftex.def Info: img/chapter_4/pose_10_view.png  used on input line 903.
 (pdftex.def)             Requested size: 109.2601pt x 79.62709pt.
-<img/chapter_4/pose_10_front.png, id=3442, 292.84406pt x 231.11343pt>
+<img/chapter_4/pose_10_front.png, id=3441, 292.84406pt x 231.11343pt>
 File: img/chapter_4/pose_10_front.png Graphic file (type png)
 <use img/chapter_4/pose_10_front.png>
 Package pdftex.def Info: img/chapter_4/pose_10_front.png  used on input line 909.
 (pdftex.def)             Requested size: 109.2601pt x 86.23003pt.
-<img/chapter_4/pose_10_side.png, id=3444, 456.20438pt x 316.18124pt>
+<img/chapter_4/pose_10_side.png, id=3443, 456.20438pt x 316.18124pt>
 File: img/chapter_4/pose_10_side.png Graphic file (type png)
 <use img/chapter_4/pose_10_side.png>
 Package pdftex.def Info: img/chapter_4/pose_10_side.png  used on input line 915.
 (pdftex.def)             Requested size: 122.9163pt x 85.18674pt.
-<img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_VAL_01.pdf, id=3446, 580.09833pt x 207.83372pt>
+<img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_VAL_01.pdf, id=3445, 580.09833pt x 207.83372pt>
 File: img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_VAL_01.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_VAL_01.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_VAL_01.pdf  used on input line 928.
 (pdftex.def)             Requested size: 455.24411pt x 163.10225pt.
-<img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_VAL_02.pdf, id=3448, 580.09833pt x 207.83372pt>
+<img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_VAL_02.pdf, id=3447, 580.09833pt x 207.83372pt>
 File: img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_VAL_02.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_VAL_02.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_VAL_02.pdf  used on input line 939.
 (pdftex.def)             Requested size: 455.24411pt x 163.10225pt.
-<img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_VAL_03.pdf, id=3450, 580.09833pt x 207.83372pt>
+<img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_VAL_03.pdf, id=3449, 580.09833pt x 207.83372pt>
 File: img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_VAL_03.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_VAL_03.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_VAL_03.pdf  used on input line 950.
 (pdftex.def)             Requested size: 455.24411pt x 163.10225pt.
-<img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_VAL_04.pdf, id=3452, 580.09833pt x 207.83372pt>
+<img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_VAL_04.pdf, id=3451, 580.09833pt x 207.83372pt>
 File: img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_VAL_04.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_VAL_04.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/STANFORD_POSTURE_VAL_04.pdf  used on input line 961.
@@ -2580,43 +2583,43 @@ Underfull \hbox (badness 10000) in paragraph at lines 1008--1008
  []
 
 [134]
-<img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p6_pen_small_output_3207074_trial_3_fitting_posture_5.pdf, id=3591, 580.09833pt x 207.83372pt>
+<img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p6_pen_small_output_3207074_trial_3_fitting_posture_5.pdf, id=3590, 580.09833pt x 207.83372pt>
 File: img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p6_pen_small_output_3207074_trial_3_fitting_posture_5.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p6_pen_small_output_3207074_trial_3_fitting_posture_5.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p6_pen_small_output_3207074_trial_3_fitting_posture_5.pdf  used on input line 1020.
 (pdftex.def)             Requested size: 364.19667pt x 130.48244pt.
-<img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p6_pen_small_output_3207074_trial_3_fitting_posture_5_with_stanford.pdf, id=3593, 580.09833pt x 207.83372pt>
+<img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p6_pen_small_output_3207074_trial_3_fitting_posture_5_with_stanford.pdf, id=3592, 580.09833pt x 207.83372pt>
 File: img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p6_pen_small_output_3207074_trial_3_fitting_posture_5_with_stanford.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p6_pen_small_output_3207074_trial_3_fitting_posture_5_with_stanford.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p6_pen_small_output_3207074_trial_3_fitting_posture_5_with_stanford.pdf  used on input line 1025.
 (pdftex.def)             Requested size: 364.19667pt x 117.87889pt.
-<img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p3_opt_medium_output_3205633_trial_5_fitting_posture_1.pdf, id=3595, 580.09833pt x 207.83372pt>
+<img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p3_opt_medium_output_3205633_trial_5_fitting_posture_1.pdf, id=3594, 580.09833pt x 207.83372pt>
 File: img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p3_opt_medium_output_3205633_trial_5_fitting_posture_1.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p3_opt_medium_output_3205633_trial_5_fitting_posture_1.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p3_opt_medium_output_3205633_trial_5_fitting_posture_1.pdf  used on input line 1039.
 (pdftex.def)             Requested size: 364.19667pt x 130.48244pt.
-<img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p3_opt_medium_output_3205633_trial_5_fitting_posture_1_with_stanford.pdf, id=3597, 580.09833pt x 207.83372pt>
+<img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p3_opt_medium_output_3205633_trial_5_fitting_posture_1_with_stanford.pdf, id=3596, 580.09833pt x 207.83372pt>
 File: img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p3_opt_medium_output_3205633_trial_5_fitting_posture_1_with_stanford.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p3_opt_medium_output_3205633_trial_5_fitting_posture_1_with_stanford.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p3_opt_medium_output_3205633_trial_5_fitting_posture_1_with_stanford.pdf  used on input line 1044.
 (pdftex.def)             Requested size: 364.19667pt x 117.87889pt.
  [135 <./img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p6_pen_small_output_3207074_trial_3_fitting_posture_5.pdf> <./img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p6_pen_small_output_3207074_trial_3_fitting_posture_5_with_stanford.pdf> <./img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p3_opt_medium_output_3205633_trial_5_fitting_posture_1.pdf> <./img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p3_opt_medium_output_3205633_trial_5_fitting_posture_1_with_stanford.pdf>]
-<img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p6_tsl_medium_output_3207082_trial_1_fitting_posture_1.pdf, id=3660, 580.09833pt x 207.83372pt>
+<img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p6_tsl_medium_output_3207082_trial_1_fitting_posture_1.pdf, id=3659, 580.09833pt x 207.83372pt>
 File: img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p6_tsl_medium_output_3207082_trial_1_fitting_posture_1.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p6_tsl_medium_output_3207082_trial_1_fitting_posture_1.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p6_tsl_medium_output_3207082_trial_1_fitting_posture_1.pdf  used on input line 1058.
 (pdftex.def)             Requested size: 364.19667pt x 130.48244pt.
-<img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p6_tsl_medium_output_3207082_trial_1_fitting_posture_1_with_stanford.pdf, id=3662, 580.09833pt x 207.83372pt>
+<img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p6_tsl_medium_output_3207082_trial_1_fitting_posture_1_with_stanford.pdf, id=3661, 580.09833pt x 207.83372pt>
 File: img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p6_tsl_medium_output_3207082_trial_1_fitting_posture_1_with_stanford.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p6_tsl_medium_output_3207082_trial_1_fitting_posture_1_with_stanford.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p6_tsl_medium_output_3207082_trial_1_fitting_posture_1_with_stanford.pdf  used on input line 1063.
 (pdftex.def)             Requested size: 364.19667pt x 117.87889pt.
-<img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p6_points_medium_output_3207004_trial_5_fitting_posture_3.pdf, id=3664, 580.09833pt x 207.83372pt>
+<img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p6_points_medium_output_3207004_trial_5_fitting_posture_3.pdf, id=3663, 580.09833pt x 207.83372pt>
 File: img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p6_points_medium_output_3207004_trial_5_fitting_posture_3.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p6_points_medium_output_3207004_trial_5_fitting_posture_3.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p6_points_medium_output_3207004_trial_5_fitting_posture_3.pdf  used on input line 1076.
 (pdftex.def)             Requested size: 364.19667pt x 130.48244pt.
-<img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p6_points_medium_output_3207004_trial_5_fitting_posture_3_with_stanford.pdf, id=3666, 580.09833pt x 207.83372pt>
+<img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p6_points_medium_output_3207004_trial_5_fitting_posture_3_with_stanford.pdf, id=3665, 580.09833pt x 207.83372pt>
 File: img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p6_points_medium_output_3207004_trial_5_fitting_posture_3_with_stanford.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p6_points_medium_output_3207004_trial_5_fitting_posture_3_with_stanford.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p6_points_medium_output_3207004_trial_5_fitting_posture_3_with_stanford.pdf  used on input line 1081.
@@ -2645,12 +2648,12 @@ Overfull \hbox (0.44319pt too wide) in paragraph at lines 1399--1400
  []$[]$ \T1/cmr/m/n/12 Pen-na-tion an-gle pa-ram-e-ters con-sis-tently pro-duce the small-est mean
  []
 
-<img/chapter_4/reconstruction_stanford_imgs/polytope_genetic_p6_pen_large_output_3215217_trial_4_fitting_posture_5.pdf, id=3772, 582.83015pt x 209.4789pt>
+<img/chapter_4/reconstruction_stanford_imgs/polytope_genetic_p6_pen_large_output_3215217_trial_4_fitting_posture_5.pdf, id=3771, 582.83015pt x 209.4789pt>
 File: img/chapter_4/reconstruction_stanford_imgs/polytope_genetic_p6_pen_large_output_3215217_trial_4_fitting_posture_5.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/polytope_genetic_p6_pen_large_output_3215217_trial_4_fitting_posture_5.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/polytope_genetic_p6_pen_large_output_3215217_trial_4_fitting_posture_5.pdf  used on input line 1408.
 (pdftex.def)             Requested size: 455.24411pt x 163.6262pt.
-<img/chapter_4/reconstruction_stanford_imgs/polytope_genetic_p6_pen_large_output_3215217_trial_4_fitting_posture_5_with_stanford.pdf, id=3774, 582.83015pt x 209.4789pt>
+<img/chapter_4/reconstruction_stanford_imgs/polytope_genetic_p6_pen_large_output_3215217_trial_4_fitting_posture_5_with_stanford.pdf, id=3773, 582.83015pt x 209.4789pt>
 File: img/chapter_4/reconstruction_stanford_imgs/polytope_genetic_p6_pen_large_output_3215217_trial_4_fitting_posture_5_with_stanford.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/polytope_genetic_p6_pen_large_output_3215217_trial_4_fitting_posture_5_with_stanford.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/polytope_genetic_p6_pen_large_output_3215217_trial_4_fitting_posture_5_with_stanford.pdf  used on input line 1413.
@@ -2659,22 +2662,22 @@ Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/polytope_gen
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [143]
-Overfull \hbox (7.15749pt too wide) in paragraph at lines 1625--1676
+Overfull \hbox (14.86894pt too wide) in paragraph at lines 1625--1676
  [][] 
  []
 
 
-Overfull \hbox (7.15749pt too wide) in paragraph at lines 1686--1737
+Overfull \hbox (14.86894pt too wide) in paragraph at lines 1686--1737
  [][] 
  []
 
 [144] [145]
-<img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p3_points_large_output_3206053_trial_4_fitting_posture_5_with_stanford.pdf, id=3896, 580.09833pt x 207.83372pt>
+<img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p3_points_large_output_3206053_trial_4_fitting_posture_5_with_stanford.pdf, id=3895, 580.09833pt x 207.83372pt>
 File: img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p3_points_large_output_3206053_trial_4_fitting_posture_5_with_stanford.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p3_points_large_output_3206053_trial_4_fitting_posture_5_with_stanford.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p3_points_large_output_3206053_trial_4_fitting_posture_5_with_stanford.pdf  used on input line 1758.
 (pdftex.def)             Requested size: 364.19667pt x 130.48244pt.
-<img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p3_points_large_output_3206053_trial_4_val_posture_4_with_stanford.pdf, id=3898, 580.09833pt x 207.83372pt>
+<img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p3_points_large_output_3206053_trial_4_val_posture_4_with_stanford.pdf, id=3897, 580.09833pt x 207.83372pt>
 File: img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p3_points_large_output_3206053_trial_4_val_posture_4_with_stanford.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p3_points_large_output_3206053_trial_4_val_posture_4_with_stanford.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p3_points_large_output_3206053_trial_4_val_posture_4_with_stanford.pdf  used on input line 1763.
@@ -2682,22 +2685,22 @@ Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/polytope_rac
  [146
 
  <./img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p3_points_large_output_3206053_trial_4_fitting_posture_5_with_stanford.pdf> <./img/chapter_4/reconstruction_stanford_imgs/polytope_racos_p3_points_large_output_3206053_trial_4_val_posture_4_with_stanford.pdf>]
-<img/chapter_4/reconstruction_stanford_imgs/polytope_genetic_p6_points_small_output_3215105_trial_2_fitting_posture_4_with_stanford.pdf, id=3936, 582.83015pt x 209.4789pt>
+<img/chapter_4/reconstruction_stanford_imgs/polytope_genetic_p6_points_small_output_3215105_trial_2_fitting_posture_4_with_stanford.pdf, id=3935, 582.83015pt x 209.4789pt>
 File: img/chapter_4/reconstruction_stanford_imgs/polytope_genetic_p6_points_small_output_3215105_trial_2_fitting_posture_4_with_stanford.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/polytope_genetic_p6_points_small_output_3215105_trial_2_fitting_posture_4_with_stanford.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/polytope_genetic_p6_points_small_output_3215105_trial_2_fitting_posture_4_with_stanford.pdf  used on input line 1779.
 (pdftex.def)             Requested size: 364.19667pt x 130.90161pt.
-<img/chapter_4/reconstruction_stanford_imgs/polytope_genetic_p6_points_small_output_3215105_trial_2_val_posture_2_with_stanford.pdf, id=3938, 582.83015pt x 209.4789pt>
+<img/chapter_4/reconstruction_stanford_imgs/polytope_genetic_p6_points_small_output_3215105_trial_2_val_posture_2_with_stanford.pdf, id=3937, 582.83015pt x 209.4789pt>
 File: img/chapter_4/reconstruction_stanford_imgs/polytope_genetic_p6_points_small_output_3215105_trial_2_val_posture_2_with_stanford.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/polytope_genetic_p6_points_small_output_3215105_trial_2_val_posture_2_with_stanford.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/polytope_genetic_p6_points_small_output_3215105_trial_2_val_posture_2_with_stanford.pdf  used on input line 1784.
 (pdftex.def)             Requested size: 364.19667pt x 130.90161pt.
-<img/chapter_4/reconstruction_stanford_imgs/polytope_genetic_p6_force_small_output_3215117_trial_4_fitting_posture_2_with_stanford.pdf, id=3940, 582.83015pt x 209.4789pt>
+<img/chapter_4/reconstruction_stanford_imgs/polytope_genetic_p6_force_small_output_3215117_trial_4_fitting_posture_2_with_stanford.pdf, id=3939, 582.83015pt x 209.4789pt>
 File: img/chapter_4/reconstruction_stanford_imgs/polytope_genetic_p6_force_small_output_3215117_trial_4_fitting_posture_2_with_stanford.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/polytope_genetic_p6_force_small_output_3215117_trial_4_fitting_posture_2_with_stanford.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/polytope_genetic_p6_force_small_output_3215117_trial_4_fitting_posture_2_with_stanford.pdf  used on input line 1797.
 (pdftex.def)             Requested size: 364.19667pt x 130.90161pt.
-<img/chapter_4/reconstruction_stanford_imgs/polytope_genetic_p6_force_small_output_3215117_trial_4_val_posture_2_with_stanford.pdf, id=3942, 582.83015pt x 209.4789pt>
+<img/chapter_4/reconstruction_stanford_imgs/polytope_genetic_p6_force_small_output_3215117_trial_4_val_posture_2_with_stanford.pdf, id=3941, 582.83015pt x 209.4789pt>
 File: img/chapter_4/reconstruction_stanford_imgs/polytope_genetic_p6_force_small_output_3215117_trial_4_val_posture_2_with_stanford.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/polytope_genetic_p6_force_small_output_3215117_trial_4_val_posture_2_with_stanford.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/polytope_genetic_p6_force_small_output_3215117_trial_4_val_posture_2_with_stanford.pdf  used on input line 1802.
@@ -2715,17 +2718,17 @@ Overfull \hbox (12.74838pt too wide) in paragraph at lines 1819--1820
 [148] [149] [150
 
 ]
-<img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_FITTING_01.pdf, id=4135, 580.09833pt x 207.83372pt>
+<img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_FITTING_01.pdf, id=4134, 580.09833pt x 207.83372pt>
 File: img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_FITTING_01.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_FITTING_01.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_FITTING_01.pdf  used on input line 1858.
 (pdftex.def)             Requested size: 455.24411pt x 163.10225pt.
-<img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_FITTING_02.pdf, id=4137, 580.09833pt x 207.83372pt>
+<img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_FITTING_02.pdf, id=4136, 580.09833pt x 207.83372pt>
 File: img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_FITTING_02.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_FITTING_02.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_FITTING_02.pdf  used on input line 1869.
 (pdftex.def)             Requested size: 455.24411pt x 163.10225pt.
-<img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_FITTING_03.pdf, id=4139, 580.09833pt x 207.83372pt>
+<img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_FITTING_03.pdf, id=4138, 580.09833pt x 207.83372pt>
 File: img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_FITTING_03.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_FITTING_03.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_FITTING_03.pdf  used on input line 1880.
@@ -2733,37 +2736,37 @@ Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELL
  [151
 
  <./img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_FITTING_01.pdf> <./img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_FITTING_02.pdf> <./img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_FITTING_03.pdf>]
-<img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_FITTING_04.pdf, id=4187, 580.09833pt x 207.83372pt>
+<img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_FITTING_04.pdf, id=4186, 580.09833pt x 207.83372pt>
 File: img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_FITTING_04.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_FITTING_04.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_FITTING_04.pdf  used on input line 1892.
 (pdftex.def)             Requested size: 455.24411pt x 163.10225pt.
-<img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_FITTING_05.pdf, id=4189, 580.09833pt x 207.83372pt>
+<img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_FITTING_05.pdf, id=4188, 580.09833pt x 207.83372pt>
 File: img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_FITTING_05.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_FITTING_05.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_FITTING_05.pdf  used on input line 1903.
 (pdftex.def)             Requested size: 455.24411pt x 163.10225pt.
-<img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_FITTING_06.pdf, id=4191, 580.09833pt x 207.83372pt>
+<img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_FITTING_06.pdf, id=4190, 580.09833pt x 207.83372pt>
 File: img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_FITTING_06.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_FITTING_06.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_FITTING_06.pdf  used on input line 1914.
 (pdftex.def)             Requested size: 455.24411pt x 163.10225pt.
-<img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_VAL_01.pdf, id=4193, 580.09833pt x 207.83372pt>
+<img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_VAL_01.pdf, id=4192, 580.09833pt x 207.83372pt>
 File: img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_VAL_01.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_VAL_01.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_VAL_01.pdf  used on input line 1930.
 (pdftex.def)             Requested size: 455.24411pt x 163.10225pt.
-<img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_VAL_02.pdf, id=4195, 580.09833pt x 207.83372pt>
+<img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_VAL_02.pdf, id=4194, 580.09833pt x 207.83372pt>
 File: img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_VAL_02.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_VAL_02.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_VAL_02.pdf  used on input line 1941.
 (pdftex.def)             Requested size: 455.24411pt x 163.10225pt.
-<img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_VAL_03.pdf, id=4197, 580.09833pt x 207.83372pt>
+<img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_VAL_03.pdf, id=4196, 580.09833pt x 207.83372pt>
 File: img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_VAL_03.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_VAL_03.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_VAL_03.pdf  used on input line 1952.
 (pdftex.def)             Requested size: 455.24411pt x 163.10225pt.
-<img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_VAL_04.pdf, id=4199, 580.09833pt x 207.83372pt>
+<img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_VAL_04.pdf, id=4198, 580.09833pt x 207.83372pt>
 File: img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_VAL_04.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_VAL_04.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/STANFORD_ELLIPSOID_POSTURE_VAL_04.pdf  used on input line 1963.
@@ -2780,22 +2783,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 2011--2011
  []
 
 [155]
-<img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_pen_small_output_3214911_trial_3_fitting_posture_4.pdf, id=4335, 582.83015pt x 209.4789pt>
+<img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_pen_small_output_3214911_trial_3_fitting_posture_4.pdf, id=4334, 582.83015pt x 209.4789pt>
 File: img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_pen_small_output_3214911_trial_3_fitting_posture_4.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_pen_small_output_3214911_trial_3_fitting_posture_4.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_pen_small_output_3214911_trial_3_fitting_posture_4.pdf  used on input line 2021.
 (pdftex.def)             Requested size: 364.19667pt x 130.90161pt.
-<img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_pen_small_output_3214911_trial_3_fitting_posture_4_with_stanford.pdf, id=4337, 582.83015pt x 209.4789pt>
+<img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_pen_small_output_3214911_trial_3_fitting_posture_4_with_stanford.pdf, id=4336, 582.83015pt x 209.4789pt>
 File: img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_pen_small_output_3214911_trial_3_fitting_posture_4_with_stanford.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_pen_small_output_3214911_trial_3_fitting_posture_4_with_stanford.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_pen_small_output_3214911_trial_3_fitting_posture_4_with_stanford.pdf  used on input line 2026.
 (pdftex.def)             Requested size: 364.19667pt x 118.35687pt.
-<img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_fiso_small_output_3214882_trial_4_fitting_posture_3.pdf, id=4339, 582.83015pt x 209.4789pt>
+<img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_fiso_small_output_3214882_trial_4_fitting_posture_3.pdf, id=4338, 582.83015pt x 209.4789pt>
 File: img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_fiso_small_output_3214882_trial_4_fitting_posture_3.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_fiso_small_output_3214882_trial_4_fitting_posture_3.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_fiso_small_output_3214882_trial_4_fitting_posture_3.pdf  used on input line 2039.
 (pdftex.def)             Requested size: 364.19667pt x 130.90161pt.
-<img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_fiso_small_output_3214882_trial_4_fitting_posture_3_with_stanford.pdf, id=4341, 582.83015pt x 209.4789pt>
+<img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_fiso_small_output_3214882_trial_4_fitting_posture_3_with_stanford.pdf, id=4340, 582.83015pt x 209.4789pt>
 File: img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_fiso_small_output_3214882_trial_4_fitting_posture_3_with_stanford.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_fiso_small_output_3214882_trial_4_fitting_posture_3_with_stanford.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_fiso_small_output_3214882_trial_4_fitting_posture_3_with_stanford.pdf  used on input line 2044.
@@ -2803,22 +2806,22 @@ Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/ellipsoid_ge
  [156
 
  <./img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_pen_small_output_3214911_trial_3_fitting_posture_4.pdf> <./img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_pen_small_output_3214911_trial_3_fitting_posture_4_with_stanford.pdf> <./img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_fiso_small_output_3214882_trial_4_fitting_posture_3.pdf> <./img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_fiso_small_output_3214882_trial_4_fitting_posture_3_with_stanford.pdf>]
-<img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_force_medium_output_3214991_trial_3_fitting_posture_1.pdf, id=4513, 582.83015pt x 209.4789pt>
+<img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_force_medium_output_3214991_trial_3_fitting_posture_1.pdf, id=4512, 582.83015pt x 209.4789pt>
 File: img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_force_medium_output_3214991_trial_3_fitting_posture_1.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_force_medium_output_3214991_trial_3_fitting_posture_1.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_force_medium_output_3214991_trial_3_fitting_posture_1.pdf  used on input line 2058.
 (pdftex.def)             Requested size: 364.19667pt x 130.90161pt.
-<img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_force_medium_output_3214991_trial_3_fitting_posture_1_with_stanford.pdf, id=4515, 582.83015pt x 209.4789pt>
+<img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_force_medium_output_3214991_trial_3_fitting_posture_1_with_stanford.pdf, id=4514, 582.83015pt x 209.4789pt>
 File: img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_force_medium_output_3214991_trial_3_fitting_posture_1_with_stanford.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_force_medium_output_3214991_trial_3_fitting_posture_1_with_stanford.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_force_medium_output_3214991_trial_3_fitting_posture_1_with_stanford.pdf  used on input line 2063.
 (pdftex.def)             Requested size: 364.19667pt x 118.35687pt.
-<img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_opt_large_output_3215011_trial_3_val_posture_1.pdf, id=4517, 582.83015pt x 209.4789pt>
+<img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_opt_large_output_3215011_trial_3_val_posture_1.pdf, id=4516, 582.83015pt x 209.4789pt>
 File: img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_opt_large_output_3215011_trial_3_val_posture_1.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_opt_large_output_3215011_trial_3_val_posture_1.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_opt_large_output_3215011_trial_3_val_posture_1.pdf  used on input line 2077.
 (pdftex.def)             Requested size: 364.19667pt x 130.90161pt.
-<img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_opt_large_output_3215011_trial_3_val_posture_1_with_stanford.pdf, id=4519, 582.83015pt x 209.4789pt>
+<img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_opt_large_output_3215011_trial_3_val_posture_1_with_stanford.pdf, id=4518, 582.83015pt x 209.4789pt>
 File: img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_opt_large_output_3215011_trial_3_val_posture_1_with_stanford.pdf Graphic file (type pdf)
 <use img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_opt_large_output_3215011_trial_3_val_posture_1_with_stanford.pdf>
 Package pdftex.def Info: img/chapter_4/reconstruction_stanford_imgs/ellipsoid_genetic_p3_opt_large_output_3215011_trial_3_val_posture_1_with_stanford.pdf  used on input line 2082.
@@ -2839,7 +2842,12 @@ Overfull \hbox (4.46526pt too wide) in paragraph at lines 2283--2309
 
 [160
 
-] [161] [162] [163
+] [161] [162]
+Overfull \hbox (2.11876pt too wide) in paragraph at lines 2618--2668
+ [][] 
+ []
+
+[163
 
 ] [164]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2851,32 +2859,32 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 Chapter 5.
 [169] [170]
-<img/chapter_5/chair_elevated_01_cut.jpg, id=4798, 1138.2525pt x 907.13907pt>
+<img/chapter_5/chair_elevated_01_cut.jpg, id=4797, 1138.2525pt x 907.13907pt>
 File: img/chapter_5/chair_elevated_01_cut.jpg Graphic file (type jpg)
 <use img/chapter_5/chair_elevated_01_cut.jpg>
 Package pdftex.def Info: img/chapter_5/chair_elevated_01_cut.jpg  used on input line 37.
 (pdftex.def)             Requested size: 223.07211pt x 177.77036pt.
-<img/chapter_5/chair_stabilize_shoulder_.jpg, id=4800, 1841.37938pt x 1635.10875pt>
+<img/chapter_5/chair_stabilize_shoulder_.jpg, id=4799, 1841.37938pt x 1635.10875pt>
 File: img/chapter_5/chair_stabilize_shoulder_.jpg Graphic file (type jpg)
 <use img/chapter_5/chair_stabilize_shoulder_.jpg>
 Package pdftex.def Info: img/chapter_5/chair_stabilize_shoulder_.jpg  used on input line 45.
 (pdftex.def)             Requested size: 200.76353pt x 178.26573pt.
-<img/chapter_5/ati_delta_force_torque.jpg, id=4808, 351.3125pt x 333.245pt>
+<img/chapter_5/ati_delta_force_torque.jpg, id=4807, 351.3125pt x 333.245pt>
 File: img/chapter_5/ati_delta_force_torque.jpg Graphic file (type jpg)
 <use img/chapter_5/ati_delta_force_torque.jpg>
 Package pdftex.def Info: img/chapter_5/ati_delta_force_torque.jpg  used on input line 59.
 (pdftex.def)             Requested size: 133.84462pt x 126.96492pt.
-<img/chapter_5/handle_01.jpg, id=4810, 2106.87125pt x 2819.53375pt>
+<img/chapter_5/handle_01.jpg, id=4809, 2106.87125pt x 2819.53375pt>
 File: img/chapter_5/handle_01.jpg Graphic file (type jpg)
 <use img/chapter_5/handle_01.jpg>
 Package pdftex.def Info: img/chapter_5/handle_01.jpg  used on input line 69.
 (pdftex.def)             Requested size: 100.56181pt x 134.57458pt.
-<img/chapter_5/handle_02.jpg, id=4812, 1439.3775pt x 2740.2375pt>
+<img/chapter_5/handle_02.jpg, id=4811, 1439.3775pt x 2740.2375pt>
 File: img/chapter_5/handle_02.jpg Graphic file (type jpg)
 <use img/chapter_5/handle_02.jpg>
 Package pdftex.def Info: img/chapter_5/handle_02.jpg  used on input line 74.
 (pdftex.def)             Requested size: 71.04858pt x 135.22195pt.
-<img/chapter_5/mounted_table.jpg, id=4814, 2327.69624pt x 1206.00563pt>
+<img/chapter_5/mounted_table.jpg, id=4813, 2327.69624pt x 1206.00563pt>
 File: img/chapter_5/mounted_table.jpg Graphic file (type jpg)
 <use img/chapter_5/mounted_table.jpg>
 Package pdftex.def Info: img/chapter_5/mounted_table.jpg  used on input line 87.
@@ -2889,89 +2897,89 @@ File: img/chapter_1/axis_hernandez_rezzoug.png Graphic file (type png)
 <use img/chapter_1/axis_hernandez_rezzoug.png>
 Package pdftex.def Info: img/chapter_1/axis_hernandez_rezzoug.png  used on input line 98.
 (pdftex.def)             Requested size: 409.71692pt x 198.54285pt.
-<img/chapter_5/interface_2.png, id=4839, 1064.47687pt x 576.65437pt>
+<img/chapter_5/interface_2.png, id=4838, 1064.47687pt x 576.65437pt>
 File: img/chapter_5/interface_2.png Graphic file (type png)
 <use img/chapter_5/interface_2.png>
 Package pdftex.def Info: img/chapter_5/interface_2.png  used on input line 111.
 (pdftex.def)             Requested size: 318.66948pt x 179.42232pt.
  [172 <./img/chapter_5/ati_delta_force_torque.jpg> <./img/chapter_5/handle_01.jpg> <./img/chapter_5/handle_02.jpg> <./img/chapter_5/mounted_table.jpg>] [173 <./img/chapter_5/interface_2.png>]
-<img/chapter_5/posture1_3D.png, id=4884, 528.47438pt x 331.99031pt>
+<img/chapter_5/posture1_3D.png, id=4883, 528.47438pt x 331.99031pt>
 File: img/chapter_5/posture1_3D.png Graphic file (type png)
 <use img/chapter_5/posture1_3D.png>
 Package pdftex.def Info: img/chapter_5/posture1_3D.png  used on input line 151.
 (pdftex.def)             Requested size: 136.57462pt x 85.79366pt.
-<img/chapter_5/posture1_coronal.png, id=4886, 365.86688pt x 283.0575pt>
+<img/chapter_5/posture1_coronal.png, id=4885, 365.86688pt x 283.0575pt>
 File: img/chapter_5/posture1_coronal.png Graphic file (type png)
 <use img/chapter_5/posture1_coronal.png>
 Package pdftex.def Info: img/chapter_5/posture1_coronal.png  used on input line 157.
 (pdftex.def)             Requested size: 102.43095pt x 79.24692pt.
-<img/chapter_5/posture1_sagittal.png, id=4888, 532.99126pt x 348.55219pt>
+<img/chapter_5/posture1_sagittal.png, id=4887, 532.99126pt x 348.55219pt>
 File: img/chapter_5/posture1_sagittal.png Graphic file (type png)
 <use img/chapter_5/posture1_sagittal.png>
 Package pdftex.def Info: img/chapter_5/posture1_sagittal.png  used on input line 163.
 (pdftex.def)             Requested size: 122.9163pt x 80.37805pt.
-<img/chapter_5/posture2_3D.png, id=4890, 532.23843pt x 331.2375pt>
+<img/chapter_5/posture2_3D.png, id=4889, 532.23843pt x 331.2375pt>
 File: img/chapter_5/posture2_3D.png Graphic file (type png)
 <use img/chapter_5/posture2_3D.png>
 Package pdftex.def Info: img/chapter_5/posture2_3D.png  used on input line 174.
 (pdftex.def)             Requested size: 136.57462pt x 84.9926pt.
-<img/chapter_5/posture2_coronal.png, id=4892, 440.39531pt x 281.55188pt>
+<img/chapter_5/posture2_coronal.png, id=4891, 440.39531pt x 281.55188pt>
 File: img/chapter_5/posture2_coronal.png Graphic file (type png)
 <use img/chapter_5/posture2_coronal.png>
 Package pdftex.def Info: img/chapter_5/posture2_coronal.png  used on input line 180.
 (pdftex.def)             Requested size: 129.74545pt x 82.94537pt.
-<img/chapter_5/posture2_sagittal.png, id=4894, 584.93532pt x 325.215pt>
+<img/chapter_5/posture2_sagittal.png, id=4893, 584.93532pt x 325.215pt>
 File: img/chapter_5/posture2_sagittal.png Graphic file (type png)
 <use img/chapter_5/posture2_sagittal.png>
 Package pdftex.def Info: img/chapter_5/posture2_sagittal.png  used on input line 186.
 (pdftex.def)             Requested size: 122.9163pt x 68.33685pt.
-<img/chapter_5/posture3_3D.png, id=4896, 670.00313pt x 315.42844pt>
+<img/chapter_5/posture3_3D.png, id=4895, 670.00313pt x 315.42844pt>
 File: img/chapter_5/posture3_3D.png Graphic file (type png)
 <use img/chapter_5/posture3_3D.png>
 Package pdftex.def Info: img/chapter_5/posture3_3D.png  used on input line 198.
 (pdftex.def)             Requested size: 136.57462pt x 64.29745pt.
-<img/chapter_5/posture3_coronal.png, id=4898, 618.05907pt x 280.04625pt>
+<img/chapter_5/posture3_coronal.png, id=4897, 618.05907pt x 280.04625pt>
 File: img/chapter_5/posture3_coronal.png Graphic file (type png)
 <use img/chapter_5/posture3_coronal.png>
 Package pdftex.def Info: img/chapter_5/posture3_coronal.png  used on input line 204.
 (pdftex.def)             Requested size: 136.57462pt x 61.87956pt.
-<img/chapter_5/posture3_sagittal.png, id=4900, 615.80063pt x 298.11375pt>
+<img/chapter_5/posture3_sagittal.png, id=4899, 615.80063pt x 298.11375pt>
 File: img/chapter_5/posture3_sagittal.png Graphic file (type png)
 <use img/chapter_5/posture3_sagittal.png>
 Package pdftex.def Info: img/chapter_5/posture3_sagittal.png  used on input line 210.
 (pdftex.def)             Requested size: 122.9163pt x 59.50342pt.
-<img/chapter_5/posture4_3D.png, id=4902, 347.79938pt x 425.33907pt>
+<img/chapter_5/posture4_3D.png, id=4901, 347.79938pt x 425.33907pt>
 File: img/chapter_5/posture4_3D.png Graphic file (type png)
 <use img/chapter_5/posture4_3D.png>
 Package pdftex.def Info: img/chapter_5/posture4_3D.png  used on input line 221.
 (pdftex.def)             Requested size: 95.6018pt x 116.91342pt.
-<img/chapter_5/posture4_coronal.png, id=4904, 297.36093pt x 254.45062pt>
+<img/chapter_5/posture4_coronal.png, id=4903, 297.36093pt x 254.45062pt>
 File: img/chapter_5/posture4_coronal.png Graphic file (type png)
 <use img/chapter_5/posture4_coronal.png>
 Package pdftex.def Info: img/chapter_5/posture4_coronal.png  used on input line 227.
 (pdftex.def)             Requested size: 88.77266pt x 75.95915pt.
-<img/chapter_5/posture4_sagittal.png, id=4906, 467.49657pt x 280.79906pt>
+<img/chapter_5/posture4_sagittal.png, id=4905, 467.49657pt x 280.79906pt>
 File: img/chapter_5/posture4_sagittal.png Graphic file (type png)
 <use img/chapter_5/posture4_sagittal.png>
 Package pdftex.def Info: img/chapter_5/posture4_sagittal.png  used on input line 233.
 (pdftex.def)             Requested size: 122.9163pt x 73.82867pt.
  [174 <./img/chapter_5/posture1_3D.png> <./img/chapter_5/posture1_coronal.png> <./img/chapter_5/posture1_sagittal.png> <./img/chapter_5/posture2_3D.png> <./img/chapter_5/posture2_coronal.png> <./img/chapter_5/posture2_sagittal.png>]
-<img/chapter_5/motion_capture_01.png, id=4931, 347.2975pt x 288.07625pt>
+<img/chapter_5/motion_capture_01.png, id=4930, 347.2975pt x 288.07625pt>
 File: img/chapter_5/motion_capture_01.png Graphic file (type png)
 <use img/chapter_5/motion_capture_01.png>
 Package pdftex.def Info: img/chapter_5/motion_capture_01.png  used on input line 250.
 (pdftex.def)             Requested size: 268.59235pt x 222.79962pt.
-<img/chapter_5/markers_02.jpg, id=4933, 1005.00468pt x 1568.86125pt>
+<img/chapter_5/markers_02.jpg, id=4932, 1005.00468pt x 1568.86125pt>
 File: img/chapter_5/markers_02.jpg Graphic file (type jpg)
 <use img/chapter_5/markers_02.jpg>
 Package pdftex.def Info: img/chapter_5/markers_02.jpg  used on input line 255.
 (pdftex.def)             Requested size: 142.94513pt x 223.13416pt.
-<img/chapter_5/interface_1.png, id=4936, 892.83563pt x 587.19376pt>
+<img/chapter_5/interface_1.png, id=4935, 892.83563pt x 587.19376pt>
 File: img/chapter_5/interface_1.png Graphic file (type png)
 <use img/chapter_5/interface_1.png>
 Package pdftex.def Info: img/chapter_5/interface_1.png  used on input line 268.
 (pdftex.def)             Requested size: 223.07211pt x 146.70848pt.
-<img/chapter_5/measure_03.jpg, id=4938, 3035.34pt x 2276.505pt>
+<img/chapter_5/measure_03.jpg, id=4937, 3035.34pt x 2276.505pt>
 File: img/chapter_5/measure_03.jpg Graphic file (type jpg)
 <use img/chapter_5/measure_03.jpg>
 Package pdftex.def Info: img/chapter_5/measure_03.jpg  used on input line 273.
@@ -2984,7 +2992,7 @@ LaTeX Warning: Text page 176 contains only floats.
 Underfull \vbox (badness 6842) has occurred while \output is active []
 
  [177] [178]
-<img/chapter_5/posture_1_elbow_flexion_489.pdf, id=5021, 939.51pt x 361.35pt>
+<img/chapter_5/posture_1_elbow_flexion_489.pdf, id=5020, 939.51pt x 361.35pt>
 File: img/chapter_5/posture_1_elbow_flexion_489.pdf Graphic file (type pdf)
 <use img/chapter_5/posture_1_elbow_flexion_489.pdf>
 Package pdftex.def Info: img/chapter_5/posture_1_elbow_flexion_489.pdf  used on input line 498.
@@ -3000,12 +3008,12 @@ Overfull \vbox (2.62196pt too high) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [181]
-<img/chapter_5/subject_21_ffs_posture_3.pdf, id=5052, 580.09833pt x 207.83372pt>
+<img/chapter_5/subject_21_ffs_posture_3.pdf, id=5051, 580.09833pt x 207.83372pt>
 File: img/chapter_5/subject_21_ffs_posture_3.pdf Graphic file (type pdf)
 <use img/chapter_5/subject_21_ffs_posture_3.pdf>
 Package pdftex.def Info: img/chapter_5/subject_21_ffs_posture_3.pdf  used on input line 531.
 (pdftex.def)             Requested size: 455.24411pt x 163.10225pt.
-<img/chapter_5/subject_296_ffs_posture_3.pdf, id=5054, 580.09833pt x 207.83372pt>
+<img/chapter_5/subject_296_ffs_posture_3.pdf, id=5053, 580.09833pt x 207.83372pt>
 File: img/chapter_5/subject_296_ffs_posture_3.pdf Graphic file (type pdf)
 <use img/chapter_5/subject_296_ffs_posture_3.pdf>
 Package pdftex.def Info: img/chapter_5/subject_296_ffs_posture_3.pdf  used on input line 537.
@@ -3013,23 +3021,23 @@ Package pdftex.def Info: img/chapter_5/subject_296_ffs_posture_3.pdf  used on in
  [182 <./img/chapter_5/subject_21_ffs_posture_3.pdf> <./img/chapter_5/subject_296_ffs_posture_3.pdf>]
 
 pdfTeX warning: pdflatex (file ./img/chapter_5/lowner_john_outer.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/chapter_5/lowner_john_outer.pdf, id=5094, 234.8775pt x 177.7842pt>
+<img/chapter_5/lowner_john_outer.pdf, id=5093, 234.8775pt x 177.7842pt>
 File: img/chapter_5/lowner_john_outer.pdf Graphic file (type pdf)
 <use img/chapter_5/lowner_john_outer.pdf>
 Package pdftex.def Info: img/chapter_5/lowner_john_outer.pdf  used on input line 554.
 (pdftex.def)             Requested size: 136.57462pt x 96.5343pt.
 [183 <./img/chapter_5/lowner_john_outer.pdf>]
-<img/chapter_5/subject_489_lj_ffs_posture_1.pdf, id=5129, 580.09833pt x 207.83372pt>
+<img/chapter_5/subject_489_lj_ffs_posture_1.pdf, id=5128, 580.09833pt x 207.83372pt>
 File: img/chapter_5/subject_489_lj_ffs_posture_1.pdf Graphic file (type pdf)
 <use img/chapter_5/subject_489_lj_ffs_posture_1.pdf>
 Package pdftex.def Info: img/chapter_5/subject_489_lj_ffs_posture_1.pdf  used on input line 587.
 (pdftex.def)             Requested size: 455.24411pt x 163.10225pt.
-<img/chapter_5/subject_296_lj_ffs_posture_1.pdf, id=5131, 580.09833pt x 207.83372pt>
+<img/chapter_5/subject_296_lj_ffs_posture_1.pdf, id=5130, 580.09833pt x 207.83372pt>
 File: img/chapter_5/subject_296_lj_ffs_posture_1.pdf Graphic file (type pdf)
 <use img/chapter_5/subject_296_lj_ffs_posture_1.pdf>
 Package pdftex.def Info: img/chapter_5/subject_296_lj_ffs_posture_1.pdf  used on input line 593.
 (pdftex.def)             Requested size: 455.24411pt x 163.10225pt.
-<img/chapter_5/subject_163_lj_ffs_posture_1.pdf, id=5133, 580.09833pt x 207.83372pt>
+<img/chapter_5/subject_163_lj_ffs_posture_1.pdf, id=5132, 580.09833pt x 207.83372pt>
 File: img/chapter_5/subject_163_lj_ffs_posture_1.pdf Graphic file (type pdf)
 <use img/chapter_5/subject_163_lj_ffs_posture_1.pdf>
 Package pdftex.def Info: img/chapter_5/subject_163_lj_ffs_posture_1.pdf  used on input line 599.
@@ -3050,22 +3058,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 637--637
  []
 
 [187] [188] [189]
-<img/chapter_5/subject_163_solution_7_posture_1.pdf, id=5235, 580.09833pt x 275.18317pt>
+<img/chapter_5/subject_163_solution_7_posture_1.pdf, id=5234, 580.09833pt x 275.18317pt>
 File: img/chapter_5/subject_163_solution_7_posture_1.pdf Graphic file (type pdf)
 <use img/chapter_5/subject_163_solution_7_posture_1.pdf>
 Package pdftex.def Info: img/chapter_5/subject_163_solution_7_posture_1.pdf  used on input line 761.
 (pdftex.def)             Requested size: 364.19667pt x 134.95522pt.
-<img/chapter_5/subject_163_solution_7_posture_2.pdf, id=5237, 580.09833pt x 275.18317pt>
+<img/chapter_5/subject_163_solution_7_posture_2.pdf, id=5236, 580.09833pt x 275.18317pt>
 File: img/chapter_5/subject_163_solution_7_posture_2.pdf Graphic file (type pdf)
 <use img/chapter_5/subject_163_solution_7_posture_2.pdf>
 Package pdftex.def Info: img/chapter_5/subject_163_solution_7_posture_2.pdf  used on input line 767.
 (pdftex.def)             Requested size: 364.19667pt x 134.95522pt.
-<img/chapter_5/subject_163_solution_7_posture_3.pdf, id=5239, 580.09833pt x 275.18317pt>
+<img/chapter_5/subject_163_solution_7_posture_3.pdf, id=5238, 580.09833pt x 275.18317pt>
 File: img/chapter_5/subject_163_solution_7_posture_3.pdf Graphic file (type pdf)
 <use img/chapter_5/subject_163_solution_7_posture_3.pdf>
 Package pdftex.def Info: img/chapter_5/subject_163_solution_7_posture_3.pdf  used on input line 772.
 (pdftex.def)             Requested size: 364.19667pt x 134.95522pt.
-<img/chapter_5/subject_163_solution_7_posture_4.pdf, id=5241, 580.09833pt x 275.18317pt>
+<img/chapter_5/subject_163_solution_7_posture_4.pdf, id=5240, 580.09833pt x 275.18317pt>
 File: img/chapter_5/subject_163_solution_7_posture_4.pdf Graphic file (type pdf)
 <use img/chapter_5/subject_163_solution_7_posture_4.pdf>
 Package pdftex.def Info: img/chapter_5/subject_163_solution_7_posture_4.pdf  used on input line 777.
@@ -3073,22 +3081,22 @@ Package pdftex.def Info: img/chapter_5/subject_163_solution_7_posture_4.pdf  use
  [190
 
  <./img/chapter_5/subject_163_solution_7_posture_1.pdf> <./img/chapter_5/subject_163_solution_7_posture_2.pdf> <./img/chapter_5/subject_163_solution_7_posture_3.pdf> <./img/chapter_5/subject_163_solution_7_posture_4.pdf>]
-<img/chapter_5/subject_251_solution_4_posture_1.pdf, id=5307, 580.09833pt x 275.18317pt>
+<img/chapter_5/subject_251_solution_4_posture_1.pdf, id=5306, 580.09833pt x 275.18317pt>
 File: img/chapter_5/subject_251_solution_4_posture_1.pdf Graphic file (type pdf)
 <use img/chapter_5/subject_251_solution_4_posture_1.pdf>
 Package pdftex.def Info: img/chapter_5/subject_251_solution_4_posture_1.pdf  used on input line 789.
 (pdftex.def)             Requested size: 364.19667pt x 134.95522pt.
-<img/chapter_5/subject_251_solution_4_posture_2.pdf, id=5309, 580.09833pt x 275.18317pt>
+<img/chapter_5/subject_251_solution_4_posture_2.pdf, id=5308, 580.09833pt x 275.18317pt>
 File: img/chapter_5/subject_251_solution_4_posture_2.pdf Graphic file (type pdf)
 <use img/chapter_5/subject_251_solution_4_posture_2.pdf>
 Package pdftex.def Info: img/chapter_5/subject_251_solution_4_posture_2.pdf  used on input line 795.
 (pdftex.def)             Requested size: 364.19667pt x 134.95522pt.
-<img/chapter_5/subject_251_solution_4_posture_3.pdf, id=5311, 580.09833pt x 275.18317pt>
+<img/chapter_5/subject_251_solution_4_posture_3.pdf, id=5310, 580.09833pt x 275.18317pt>
 File: img/chapter_5/subject_251_solution_4_posture_3.pdf Graphic file (type pdf)
 <use img/chapter_5/subject_251_solution_4_posture_3.pdf>
 Package pdftex.def Info: img/chapter_5/subject_251_solution_4_posture_3.pdf  used on input line 800.
 (pdftex.def)             Requested size: 364.19667pt x 134.95522pt.
-<img/chapter_5/subject_251_solution_4_posture_4.pdf, id=5313, 580.09833pt x 275.18317pt>
+<img/chapter_5/subject_251_solution_4_posture_4.pdf, id=5312, 580.09833pt x 275.18317pt>
 File: img/chapter_5/subject_251_solution_4_posture_4.pdf Graphic file (type pdf)
 <use img/chapter_5/subject_251_solution_4_posture_4.pdf>
 Package pdftex.def Info: img/chapter_5/subject_251_solution_4_posture_4.pdf  used on input line 805.
@@ -3096,22 +3104,22 @@ Package pdftex.def Info: img/chapter_5/subject_251_solution_4_posture_4.pdf  use
  [191
 
  <./img/chapter_5/subject_251_solution_4_posture_1.pdf> <./img/chapter_5/subject_251_solution_4_posture_2.pdf> <./img/chapter_5/subject_251_solution_4_posture_3.pdf> <./img/chapter_5/subject_251_solution_4_posture_4.pdf>]
-<img/chapter_5/subject_104_solution_7_posture_1.pdf, id=5375, 580.09833pt x 275.18317pt>
+<img/chapter_5/subject_104_solution_7_posture_1.pdf, id=5374, 580.09833pt x 275.18317pt>
 File: img/chapter_5/subject_104_solution_7_posture_1.pdf Graphic file (type pdf)
 <use img/chapter_5/subject_104_solution_7_posture_1.pdf>
 Package pdftex.def Info: img/chapter_5/subject_104_solution_7_posture_1.pdf  used on input line 818.
 (pdftex.def)             Requested size: 364.19667pt x 134.95522pt.
-<img/chapter_5/subject_104_solution_7_posture_2.pdf, id=5377, 580.09833pt x 275.18317pt>
+<img/chapter_5/subject_104_solution_7_posture_2.pdf, id=5376, 580.09833pt x 275.18317pt>
 File: img/chapter_5/subject_104_solution_7_posture_2.pdf Graphic file (type pdf)
 <use img/chapter_5/subject_104_solution_7_posture_2.pdf>
 Package pdftex.def Info: img/chapter_5/subject_104_solution_7_posture_2.pdf  used on input line 824.
 (pdftex.def)             Requested size: 364.19667pt x 134.95522pt.
-<img/chapter_5/subject_104_solution_7_posture_3.pdf, id=5379, 580.09833pt x 275.18317pt>
+<img/chapter_5/subject_104_solution_7_posture_3.pdf, id=5378, 580.09833pt x 275.18317pt>
 File: img/chapter_5/subject_104_solution_7_posture_3.pdf Graphic file (type pdf)
 <use img/chapter_5/subject_104_solution_7_posture_3.pdf>
 Package pdftex.def Info: img/chapter_5/subject_104_solution_7_posture_3.pdf  used on input line 829.
 (pdftex.def)             Requested size: 364.19667pt x 134.95522pt.
-<img/chapter_5/subject_104_solution_7_posture_4.pdf, id=5381, 580.09833pt x 275.18317pt>
+<img/chapter_5/subject_104_solution_7_posture_4.pdf, id=5380, 580.09833pt x 275.18317pt>
 File: img/chapter_5/subject_104_solution_7_posture_4.pdf Graphic file (type pdf)
 <use img/chapter_5/subject_104_solution_7_posture_4.pdf>
 Package pdftex.def Info: img/chapter_5/subject_104_solution_7_posture_4.pdf  used on input line 834.
@@ -3183,12 +3191,12 @@ Package logreq Info: Writing requests to 'manuscript.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  63066 strings out of 474116
- 1466024 string characters out of 5743682
- 2738720 words of memory out of 5000000
+ 1466114 string characters out of 5743682
+ 2738721 words of memory out of 5000000
  83859 multiletter control sequences out of 15000+600000
  598552 words of font info for 129 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 116i,24n,121p,2937b,2321s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 116i,24n,121p,2967b,2321s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{Hfootnote.21} has been referenced but does not exist, replaced by a fixed one
 
@@ -3253,9 +3261,9 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/mathabx-type1/matha10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/mathabx-type1/matha12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/mathabx-type1/matha6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/mathabx-type1/matha8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/mathabx-type1/mathb12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/mathabx-type1/mathx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbi1440.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx0600.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx0800.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0500.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on manuscript.pdf (225 pages, 38045839 bytes).
+Output written on manuscript.pdf (225 pages, 38049278 bytes).
 PDF statistics:
- 6116 PDF objects out of 6186 (max. 8388607)
+ 6115 PDF objects out of 6186 (max. 8388607)
  807 named destinations out of 1000 (max. 500000)
  2834 words of extra memory for PDF output out of 10000 (max. 10000000)
 
